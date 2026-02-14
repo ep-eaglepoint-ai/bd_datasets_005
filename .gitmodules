@@ -113,3 +113,7 @@
 [submodule "1sit06-container-scheduler-performance-optimization"]
 	path = 1sit06-container-scheduler-performance-optimization
 	url = https://github.com/eaglepointAiLabs/1sit06-container-scheduler-performance-optimization.git
+
+[submodule "16orin-e-commerce-order-processing-system-testing-suite"]
+	path = 16orin-e-commerce-order-processing-system-testing-suite
+	url = https://github.com/eaglepointAiLabs/16orin-e-commerce-order-processing-system-testing-suite.git
