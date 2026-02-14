@@ -65,3 +65,7 @@
 [submodule "t9idvo-prefix-count-optimization-using-sorting-and-binary-search"]
 	path = t9idvo-prefix-count-optimization-using-sorting-and-binary-search
 	url = https://github.com/eaglepointAiLabs/t9idvo-prefix-count-optimization-using-sorting-and-binary-search.git
+
+[submodule "skq1je-optimize-backend-api-performance-while-preserving-deterministic-behavior"]
+	path = skq1je-optimize-backend-api-performance-while-preserving-deterministic-behavior
+	url = https://github.com/eaglepointAiLabs/skq1je-optimize-backend-api-performance-while-preserving-deterministic-behavior.git
