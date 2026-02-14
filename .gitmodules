@@ -437,3 +437,7 @@
 [submodule "b9a5qz-optimization-of-moving-average-via-primitive-ring-buffe"]
 	path = b9a5qz-optimization-of-moving-average-via-primitive-ring-buffe
 	url = https://github.com/eaglepointAiLabs/b9a5qz-optimization-of-moving-average-via-primitive-ring-buffe.git
+
+[submodule "47xcs1-enhance-react-kanban-board"]
+	path = 47xcs1-enhance-react-kanban-board
+	url = https://github.com/eaglepointAiLabs/47xcs1-enhance-react-kanban-board.git
