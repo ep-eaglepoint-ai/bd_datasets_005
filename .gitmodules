@@ -221,3 +221,7 @@
 [submodule "4n2gyr-deterministic-event-analytics-order-independent-dedup-double-login-policy"]
 	path = 4n2gyr-deterministic-event-analytics-order-independent-dedup-double-login-policy
 	url = https://github.com/eaglepointAiLabs/4n2gyr-deterministic-event-analytics-order-independent-dedup-double-login-policy.git
+
+[submodule "yegrep-raffle-ticket-coordinator"]
+	path = yegrep-raffle-ticket-coordinator
+	url = https://github.com/eaglepointAiLabs/yegrep-raffle-ticket-coordinator.git
