@@ -49,3 +49,7 @@
 [submodule "zqy96x-implementing-a-high-performance-geo-distributed-rich-text-crdt-with-o-log-n-convergence"]
 	path = zqy96x-implementing-a-high-performance-geo-distributed-rich-text-crdt-with-o-log-n-convergence
 	url = https://github.com/eaglepointAiLabs/zqy96x-implementing-a-high-performance-geo-distributed-rich-text-crdt-with-o-log-n-convergence.git
+
+[submodule "ekpngz-sql-query-optimization-under-strict-data-integrity-constraints"]
+	path = ekpngz-sql-query-optimization-under-strict-data-integrity-constraints
+	url = https://github.com/eaglepointAiLabs/ekpngz-sql-query-optimization-under-strict-data-integrity-constraints.git
