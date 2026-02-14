@@ -345,3 +345,7 @@
 [submodule "f6olz6-deterministic-payout-event-ordering-with-dirty-input-safety"]
 	path = f6olz6-deterministic-payout-event-ordering-with-dirty-input-safety
 	url = https://github.com/eaglepointAiLabs/f6olz6-deterministic-payout-event-ordering-with-dirty-input-safety.git
+
+[submodule "d3fqph-order-processing-system-test-case-generation"]
+	path = d3fqph-order-processing-system-test-case-generation
+	url = https://github.com/eaglepointAiLabs/d3fqph-order-processing-system-test-case-generation.git
