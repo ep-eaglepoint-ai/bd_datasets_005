@@ -5,3 +5,7 @@
 [submodule "7wvk09-webhook-delivery-system"]
 	path = 7wvk09-webhook-delivery-system
 	url = https://github.com/eaglepointAiLabs/7wvk09-webhook-delivery-system.git
+
+[submodule "e7wof0-financial-transaction-processor"]
+	path = e7wof0-financial-transaction-processor
+	url = https://github.com/eaglepointAiLabs/e7wof0-financial-transaction-processor.git
