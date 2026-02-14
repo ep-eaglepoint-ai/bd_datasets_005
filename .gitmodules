@@ -341,3 +341,7 @@
 [submodule "3yfxdo-thread-safe-grpc-service-for-distributed-state-management"]
 	path = 3yfxdo-thread-safe-grpc-service-for-distributed-state-management
 	url = https://github.com/eaglepointAiLabs/3yfxdo-thread-safe-grpc-service-for-distributed-state-management.git
+
+[submodule "f6olz6-deterministic-payout-event-ordering-with-dirty-input-safety"]
+	path = f6olz6-deterministic-payout-event-ordering-with-dirty-input-safety
+	url = https://github.com/eaglepointAiLabs/f6olz6-deterministic-payout-event-ordering-with-dirty-input-safety.git
