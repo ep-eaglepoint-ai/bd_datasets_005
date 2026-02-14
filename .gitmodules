@@ -89,3 +89,7 @@
 [submodule "iepb9e-inventory-action-processor"]
 	path = iepb9e-inventory-action-processor
 	url = https://github.com/eaglepointAiLabs/iepb9e-inventory-action-processor.git
+
+[submodule "0qp2sh-python-currency-formatting-test-suites"]
+	path = 0qp2sh-python-currency-formatting-test-suites
+	url = https://github.com/eaglepointAiLabs/0qp2sh-python-currency-formatting-test-suites.git
