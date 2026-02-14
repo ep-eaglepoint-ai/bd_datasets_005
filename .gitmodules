@@ -473,3 +473,7 @@
 [submodule "qmptai-linear-time-transaction-aggregation-refactor"]
 	path = qmptai-linear-time-transaction-aggregation-refactor
 	url = https://github.com/eaglepointAiLabs/qmptai-linear-time-transaction-aggregation-refactor.git
+
+[submodule "4kmc8h-linear-time-category-tree-builder-refactor"]
+	path = 4kmc8h-linear-time-category-tree-builder-refactor
+	url = https://github.com/eaglepointAiLabs/4kmc8h-linear-time-category-tree-builder-refactor.git
