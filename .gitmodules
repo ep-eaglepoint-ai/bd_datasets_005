@@ -29,3 +29,7 @@
 [submodule "xesmgo-high-throughput-concurrent-log-aggregator-with-strict-flush-isolation-and-ordering-guarantees"]
 	path = xesmgo-high-throughput-concurrent-log-aggregator-with-strict-flush-isolation-and-ordering-guarantees
 	url = https://github.com/eaglepointAiLabs/xesmgo-high-throughput-concurrent-log-aggregator-with-strict-flush-isolation-and-ordering-guarantees.git
+
+[submodule "1n3f55-deterministic-pricing-engine-for-e-commerce-orders-items-discounts-tax-shipping-refunds"]
+	path = 1n3f55-deterministic-pricing-engine-for-e-commerce-orders-items-discounts-tax-shipping-refunds
+	url = https://github.com/eaglepointAiLabs/1n3f55-deterministic-pricing-engine-for-e-commerce-orders-items-discounts-tax-shipping-refunds.git
