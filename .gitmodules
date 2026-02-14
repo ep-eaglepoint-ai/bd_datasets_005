@@ -429,3 +429,7 @@
 [submodule "jksunc-optimize-and-clean-a-chaotic-fractal-deq-model"]
 	path = jksunc-optimize-and-clean-a-chaotic-fractal-deq-model
 	url = https://github.com/eaglepointAiLabs/jksunc-optimize-and-clean-a-chaotic-fractal-deq-model.git
+
+[submodule "lmw1bt-add-automated-test-for-billing-module-used-by-an-internal-invoicing-system"]
+	path = lmw1bt-add-automated-test-for-billing-module-used-by-an-internal-invoicing-system
+	url = https://github.com/eaglepointAiLabs/lmw1bt-add-automated-test-for-billing-module-used-by-an-internal-invoicing-system.git
