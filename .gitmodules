@@ -197,3 +197,7 @@
 [submodule "joi7yp-fix-memory-leak-and-stability-issues-in-react-stock-ticker"]
 	path = joi7yp-fix-memory-leak-and-stability-issues-in-react-stock-ticker
 	url = https://github.com/eaglepointAiLabs/joi7yp-fix-memory-leak-and-stability-issues-in-react-stock-ticker.git
+
+[submodule "9jclqv-optimize-postgresql-order-report-queries-in-node-js-service"]
+	path = 9jclqv-optimize-postgresql-order-report-queries-in-node-js-service
+	url = https://github.com/eaglepointAiLabs/9jclqv-optimize-postgresql-order-report-queries-in-node-js-service.git
