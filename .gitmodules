@@ -17,3 +17,7 @@
 [submodule "qbpf6s-implementing-wal-and-linearizable-handshakes"]
 	path = qbpf6s-implementing-wal-and-linearizable-handshakes
 	url = https://github.com/eaglepointAiLabs/qbpf6s-implementing-wal-and-linearizable-handshakes.git
+
+[submodule "djpzfo-writing-a-deterministic-causal-sequencer-for-geo-distributed-update-streams"]
+	path = djpzfo-writing-a-deterministic-causal-sequencer-for-geo-distributed-update-streams
+	url = https://github.com/eaglepointAiLabs/djpzfo-writing-a-deterministic-causal-sequencer-for-geo-distributed-update-streams.git
