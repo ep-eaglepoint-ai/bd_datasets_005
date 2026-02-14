@@ -469,3 +469,7 @@
 [submodule "2voczj-orderstatemachine-transition-validation-and-test-suite"]
 	path = 2voczj-orderstatemachine-transition-validation-and-test-suite
 	url = https://github.com/eaglepointAiLabs/2voczj-orderstatemachine-transition-validation-and-test-suite.git
+
+[submodule "qmptai-linear-time-transaction-aggregation-refactor"]
+	path = qmptai-linear-time-transaction-aggregation-refactor
+	url = https://github.com/eaglepointAiLabs/qmptai-linear-time-transaction-aggregation-refactor.git
