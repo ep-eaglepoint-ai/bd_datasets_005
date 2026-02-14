@@ -369,3 +369,7 @@
 [submodule "53pdkz-online-exam-proctoring-system-backend-api"]
 	path = 53pdkz-online-exam-proctoring-system-backend-api
 	url = https://github.com/eaglepointAiLabs/53pdkz-online-exam-proctoring-system-backend-api.git
+
+[submodule "ueuvvn-inventory-soft-lock-reservation-engine"]
+	path = ueuvvn-inventory-soft-lock-reservation-engine
+	url = https://github.com/eaglepointAiLabs/ueuvvn-inventory-soft-lock-reservation-engine.git
