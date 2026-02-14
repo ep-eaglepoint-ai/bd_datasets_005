@@ -37,3 +37,7 @@
 [submodule "qehg7c-testing-batch-processing-for-idempotency-and-collisions"]
 	path = qehg7c-testing-batch-processing-for-idempotency-and-collisions
 	url = https://github.com/eaglepointAiLabs/qehg7c-testing-batch-processing-for-idempotency-and-collisions.git
+
+[submodule "t1hcrc-react-recursive-commentthread-component-with-voting-replying-and-accessibility"]
+	path = t1hcrc-react-recursive-commentthread-component-with-voting-replying-and-accessibility
+	url = https://github.com/eaglepointAiLabs/t1hcrc-react-recursive-commentthread-component-with-voting-replying-and-accessibility.git
