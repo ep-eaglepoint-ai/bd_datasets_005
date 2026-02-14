@@ -213,3 +213,7 @@
 [submodule "8nybzt-auditable-driver-trip-event-processing-for-fare-accounting"]
 	path = 8nybzt-auditable-driver-trip-event-processing-for-fare-accounting
 	url = https://github.com/eaglepointAiLabs/8nybzt-auditable-driver-trip-event-processing-for-fare-accounting.git
+
+[submodule "3n7t95-driver-trip-event-processor-with-safe-state-transitions-go"]
+	path = 3n7t95-driver-trip-event-processor-with-safe-state-transitions-go
+	url = https://github.com/eaglepointAiLabs/3n7t95-driver-trip-event-processor-with-safe-state-transitions-go.git
