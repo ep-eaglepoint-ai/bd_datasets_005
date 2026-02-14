@@ -21,3 +21,7 @@
 [submodule "djpzfo-writing-a-deterministic-causal-sequencer-for-geo-distributed-update-streams"]
 	path = djpzfo-writing-a-deterministic-causal-sequencer-for-geo-distributed-update-streams
 	url = https://github.com/eaglepointAiLabs/djpzfo-writing-a-deterministic-causal-sequencer-for-geo-distributed-update-streams.git
+
+[submodule "fenlio-high-throughput-log-aggregation-system-testing-suite"]
+	path = fenlio-high-throughput-log-aggregation-system-testing-suite
+	url = https://github.com/eaglepointAiLabs/fenlio-high-throughput-log-aggregation-system-testing-suite.git
