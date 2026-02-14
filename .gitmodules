@@ -9,3 +9,7 @@
 [submodule "e7wof0-financial-transaction-processor"]
 	path = e7wof0-financial-transaction-processor
 	url = https://github.com/eaglepointAiLabs/e7wof0-financial-transaction-processor.git
+
+[submodule "fl404x-add-idempotency-guarantees-to-payment-creation-api"]
+	path = fl404x-add-idempotency-guarantees-to-payment-creation-api
+	url = https://github.com/eaglepointAiLabs/fl404x-add-idempotency-guarantees-to-payment-creation-api.git
