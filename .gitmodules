@@ -365,3 +365,7 @@
 [submodule "yr0ftr-high-performance-geocoding-cache-with-request-collapsing-and-swr-in-node-js"]
 	path = yr0ftr-high-performance-geocoding-cache-with-request-collapsing-and-swr-in-node-js
 	url = https://github.com/eaglepointAiLabs/yr0ftr-high-performance-geocoding-cache-with-request-collapsing-and-swr-in-node-js.git
+
+[submodule "53pdkz-online-exam-proctoring-system-backend-api"]
+	path = 53pdkz-online-exam-proctoring-system-backend-api
+	url = https://github.com/eaglepointAiLabs/53pdkz-online-exam-proctoring-system-backend-api.git
