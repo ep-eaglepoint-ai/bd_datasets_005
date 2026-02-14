@@ -461,3 +461,7 @@
 [submodule "hkuyjc-enhance-a-react-web-application"]
 	path = hkuyjc-enhance-a-react-web-application
 	url = https://github.com/eaglepointAiLabs/hkuyjc-enhance-a-react-web-application.git
+
+[submodule "67bvtp-breadcrumbgenerator-utility-implementation"]
+	path = 67bvtp-breadcrumbgenerator-utility-implementation
+	url = https://github.com/eaglepointAiLabs/67bvtp-breadcrumbgenerator-utility-implementation.git
