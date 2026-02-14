@@ -457,3 +457,7 @@
 [submodule "x4p5c9-special-single-process-python"]
 	path = x4p5c9-special-single-process-python
 	url = https://github.com/eaglepointAiLabs/x4p5c9-special-single-process-python.git
+
+[submodule "hkuyjc-enhance-a-react-web-application"]
+	path = hkuyjc-enhance-a-react-web-application
+	url = https://github.com/eaglepointAiLabs/hkuyjc-enhance-a-react-web-application.git
