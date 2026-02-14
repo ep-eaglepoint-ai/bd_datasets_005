@@ -45,3 +45,7 @@
 [submodule "wgiukb-architecting-a-deterministic-thread-safe-test-harness-for-temporal-cache-logic"]
 	path = wgiukb-architecting-a-deterministic-thread-safe-test-harness-for-temporal-cache-logic
 	url = https://github.com/eaglepointAiLabs/wgiukb-architecting-a-deterministic-thread-safe-test-harness-for-temporal-cache-logic.git
+
+[submodule "zqy96x-implementing-a-high-performance-geo-distributed-rich-text-crdt-with-o-log-n-convergence"]
+	path = zqy96x-implementing-a-high-performance-geo-distributed-rich-text-crdt-with-o-log-n-convergence
+	url = https://github.com/eaglepointAiLabs/zqy96x-implementing-a-high-performance-geo-distributed-rich-text-crdt-with-o-log-n-convergence.git
