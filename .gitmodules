@@ -269,3 +269,7 @@
 [submodule "lrsihq-distributed-lock-manager-with-quorum-based-acquisition-and-deadlock-detection"]
 	path = lrsihq-distributed-lock-manager-with-quorum-based-acquisition-and-deadlock-detection
 	url = https://github.com/eaglepointAiLabs/lrsihq-distributed-lock-manager-with-quorum-based-acquisition-and-deadlock-detection.git
+
+[submodule "q4lfev-dispute-processor-rejects-valid-out-of-order-events-instead-of-canonically-reordering-state"]
+	path = q4lfev-dispute-processor-rejects-valid-out-of-order-events-instead-of-canonically-reordering-state
+	url = https://github.com/eaglepointAiLabs/q4lfev-dispute-processor-rejects-valid-out-of-order-events-instead-of-canonically-reordering-state.git
