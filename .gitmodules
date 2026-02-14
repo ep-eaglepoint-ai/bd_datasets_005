@@ -393,3 +393,7 @@
 [submodule "lhohki-writing-a-test-for-financial-reconciliation-logic"]
 	path = lhohki-writing-a-test-for-financial-reconciliation-logic
 	url = https://github.com/eaglepointAiLabs/lhohki-writing-a-test-for-financial-reconciliation-logic.git
+
+[submodule "5jyhws-sql-data-quality-audit-query"]
+	path = 5jyhws-sql-data-quality-audit-query
+	url = https://github.com/eaglepointAiLabs/5jyhws-sql-data-quality-audit-query.git
