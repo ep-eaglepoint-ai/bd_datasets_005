@@ -445,3 +445,7 @@
 [submodule "r0xw6a-semantic-version-comparator"]
 	path = r0xw6a-semantic-version-comparator
 	url = https://github.com/eaglepointAiLabs/r0xw6a-semantic-version-comparator.git
+
+[submodule "80bypp-special-task-queue-typescript"]
+	path = 80bypp-special-task-queue-typescript
+	url = https://github.com/eaglepointAiLabs/80bypp-special-task-queue-typescript.git
