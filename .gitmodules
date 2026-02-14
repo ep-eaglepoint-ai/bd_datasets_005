@@ -225,3 +225,7 @@
 [submodule "yegrep-raffle-ticket-coordinator"]
 	path = yegrep-raffle-ticket-coordinator
 	url = https://github.com/eaglepointAiLabs/yegrep-raffle-ticket-coordinator.git
+
+[submodule "8qji0f-secure-2-of-3-multi-signature-transaction-implementation-in-python-for-cryptocurrency-wallet"]
+	path = 8qji0f-secure-2-of-3-multi-signature-transaction-implementation-in-python-for-cryptocurrency-wallet
+	url = https://github.com/eaglepointAiLabs/8qji0f-secure-2-of-3-multi-signature-transaction-implementation-in-python-for-cryptocurrency-wallet.git
