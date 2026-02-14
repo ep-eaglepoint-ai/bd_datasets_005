@@ -161,3 +161,7 @@
 [submodule "iuawjd-fix-order-validation-logic-blocking-valid-users"]
 	path = iuawjd-fix-order-validation-logic-blocking-valid-users
 	url = https://github.com/eaglepointAiLabs/iuawjd-fix-order-validation-logic-blocking-valid-users.git
+
+[submodule "6fk9pz-fix-order-validation-logic-for-daily-order-limit"]
+	path = 6fk9pz-fix-order-validation-logic-for-daily-order-limit
+	url = https://github.com/eaglepointAiLabs/6fk9pz-fix-order-validation-logic-for-daily-order-limit.git
