@@ -77,3 +77,7 @@
 [submodule "qp590z-static-policy-rule-analyzer-logical-consistency-safety-validation"]
 	path = qp590z-static-policy-rule-analyzer-logical-consistency-safety-validation
 	url = https://github.com/eaglepointAiLabs/qp590z-static-policy-rule-analyzer-logical-consistency-safety-validation.git
+
+[submodule "y55brq-build-a-full-stack-digital-ordering-loyalty-system-for-a-coffee-shop"]
+	path = y55brq-build-a-full-stack-digital-ordering-loyalty-system-for-a-coffee-shop
+	url = https://github.com/eaglepointAiLabs/y55brq-build-a-full-stack-digital-ordering-loyalty-system-for-a-coffee-shop.git
