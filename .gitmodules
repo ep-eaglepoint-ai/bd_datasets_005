@@ -133,3 +133,7 @@
 [submodule "pix1ke-streaming-gap-detector"]
 	path = pix1ke-streaming-gap-detector
 	url = https://github.com/eaglepointAiLabs/pix1ke-streaming-gap-detector.git
+
+[submodule "uc8wt4-lazy-file-processing-engine"]
+	path = uc8wt4-lazy-file-processing-engine
+	url = https://github.com/eaglepointAiLabs/uc8wt4-lazy-file-processing-engine.git
