@@ -397,3 +397,7 @@
 [submodule "5jyhws-sql-data-quality-audit-query"]
 	path = 5jyhws-sql-data-quality-audit-query
 	url = https://github.com/eaglepointAiLabs/5jyhws-sql-data-quality-audit-query.git
+
+[submodule "3g0f59-retry-queue-test-suite-evaluation"]
+	path = 3g0f59-retry-queue-test-suite-evaluation
+	url = https://github.com/eaglepointAiLabs/3g0f59-retry-queue-test-suite-evaluation.git
