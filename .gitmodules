@@ -297,3 +297,7 @@
 [submodule "g6cun4-simulated-precision-time-protocol-ptp-clock-synchronization-under-extreme-constraints"]
 	path = g6cun4-simulated-precision-time-protocol-ptp-clock-synchronization-under-extreme-constraints
 	url = https://github.com/eaglepointAiLabs/g6cun4-simulated-precision-time-protocol-ptp-clock-synchronization-under-extreme-constraints.git
+
+[submodule "89fk50-refactor-booking-service-to-prevent-overlaps"]
+	path = 89fk50-refactor-booking-service-to-prevent-overlaps
+	url = https://github.com/eaglepointAiLabs/89fk50-refactor-booking-service-to-prevent-overlaps.git
