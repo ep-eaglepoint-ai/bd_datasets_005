@@ -273,3 +273,7 @@
 [submodule "q4lfev-dispute-processor-rejects-valid-out-of-order-events-instead-of-canonically-reordering-state"]
 	path = q4lfev-dispute-processor-rejects-valid-out-of-order-events-instead-of-canonically-reordering-state
 	url = https://github.com/eaglepointAiLabs/q4lfev-dispute-processor-rejects-valid-out-of-order-events-instead-of-canonically-reordering-state.git
+
+[submodule "xfkhp4-deterministic-in-memory-shipment-state-store-for-adversarial-event-streams"]
+	path = xfkhp4-deterministic-in-memory-shipment-state-store-for-adversarial-event-streams
+	url = https://github.com/eaglepointAiLabs/xfkhp4-deterministic-in-memory-shipment-state-store-for-adversarial-event-streams.git
