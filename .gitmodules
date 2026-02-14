@@ -425,3 +425,7 @@
 [submodule "87mij4-unit-and-distributed-training-test-suite-for-chaotic-libtorch-model"]
 	path = 87mij4-unit-and-distributed-training-test-suite-for-chaotic-libtorch-model
 	url = https://github.com/eaglepointAiLabs/87mij4-unit-and-distributed-training-test-suite-for-chaotic-libtorch-model.git
+
+[submodule "jksunc-optimize-and-clean-a-chaotic-fractal-deq-model"]
+	path = jksunc-optimize-and-clean-a-chaotic-fractal-deq-model
+	url = https://github.com/eaglepointAiLabs/jksunc-optimize-and-clean-a-chaotic-fractal-deq-model.git
