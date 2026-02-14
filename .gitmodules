@@ -241,3 +241,7 @@
 [submodule "3lk5o1-order-fulfillment-system"]
 	path = 3lk5o1-order-fulfillment-system
 	url = https://github.com/eaglepointAiLabs/3lk5o1-order-fulfillment-system.git
+
+[submodule "86znrx-subscription-billing-tracking-system"]
+	path = 86znrx-subscription-billing-tracking-system
+	url = https://github.com/eaglepointAiLabs/86znrx-subscription-billing-tracking-system.git
