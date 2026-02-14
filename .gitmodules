@@ -189,3 +189,7 @@
 [submodule "thn7a5-optimize-user-feed-endpoint-for-faster-response-times"]
 	path = thn7a5-optimize-user-feed-endpoint-for-faster-response-times
 	url = https://github.com/eaglepointAiLabs/thn7a5-optimize-user-feed-endpoint-for-faster-response-times.git
+
+[submodule "ve19w3-optimize-fastapi-image-upload-pipeline-for-reliability-and-performance"]
+	path = ve19w3-optimize-fastapi-image-upload-pipeline-for-reliability-and-performance
+	url = https://github.com/eaglepointAiLabs/ve19w3-optimize-fastapi-image-upload-pipeline-for-reliability-and-performance.git
