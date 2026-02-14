@@ -61,3 +61,7 @@
 [submodule "zsbm15-complex-in-memory-rate-limiter-with-idempotency-and-sliding-window-enforcement"]
 	path = zsbm15-complex-in-memory-rate-limiter-with-idempotency-and-sliding-window-enforcement
 	url = https://github.com/eaglepointAiLabs/zsbm15-complex-in-memory-rate-limiter-with-idempotency-and-sliding-window-enforcement.git
+
+[submodule "t9idvo-prefix-count-optimization-using-sorting-and-binary-search"]
+	path = t9idvo-prefix-count-optimization-using-sorting-and-binary-search
+	url = https://github.com/eaglepointAiLabs/t9idvo-prefix-count-optimization-using-sorting-and-binary-search.git
