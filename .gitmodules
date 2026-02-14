@@ -245,3 +245,7 @@
 [submodule "86znrx-subscription-billing-tracking-system"]
 	path = 86znrx-subscription-billing-tracking-system
 	url = https://github.com/eaglepointAiLabs/86znrx-subscription-billing-tracking-system.git
+
+[submodule "z14ul0-expense-tracking-and-reimbursement-system-with-approval-workflow-and-receipt-management"]
+	path = z14ul0-expense-tracking-and-reimbursement-system-with-approval-workflow-and-receipt-management
+	url = https://github.com/eaglepointAiLabs/z14ul0-expense-tracking-and-reimbursement-system-with-approval-workflow-and-receipt-management.git
