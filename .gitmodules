@@ -217,3 +217,7 @@
 [submodule "3n7t95-driver-trip-event-processor-with-safe-state-transitions-go"]
 	path = 3n7t95-driver-trip-event-processor-with-safe-state-transitions-go
 	url = https://github.com/eaglepointAiLabs/3n7t95-driver-trip-event-processor-with-safe-state-transitions-go.git
+
+[submodule "4n2gyr-deterministic-event-analytics-order-independent-dedup-double-login-policy"]
+	path = 4n2gyr-deterministic-event-analytics-order-independent-dedup-double-login-policy
+	url = https://github.com/eaglepointAiLabs/4n2gyr-deterministic-event-analytics-order-independent-dedup-double-login-policy.git
