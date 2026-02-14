@@ -117,3 +117,7 @@
 [submodule "16orin-e-commerce-order-processing-system-testing-suite"]
 	path = 16orin-e-commerce-order-processing-system-testing-suite
 	url = https://github.com/eaglepointAiLabs/16orin-e-commerce-order-processing-system-testing-suite.git
+
+[submodule "4gs8sh-reusable-validation-module-for-node-js-rest-api"]
+	path = 4gs8sh-reusable-validation-module-for-node-js-rest-api
+	url = https://github.com/eaglepointAiLabs/4gs8sh-reusable-validation-module-for-node-js-rest-api.git
