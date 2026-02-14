@@ -349,3 +349,7 @@
 [submodule "d3fqph-order-processing-system-test-case-generation"]
 	path = d3fqph-order-processing-system-test-case-generation
 	url = https://github.com/eaglepointAiLabs/d3fqph-order-processing-system-test-case-generation.git
+
+[submodule "o5cs3q-extend-a-python-based-ticket-management-rest-api"]
+	path = o5cs3q-extend-a-python-based-ticket-management-rest-api
+	url = https://github.com/eaglepointAiLabs/o5cs3q-extend-a-python-based-ticket-management-rest-api.git
