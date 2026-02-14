@@ -305,3 +305,7 @@
 [submodule "q5tuee-optimize-user-activity-analytics-aggregation"]
 	path = q5tuee-optimize-user-activity-analytics-aggregation
 	url = https://github.com/eaglepointAiLabs/q5tuee-optimize-user-activity-analytics-aggregation.git
+
+[submodule "jcksnh-fix-session-billing-duration-calculation"]
+	path = jcksnh-fix-session-billing-duration-calculation
+	url = https://github.com/eaglepointAiLabs/jcksnh-fix-session-billing-duration-calculation.git
