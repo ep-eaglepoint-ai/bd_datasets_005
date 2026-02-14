@@ -109,3 +109,7 @@
 [submodule "80y99h-simple-task-management-system"]
 	path = 80y99h-simple-task-management-system
 	url = https://github.com/eaglepointAiLabs/80y99h-simple-task-management-system.git
+
+[submodule "1sit06-container-scheduler-performance-optimization"]
+	path = 1sit06-container-scheduler-performance-optimization
+	url = https://github.com/eaglepointAiLabs/1sit06-container-scheduler-performance-optimization.git
