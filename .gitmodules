@@ -317,3 +317,7 @@
 [submodule "yufy0s-concurrent-web-crawler-for-site-map-generation"]
 	path = yufy0s-concurrent-web-crawler-for-site-map-generation
 	url = https://github.com/eaglepointAiLabs/yufy0s-concurrent-web-crawler-for-site-map-generation.git
+
+[submodule "z16aee-refactor-user-activity-tracking-for-performance-and-accuracy"]
+	path = z16aee-refactor-user-activity-tracking-for-performance-and-accuracy
+	url = https://github.com/eaglepointAiLabs/z16aee-refactor-user-activity-tracking-for-performance-and-accuracy.git
