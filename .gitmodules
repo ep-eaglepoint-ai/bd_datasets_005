@@ -177,3 +177,7 @@
 [submodule "axxpqk-fix-attachment-leakage-in-email-notification-service"]
 	path = axxpqk-fix-attachment-leakage-in-email-notification-service
 	url = https://github.com/eaglepointAiLabs/axxpqk-fix-attachment-leakage-in-email-notification-service.git
+
+[submodule "uh668z-optimize-large-csv-aggregation-pipeline-for-performance-and-memory-usage"]
+	path = uh668z-optimize-large-csv-aggregation-pipeline-for-performance-and-memory-usage
+	url = https://github.com/eaglepointAiLabs/uh668z-optimize-large-csv-aggregation-pipeline-for-performance-and-memory-usage.git
