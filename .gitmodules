@@ -489,3 +489,7 @@
 [submodule "oh2kpi-address-line-sanitizer-comprehensive-test-suite"]
 	path = oh2kpi-address-line-sanitizer-comprehensive-test-suite
 	url = https://github.com/eaglepointAiLabs/oh2kpi-address-line-sanitizer-comprehensive-test-suite.git
+
+[submodule "oorbw2-command-line-argument-parser-with-deterministic-rules-and-structured-errors"]
+	path = oorbw2-command-line-argument-parser-with-deterministic-rules-and-structured-errors
+	url = https://github.com/eaglepointAiLabs/oorbw2-command-line-argument-parser-with-deterministic-rules-and-structured-errors.git
