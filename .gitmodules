@@ -333,3 +333,7 @@
 [submodule "26s5pk-thread-safe-parallel-build-system-with-dependency-management"]
 	path = 26s5pk-thread-safe-parallel-build-system-with-dependency-management
 	url = https://github.com/eaglepointAiLabs/26s5pk-thread-safe-parallel-build-system-with-dependency-management.git
+
+[submodule "ea57nd-optimize-user-engagement-report-generation"]
+	path = ea57nd-optimize-user-engagement-report-generation
+	url = https://github.com/eaglepointAiLabs/ea57nd-optimize-user-engagement-report-generation.git
