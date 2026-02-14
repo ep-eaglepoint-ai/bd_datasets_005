@@ -289,3 +289,7 @@
 [submodule "wgadh9-concurrency-safe-admin-demotion-in-postgresql-without-serializable-isolation"]
 	path = wgadh9-concurrency-safe-admin-demotion-in-postgresql-without-serializable-isolation
 	url = https://github.com/eaglepointAiLabs/wgadh9-concurrency-safe-admin-demotion-in-postgresql-without-serializable-isolation.git
+
+[submodule "mfyk28-behavior-preserving-refactor-of-a-legacy-javascript-module-under-production-constraints"]
+	path = mfyk28-behavior-preserving-refactor-of-a-legacy-javascript-module-under-production-constraints
+	url = https://github.com/eaglepointAiLabs/mfyk28-behavior-preserving-refactor-of-a-legacy-javascript-module-under-production-constraints.git
