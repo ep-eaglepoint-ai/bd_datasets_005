@@ -513,3 +513,7 @@
 [submodule "7yx8z4-loganalyzer-test-suite"]
 	path = 7yx8z4-loganalyzer-test-suite
 	url = https://github.com/eaglepointAiLabs/7yx8z4-loganalyzer-test-suite.git
+
+[submodule "9ug83i-inventorymanager-concurrency-test-suite"]
+	path = 9ug83i-inventorymanager-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/9ug83i-inventorymanager-concurrency-test-suite.git
