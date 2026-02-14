@@ -381,3 +381,7 @@
 [submodule "wbjkvl-deterministic-access-control-permission-resolution-engine"]
 	path = wbjkvl-deterministic-access-control-permission-resolution-engine
 	url = https://github.com/eaglepointAiLabs/wbjkvl-deterministic-access-control-permission-resolution-engine.git
+
+[submodule "a2lh06-writing-a-test-to-validate-the-referential-integrity-of-auth-middleware"]
+	path = a2lh06-writing-a-test-to-validate-the-referential-integrity-of-auth-middleware
+	url = https://github.com/eaglepointAiLabs/a2lh06-writing-a-test-to-validate-the-referential-integrity-of-auth-middleware.git
