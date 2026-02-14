@@ -181,3 +181,7 @@
 [submodule "uh668z-optimize-large-csv-aggregation-pipeline-for-performance-and-memory-usage"]
 	path = uh668z-optimize-large-csv-aggregation-pipeline-for-performance-and-memory-usage
 	url = https://github.com/eaglepointAiLabs/uh668z-optimize-large-csv-aggregation-pipeline-for-performance-and-memory-usage.git
+
+[submodule "9v9lh7-fix-unsafe-retry-logic-in-payment-charging-system"]
+	path = 9v9lh7-fix-unsafe-retry-logic-in-payment-charging-system
+	url = https://github.com/eaglepointAiLabs/9v9lh7-fix-unsafe-retry-logic-in-payment-charging-system.git
