@@ -145,3 +145,7 @@
 [submodule "thr5zw-deterministic-time-based-rule-evaluation-engine"]
 	path = thr5zw-deterministic-time-based-rule-evaluation-engine
 	url = https://github.com/eaglepointAiLabs/thr5zw-deterministic-time-based-rule-evaluation-engine.git
+
+[submodule "4muqyc-optimizing-a-rolling-metrics-store-with-strict-behavioral-guarantees"]
+	path = 4muqyc-optimizing-a-rolling-metrics-store-with-strict-behavioral-guarantees
+	url = https://github.com/eaglepointAiLabs/4muqyc-optimizing-a-rolling-metrics-store-with-strict-behavioral-guarantees.git
