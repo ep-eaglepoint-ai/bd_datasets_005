@@ -465,3 +465,7 @@
 [submodule "67bvtp-breadcrumbgenerator-utility-implementation"]
 	path = 67bvtp-breadcrumbgenerator-utility-implementation
 	url = https://github.com/eaglepointAiLabs/67bvtp-breadcrumbgenerator-utility-implementation.git
+
+[submodule "2voczj-orderstatemachine-transition-validation-and-test-suite"]
+	path = 2voczj-orderstatemachine-transition-validation-and-test-suite
+	url = https://github.com/eaglepointAiLabs/2voczj-orderstatemachine-transition-validation-and-test-suite.git
