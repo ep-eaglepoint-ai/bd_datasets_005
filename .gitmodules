@@ -281,3 +281,7 @@
 [submodule "gmnmsy-production-grade-deterministic-onboarding-event-processor-with-concurrency-safety"]
 	path = gmnmsy-production-grade-deterministic-onboarding-event-processor-with-concurrency-safety
 	url = https://github.com/eaglepointAiLabs/gmnmsy-production-grade-deterministic-onboarding-event-processor-with-concurrency-safety.git
+
+[submodule "5gtglh-optimizing-a-legacy-node-js-ranking-function-under-strict-behavioral-constraints"]
+	path = 5gtglh-optimizing-a-legacy-node-js-ranking-function-under-strict-behavioral-constraints
+	url = https://github.com/eaglepointAiLabs/5gtglh-optimizing-a-legacy-node-js-ranking-function-under-strict-behavioral-constraints.git
