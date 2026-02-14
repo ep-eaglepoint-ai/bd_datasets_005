@@ -125,3 +125,7 @@
 [submodule "wvdva8-authentication-system"]
 	path = wvdva8-authentication-system
 	url = https://github.com/eaglepointAiLabs/wvdva8-authentication-system.git
+
+[submodule "pjhljx-black-box-test-harness-for-an-inventory-reservation-engine"]
+	path = pjhljx-black-box-test-harness-for-an-inventory-reservation-engine
+	url = https://github.com/eaglepointAiLabs/pjhljx-black-box-test-harness-for-an-inventory-reservation-engine.git
