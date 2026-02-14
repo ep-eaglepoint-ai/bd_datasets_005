@@ -85,3 +85,7 @@
 [submodule "ivxjc2-canonical-shipment-status-engine-determinism-and-safety-evaluation"]
 	path = ivxjc2-canonical-shipment-status-engine-determinism-and-safety-evaluation
 	url = https://github.com/eaglepointAiLabs/ivxjc2-canonical-shipment-status-engine-determinism-and-safety-evaluation.git
+
+[submodule "iepb9e-inventory-action-processor"]
+	path = iepb9e-inventory-action-processor
+	url = https://github.com/eaglepointAiLabs/iepb9e-inventory-action-processor.git
