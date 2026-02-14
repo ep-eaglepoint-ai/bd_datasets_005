@@ -405,3 +405,7 @@
 [submodule "calolv-thread-safe-object-pool"]
 	path = calolv-thread-safe-object-pool
 	url = https://github.com/eaglepointAiLabs/calolv-thread-safe-object-pool.git
+
+[submodule "ayhsj3-circular-buffer"]
+	path = ayhsj3-circular-buffer
+	url = https://github.com/eaglepointAiLabs/ayhsj3-circular-buffer.git
