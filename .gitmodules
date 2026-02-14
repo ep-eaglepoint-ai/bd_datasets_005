@@ -53,3 +53,7 @@
 [submodule "ekpngz-sql-query-optimization-under-strict-data-integrity-constraints"]
 	path = ekpngz-sql-query-optimization-under-strict-data-integrity-constraints
 	url = https://github.com/eaglepointAiLabs/ekpngz-sql-query-optimization-under-strict-data-integrity-constraints.git
+
+[submodule "44muh8-minimal-full-stack-item-list-application"]
+	path = 44muh8-minimal-full-stack-item-list-application
+	url = https://github.com/eaglepointAiLabs/44muh8-minimal-full-stack-item-list-application.git
