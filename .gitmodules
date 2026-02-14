@@ -229,3 +229,7 @@
 [submodule "8qji0f-secure-2-of-3-multi-signature-transaction-implementation-in-python-for-cryptocurrency-wallet"]
 	path = 8qji0f-secure-2-of-3-multi-signature-transaction-implementation-in-python-for-cryptocurrency-wallet
 	url = https://github.com/eaglepointAiLabs/8qji0f-secure-2-of-3-multi-signature-transaction-implementation-in-python-for-cryptocurrency-wallet.git
+
+[submodule "wrl2z5-course-enrollment-system"]
+	path = wrl2z5-course-enrollment-system
+	url = https://github.com/eaglepointAiLabs/wrl2z5-course-enrollment-system.git
