@@ -165,3 +165,7 @@
 [submodule "6fk9pz-fix-order-validation-logic-for-daily-order-limit"]
 	path = 6fk9pz-fix-order-validation-logic-for-daily-order-limit
 	url = https://github.com/eaglepointAiLabs/6fk9pz-fix-order-validation-logic-for-daily-order-limit.git
+
+[submodule "lchouw-fix-background-task-lifecycle-management-in-webhook-dispatcher"]
+	path = lchouw-fix-background-task-lifecycle-management-in-webhook-dispatcher
+	url = https://github.com/eaglepointAiLabs/lchouw-fix-background-task-lifecycle-management-in-webhook-dispatcher.git
