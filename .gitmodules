@@ -329,3 +329,7 @@
 [submodule "ced19l-fix-support-ticket-state-machine-transitions"]
 	path = ced19l-fix-support-ticket-state-machine-transitions
 	url = https://github.com/eaglepointAiLabs/ced19l-fix-support-ticket-state-machine-transitions.git
+
+[submodule "26s5pk-thread-safe-parallel-build-system-with-dependency-management"]
+	path = 26s5pk-thread-safe-parallel-build-system-with-dependency-management
+	url = https://github.com/eaglepointAiLabs/26s5pk-thread-safe-parallel-build-system-with-dependency-management.git
