@@ -301,3 +301,7 @@
 [submodule "89fk50-refactor-booking-service-to-prevent-overlaps"]
 	path = 89fk50-refactor-booking-service-to-prevent-overlaps
 	url = https://github.com/eaglepointAiLabs/89fk50-refactor-booking-service-to-prevent-overlaps.git
+
+[submodule "q5tuee-optimize-user-activity-analytics-aggregation"]
+	path = q5tuee-optimize-user-activity-analytics-aggregation
+	url = https://github.com/eaglepointAiLabs/q5tuee-optimize-user-activity-analytics-aggregation.git
