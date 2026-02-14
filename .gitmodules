@@ -237,3 +237,7 @@
 [submodule "kirs5r-appointment-scheduling-system"]
 	path = kirs5r-appointment-scheduling-system
 	url = https://github.com/eaglepointAiLabs/kirs5r-appointment-scheduling-system.git
+
+[submodule "3lk5o1-order-fulfillment-system"]
+	path = 3lk5o1-order-fulfillment-system
+	url = https://github.com/eaglepointAiLabs/3lk5o1-order-fulfillment-system.git
