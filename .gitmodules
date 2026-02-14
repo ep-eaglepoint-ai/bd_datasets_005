@@ -261,3 +261,7 @@
 [submodule "wxpac9-medical-appointment-scheduling-system-with-automated-reminders-and-waitlist-management"]
 	path = wxpac9-medical-appointment-scheduling-system-with-automated-reminders-and-waitlist-management
 	url = https://github.com/eaglepointAiLabs/wxpac9-medical-appointment-scheduling-system-with-automated-reminders-and-waitlist-management.git
+
+[submodule "wxv7sy-cache-system-with-consistent-hashing-and-quorum-replication"]
+	path = wxv7sy-cache-system-with-consistent-hashing-and-quorum-replication
+	url = https://github.com/eaglepointAiLabs/wxv7sy-cache-system-with-consistent-hashing-and-quorum-replication.git
