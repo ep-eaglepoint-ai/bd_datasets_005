@@ -441,3 +441,7 @@
 [submodule "47xcs1-enhance-react-kanban-board"]
 	path = 47xcs1-enhance-react-kanban-board
 	url = https://github.com/eaglepointAiLabs/47xcs1-enhance-react-kanban-board.git
+
+[submodule "r0xw6a-semantic-version-comparator"]
+	path = r0xw6a-semantic-version-comparator
+	url = https://github.com/eaglepointAiLabs/r0xw6a-semantic-version-comparator.git
