@@ -157,3 +157,7 @@
 [submodule "v81bbo-secure-password-validation-module"]
 	path = v81bbo-secure-password-validation-module
 	url = https://github.com/eaglepointAiLabs/v81bbo-secure-password-validation-module.git
+
+[submodule "iuawjd-fix-order-validation-logic-blocking-valid-users"]
+	path = iuawjd-fix-order-validation-logic-blocking-valid-users
+	url = https://github.com/eaglepointAiLabs/iuawjd-fix-order-validation-logic-blocking-valid-users.git
