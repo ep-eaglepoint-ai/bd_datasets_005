@@ -493,3 +493,7 @@
 [submodule "oorbw2-command-line-argument-parser-with-deterministic-rules-and-structured-errors"]
 	path = oorbw2-command-line-argument-parser-with-deterministic-rules-and-structured-errors
 	url = https://github.com/eaglepointAiLabs/oorbw2-command-line-argument-parser-with-deterministic-rules-and-structured-errors.git
+
+[submodule "ecnbc0-concurrency-testing-for-go-cache"]
+	path = ecnbc0-concurrency-testing-for-go-cache
+	url = https://github.com/eaglepointAiLabs/ecnbc0-concurrency-testing-for-go-cache.git
