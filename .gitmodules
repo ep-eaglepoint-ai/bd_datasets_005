@@ -313,3 +313,7 @@
 [submodule "tpapgf-wait-free-mpsc-queue"]
 	path = tpapgf-wait-free-mpsc-queue
 	url = https://github.com/eaglepointAiLabs/tpapgf-wait-free-mpsc-queue.git
+
+[submodule "yufy0s-concurrent-web-crawler-for-site-map-generation"]
+	path = yufy0s-concurrent-web-crawler-for-site-map-generation
+	url = https://github.com/eaglepointAiLabs/yufy0s-concurrent-web-crawler-for-site-map-generation.git
