@@ -505,3 +505,7 @@
 [submodule "qbreyt-algorithmic-optimization-via-trie"]
 	path = qbreyt-algorithmic-optimization-via-trie
 	url = https://github.com/eaglepointAiLabs/qbreyt-algorithmic-optimization-via-trie.git
+
+[submodule "bwe0kr-lock-free-circular-buffer-test-suite"]
+	path = bwe0kr-lock-free-circular-buffer-test-suite
+	url = https://github.com/eaglepointAiLabs/bwe0kr-lock-free-circular-buffer-test-suite.git
