@@ -13,3 +13,7 @@
 [submodule "fl404x-add-idempotency-guarantees-to-payment-creation-api"]
 	path = fl404x-add-idempotency-guarantees-to-payment-creation-api
 	url = https://github.com/eaglepointAiLabs/fl404x-add-idempotency-guarantees-to-payment-creation-api.git
+
+[submodule "qbpf6s-implementing-wal-and-linearizable-handshakes"]
+	path = qbpf6s-implementing-wal-and-linearizable-handshakes
+	url = https://github.com/eaglepointAiLabs/qbpf6s-implementing-wal-and-linearizable-handshakes.git
