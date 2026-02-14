@@ -105,3 +105,7 @@
 [submodule "37tsk9-writing-a-test-for-high-performance-byte-copy-function-for-embedded-signal-processing"]
 	path = 37tsk9-writing-a-test-for-high-performance-byte-copy-function-for-embedded-signal-processing
 	url = https://github.com/eaglepointAiLabs/37tsk9-writing-a-test-for-high-performance-byte-copy-function-for-embedded-signal-processing.git
+
+[submodule "80y99h-simple-task-management-system"]
+	path = 80y99h-simple-task-management-system
+	url = https://github.com/eaglepointAiLabs/80y99h-simple-task-management-system.git
