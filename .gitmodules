@@ -417,3 +417,7 @@
 [submodule "mcvld6-multivector-clifford-algebra-c-test-suite"]
 	path = mcvld6-multivector-clifford-algebra-c-test-suite
 	url = https://github.com/eaglepointAiLabs/mcvld6-multivector-clifford-algebra-c-test-suite.git
+
+[submodule "4t8agl-optimize-clifford-algebra-multivector-neural-layers-for-pytorch"]
+	path = 4t8agl-optimize-clifford-algebra-multivector-neural-layers-for-pytorch
+	url = https://github.com/eaglepointAiLabs/4t8agl-optimize-clifford-algebra-multivector-neural-layers-for-pytorch.git
