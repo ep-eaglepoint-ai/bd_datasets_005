@@ -121,3 +121,7 @@
 [submodule "4gs8sh-reusable-validation-module-for-node-js-rest-api"]
 	path = 4gs8sh-reusable-validation-module-for-node-js-rest-api
 	url = https://github.com/eaglepointAiLabs/4gs8sh-reusable-validation-module-for-node-js-rest-api.git
+
+[submodule "wvdva8-authentication-system"]
+	path = wvdva8-authentication-system
+	url = https://github.com/eaglepointAiLabs/wvdva8-authentication-system.git
