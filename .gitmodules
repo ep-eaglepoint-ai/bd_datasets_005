@@ -193,3 +193,7 @@
 [submodule "ve19w3-optimize-fastapi-image-upload-pipeline-for-reliability-and-performance"]
 	path = ve19w3-optimize-fastapi-image-upload-pipeline-for-reliability-and-performance
 	url = https://github.com/eaglepointAiLabs/ve19w3-optimize-fastapi-image-upload-pipeline-for-reliability-and-performance.git
+
+[submodule "joi7yp-fix-memory-leak-and-stability-issues-in-react-stock-ticker"]
+	path = joi7yp-fix-memory-leak-and-stability-issues-in-react-stock-ticker
+	url = https://github.com/eaglepointAiLabs/joi7yp-fix-memory-leak-and-stability-issues-in-react-stock-ticker.git
