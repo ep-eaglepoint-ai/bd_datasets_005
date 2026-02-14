@@ -201,3 +201,7 @@
 [submodule "9jclqv-optimize-postgresql-order-report-queries-in-node-js-service"]
 	path = 9jclqv-optimize-postgresql-order-report-queries-in-node-js-service
 	url = https://github.com/eaglepointAiLabs/9jclqv-optimize-postgresql-order-report-queries-in-node-js-service.git
+
+[submodule "alp5fg-optimize-node-js-etl-pipeline-for-large-file-processing"]
+	path = alp5fg-optimize-node-js-etl-pipeline-for-large-file-processing
+	url = https://github.com/eaglepointAiLabs/alp5fg-optimize-node-js-etl-pipeline-for-large-file-processing.git
