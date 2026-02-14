@@ -209,3 +209,7 @@
 [submodule "ji1dhw-add-comprehensive-tests-for-react-shopping-cart-component"]
 	path = ji1dhw-add-comprehensive-tests-for-react-shopping-cart-component
 	url = https://github.com/eaglepointAiLabs/ji1dhw-add-comprehensive-tests-for-react-shopping-cart-component.git
+
+[submodule "8nybzt-auditable-driver-trip-event-processing-for-fare-accounting"]
+	path = 8nybzt-auditable-driver-trip-event-processing-for-fare-accounting
+	url = https://github.com/eaglepointAiLabs/8nybzt-auditable-driver-trip-event-processing-for-fare-accounting.git
