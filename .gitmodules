@@ -101,3 +101,7 @@
 [submodule "mn6k1c-deterministic-fleet-routing-with-time-windows-waiting-allowed-and-audit-ready-output"]
 	path = mn6k1c-deterministic-fleet-routing-with-time-windows-waiting-allowed-and-audit-ready-output
 	url = https://github.com/eaglepointAiLabs/mn6k1c-deterministic-fleet-routing-with-time-windows-waiting-allowed-and-audit-ready-output.git
+
+[submodule "37tsk9-writing-a-test-for-high-performance-byte-copy-function-for-embedded-signal-processing"]
+	path = 37tsk9-writing-a-test-for-high-performance-byte-copy-function-for-embedded-signal-processing
+	url = https://github.com/eaglepointAiLabs/37tsk9-writing-a-test-for-high-performance-byte-copy-function-for-embedded-signal-processing.git
