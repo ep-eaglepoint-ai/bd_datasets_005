@@ -69,3 +69,7 @@
 [submodule "skq1je-optimize-backend-api-performance-while-preserving-deterministic-behavior"]
 	path = skq1je-optimize-backend-api-performance-while-preserving-deterministic-behavior
 	url = https://github.com/eaglepointAiLabs/skq1je-optimize-backend-api-performance-while-preserving-deterministic-behavior.git
+
+[submodule "yhj938-vitest-test-suite-evaluation-for-feature-flag-rule-analyzer"]
+	path = yhj938-vitest-test-suite-evaluation-for-feature-flag-rule-analyzer
+	url = https://github.com/eaglepointAiLabs/yhj938-vitest-test-suite-evaluation-for-feature-flag-rule-analyzer.git
