@@ -377,3 +377,7 @@
 [submodule "k0t5fq-email-validator-system-test-suite"]
 	path = k0t5fq-email-validator-system-test-suite
 	url = https://github.com/eaglepointAiLabs/k0t5fq-email-validator-system-test-suite.git
+
+[submodule "wbjkvl-deterministic-access-control-permission-resolution-engine"]
+	path = wbjkvl-deterministic-access-control-permission-resolution-engine
+	url = https://github.com/eaglepointAiLabs/wbjkvl-deterministic-access-control-permission-resolution-engine.git
