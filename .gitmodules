@@ -33,3 +33,7 @@
 [submodule "1n3f55-deterministic-pricing-engine-for-e-commerce-orders-items-discounts-tax-shipping-refunds"]
 	path = 1n3f55-deterministic-pricing-engine-for-e-commerce-orders-items-discounts-tax-shipping-refunds
 	url = https://github.com/eaglepointAiLabs/1n3f55-deterministic-pricing-engine-for-e-commerce-orders-items-discounts-tax-shipping-refunds.git
+
+[submodule "qehg7c-testing-batch-processing-for-idempotency-and-collisions"]
+	path = qehg7c-testing-batch-processing-for-idempotency-and-collisions
+	url = https://github.com/eaglepointAiLabs/qehg7c-testing-batch-processing-for-idempotency-and-collisions.git
