@@ -93,3 +93,7 @@
 [submodule "0qp2sh-python-currency-formatting-test-suites"]
 	path = 0qp2sh-python-currency-formatting-test-suites
 	url = https://github.com/eaglepointAiLabs/0qp2sh-python-currency-formatting-test-suites.git
+
+[submodule "xo9pre-boolean-algebraic-reduction-logic-integrity-under-constraint"]
+	path = xo9pre-boolean-algebraic-reduction-logic-integrity-under-constraint
+	url = https://github.com/eaglepointAiLabs/xo9pre-boolean-algebraic-reduction-logic-integrity-under-constraint.git
