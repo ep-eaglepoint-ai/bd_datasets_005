@@ -401,3 +401,7 @@
 [submodule "3g0f59-retry-queue-test-suite-evaluation"]
 	path = 3g0f59-retry-queue-test-suite-evaluation
 	url = https://github.com/eaglepointAiLabs/3g0f59-retry-queue-test-suite-evaluation.git
+
+[submodule "calolv-thread-safe-object-pool"]
+	path = calolv-thread-safe-object-pool
+	url = https://github.com/eaglepointAiLabs/calolv-thread-safe-object-pool.git
