@@ -137,3 +137,7 @@
 [submodule "uc8wt4-lazy-file-processing-engine"]
 	path = uc8wt4-lazy-file-processing-engine
 	url = https://github.com/eaglepointAiLabs/uc8wt4-lazy-file-processing-engine.git
+
+[submodule "feuqwl-container-orchestration-scheduler"]
+	path = feuqwl-container-orchestration-scheduler
+	url = https://github.com/eaglepointAiLabs/feuqwl-container-orchestration-scheduler.git
