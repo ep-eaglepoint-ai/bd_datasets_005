@@ -309,3 +309,7 @@
 [submodule "jcksnh-fix-session-billing-duration-calculation"]
 	path = jcksnh-fix-session-billing-duration-calculation
 	url = https://github.com/eaglepointAiLabs/jcksnh-fix-session-billing-duration-calculation.git
+
+[submodule "tpapgf-wait-free-mpsc-queue"]
+	path = tpapgf-wait-free-mpsc-queue
+	url = https://github.com/eaglepointAiLabs/tpapgf-wait-free-mpsc-queue.git
