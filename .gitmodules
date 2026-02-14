@@ -477,3 +477,7 @@
 [submodule "4kmc8h-linear-time-category-tree-builder-refactor"]
 	path = 4kmc8h-linear-time-category-tree-builder-refactor
 	url = https://github.com/eaglepointAiLabs/4kmc8h-linear-time-category-tree-builder-refactor.git
+
+[submodule "4qg1ei-optimize-order-to-customer-enrichment-while-preserving-observable-behavior"]
+	path = 4qg1ei-optimize-order-to-customer-enrichment-while-preserving-observable-behavior
+	url = https://github.com/eaglepointAiLabs/4qg1ei-optimize-order-to-customer-enrichment-while-preserving-observable-behavior.git
