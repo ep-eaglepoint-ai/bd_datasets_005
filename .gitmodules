@@ -501,3 +501,7 @@
 [submodule "j5c0rb-upgrade-react-quote-generator"]
 	path = j5c0rb-upgrade-react-quote-generator
 	url = https://github.com/eaglepointAiLabs/j5c0rb-upgrade-react-quote-generator.git
+
+[submodule "qbreyt-algorithmic-optimization-via-trie"]
+	path = qbreyt-algorithmic-optimization-via-trie
+	url = https://github.com/eaglepointAiLabs/qbreyt-algorithmic-optimization-via-trie.git
