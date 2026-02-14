@@ -285,3 +285,7 @@
 [submodule "5gtglh-optimizing-a-legacy-node-js-ranking-function-under-strict-behavioral-constraints"]
 	path = 5gtglh-optimizing-a-legacy-node-js-ranking-function-under-strict-behavioral-constraints
 	url = https://github.com/eaglepointAiLabs/5gtglh-optimizing-a-legacy-node-js-ranking-function-under-strict-behavioral-constraints.git
+
+[submodule "wgadh9-concurrency-safe-admin-demotion-in-postgresql-without-serializable-isolation"]
+	path = wgadh9-concurrency-safe-admin-demotion-in-postgresql-without-serializable-isolation
+	url = https://github.com/eaglepointAiLabs/wgadh9-concurrency-safe-admin-demotion-in-postgresql-without-serializable-isolation.git
