@@ -509,3 +509,7 @@
 [submodule "bwe0kr-lock-free-circular-buffer-test-suite"]
 	path = bwe0kr-lock-free-circular-buffer-test-suite
 	url = https://github.com/eaglepointAiLabs/bwe0kr-lock-free-circular-buffer-test-suite.git
+
+[submodule "7yx8z4-loganalyzer-test-suite"]
+	path = 7yx8z4-loganalyzer-test-suite
+	url = https://github.com/eaglepointAiLabs/7yx8z4-loganalyzer-test-suite.git
