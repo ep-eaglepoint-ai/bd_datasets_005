@@ -277,3 +277,7 @@
 [submodule "xfkhp4-deterministic-in-memory-shipment-state-store-for-adversarial-event-streams"]
 	path = xfkhp4-deterministic-in-memory-shipment-state-store-for-adversarial-event-streams
 	url = https://github.com/eaglepointAiLabs/xfkhp4-deterministic-in-memory-shipment-state-store-for-adversarial-event-streams.git
+
+[submodule "gmnmsy-production-grade-deterministic-onboarding-event-processor-with-concurrency-safety"]
+	path = gmnmsy-production-grade-deterministic-onboarding-event-processor-with-concurrency-safety
+	url = https://github.com/eaglepointAiLabs/gmnmsy-production-grade-deterministic-onboarding-event-processor-with-concurrency-safety.git
