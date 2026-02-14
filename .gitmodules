@@ -149,3 +149,7 @@
 [submodule "4muqyc-optimizing-a-rolling-metrics-store-with-strict-behavioral-guarantees"]
 	path = 4muqyc-optimizing-a-rolling-metrics-store-with-strict-behavioral-guarantees
 	url = https://github.com/eaglepointAiLabs/4muqyc-optimizing-a-rolling-metrics-store-with-strict-behavioral-guarantees.git
+
+[submodule "ztk83a-personal-task-tracker-module"]
+	path = ztk83a-personal-task-tracker-module
+	url = https://github.com/eaglepointAiLabs/ztk83a-personal-task-tracker-module.git
