@@ -169,3 +169,7 @@
 [submodule "lchouw-fix-background-task-lifecycle-management-in-webhook-dispatcher"]
 	path = lchouw-fix-background-task-lifecycle-management-in-webhook-dispatcher
 	url = https://github.com/eaglepointAiLabs/lchouw-fix-background-task-lifecycle-management-in-webhook-dispatcher.git
+
+[submodule "z1z6zs-optimize-leaderboard-ranking-algorithm-for-real-time-performance"]
+	path = z1z6zs-optimize-leaderboard-ranking-algorithm-for-real-time-performance
+	url = https://github.com/eaglepointAiLabs/z1z6zs-optimize-leaderboard-ranking-algorithm-for-real-time-performance.git
