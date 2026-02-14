@@ -173,3 +173,7 @@
 [submodule "z1z6zs-optimize-leaderboard-ranking-algorithm-for-real-time-performance"]
 	path = z1z6zs-optimize-leaderboard-ranking-algorithm-for-real-time-performance
 	url = https://github.com/eaglepointAiLabs/z1z6zs-optimize-leaderboard-ranking-algorithm-for-real-time-performance.git
+
+[submodule "axxpqk-fix-attachment-leakage-in-email-notification-service"]
+	path = axxpqk-fix-attachment-leakage-in-email-notification-service
+	url = https://github.com/eaglepointAiLabs/axxpqk-fix-attachment-leakage-in-email-notification-service.git
