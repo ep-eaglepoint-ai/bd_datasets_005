@@ -233,3 +233,7 @@
 [submodule "wrl2z5-course-enrollment-system"]
 	path = wrl2z5-course-enrollment-system
 	url = https://github.com/eaglepointAiLabs/wrl2z5-course-enrollment-system.git
+
+[submodule "kirs5r-appointment-scheduling-system"]
+	path = kirs5r-appointment-scheduling-system
+	url = https://github.com/eaglepointAiLabs/kirs5r-appointment-scheduling-system.git
