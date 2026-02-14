@@ -361,3 +361,7 @@
 [submodule "usaxfb-centralized-pagination-utility-for-node-js-rest-api"]
 	path = usaxfb-centralized-pagination-utility-for-node-js-rest-api
 	url = https://github.com/eaglepointAiLabs/usaxfb-centralized-pagination-utility-for-node-js-rest-api.git
+
+[submodule "yr0ftr-high-performance-geocoding-cache-with-request-collapsing-and-swr-in-node-js"]
+	path = yr0ftr-high-performance-geocoding-cache-with-request-collapsing-and-swr-in-node-js
+	url = https://github.com/eaglepointAiLabs/yr0ftr-high-performance-geocoding-cache-with-request-collapsing-and-swr-in-node-js.git
