@@ -25,3 +25,7 @@
 [submodule "fenlio-high-throughput-log-aggregation-system-testing-suite"]
 	path = fenlio-high-throughput-log-aggregation-system-testing-suite
 	url = https://github.com/eaglepointAiLabs/fenlio-high-throughput-log-aggregation-system-testing-suite.git
+
+[submodule "xesmgo-high-throughput-concurrent-log-aggregator-with-strict-flush-isolation-and-ordering-guarantees"]
+	path = xesmgo-high-throughput-concurrent-log-aggregator-with-strict-flush-isolation-and-ordering-guarantees
+	url = https://github.com/eaglepointAiLabs/xesmgo-high-throughput-concurrent-log-aggregator-with-strict-flush-isolation-and-ordering-guarantees.git
