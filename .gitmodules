@@ -185,3 +185,7 @@
 [submodule "9v9lh7-fix-unsafe-retry-logic-in-payment-charging-system"]
 	path = 9v9lh7-fix-unsafe-retry-logic-in-payment-charging-system
 	url = https://github.com/eaglepointAiLabs/9v9lh7-fix-unsafe-retry-logic-in-payment-charging-system.git
+
+[submodule "thn7a5-optimize-user-feed-endpoint-for-faster-response-times"]
+	path = thn7a5-optimize-user-feed-endpoint-for-faster-response-times
+	url = https://github.com/eaglepointAiLabs/thn7a5-optimize-user-feed-endpoint-for-faster-response-times.git
