@@ -389,3 +389,7 @@
 [submodule "u409n6-high-concurrency-card-position-predictor"]
 	path = u409n6-high-concurrency-card-position-predictor
 	url = https://github.com/eaglepointAiLabs/u409n6-high-concurrency-card-position-predictor.git
+
+[submodule "lhohki-writing-a-test-for-financial-reconciliation-logic"]
+	path = lhohki-writing-a-test-for-financial-reconciliation-logic
+	url = https://github.com/eaglepointAiLabs/lhohki-writing-a-test-for-financial-reconciliation-logic.git
