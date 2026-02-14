@@ -129,3 +129,7 @@
 [submodule "pjhljx-black-box-test-harness-for-an-inventory-reservation-engine"]
 	path = pjhljx-black-box-test-harness-for-an-inventory-reservation-engine
 	url = https://github.com/eaglepointAiLabs/pjhljx-black-box-test-harness-for-an-inventory-reservation-engine.git
+
+[submodule "pix1ke-streaming-gap-detector"]
+	path = pix1ke-streaming-gap-detector
+	url = https://github.com/eaglepointAiLabs/pix1ke-streaming-gap-detector.git
