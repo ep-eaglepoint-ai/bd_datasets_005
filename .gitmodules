@@ -453,3 +453,7 @@
 [submodule "r38wpn-resource-scheduling-with-spatial-adjacency-and-temporal-overlap-constraints"]
 	path = r38wpn-resource-scheduling-with-spatial-adjacency-and-temporal-overlap-constraints
 	url = https://github.com/eaglepointAiLabs/r38wpn-resource-scheduling-with-spatial-adjacency-and-temporal-overlap-constraints.git
+
+[submodule "x4p5c9-special-single-process-python"]
+	path = x4p5c9-special-single-process-python
+	url = https://github.com/eaglepointAiLabs/x4p5c9-special-single-process-python.git
