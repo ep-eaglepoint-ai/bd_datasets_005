@@ -97,3 +97,7 @@
 [submodule "xo9pre-boolean-algebraic-reduction-logic-integrity-under-constraint"]
 	path = xo9pre-boolean-algebraic-reduction-logic-integrity-under-constraint
 	url = https://github.com/eaglepointAiLabs/xo9pre-boolean-algebraic-reduction-logic-integrity-under-constraint.git
+
+[submodule "mn6k1c-deterministic-fleet-routing-with-time-windows-waiting-allowed-and-audit-ready-output"]
+	path = mn6k1c-deterministic-fleet-routing-with-time-windows-waiting-allowed-and-audit-ready-output
+	url = https://github.com/eaglepointAiLabs/mn6k1c-deterministic-fleet-routing-with-time-windows-waiting-allowed-and-audit-ready-output.git
