@@ -433,3 +433,7 @@
 [submodule "lmw1bt-add-automated-test-for-billing-module-used-by-an-internal-invoicing-system"]
 	path = lmw1bt-add-automated-test-for-billing-module-used-by-an-internal-invoicing-system
 	url = https://github.com/eaglepointAiLabs/lmw1bt-add-automated-test-for-billing-module-used-by-an-internal-invoicing-system.git
+
+[submodule "b9a5qz-optimization-of-moving-average-via-primitive-ring-buffe"]
+	path = b9a5qz-optimization-of-moving-average-via-primitive-ring-buffe
+	url = https://github.com/eaglepointAiLabs/b9a5qz-optimization-of-moving-average-via-primitive-ring-buffe.git
