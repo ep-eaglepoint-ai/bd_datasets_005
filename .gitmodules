@@ -421,3 +421,7 @@
 [submodule "4t8agl-optimize-clifford-algebra-multivector-neural-layers-for-pytorch"]
 	path = 4t8agl-optimize-clifford-algebra-multivector-neural-layers-for-pytorch
 	url = https://github.com/eaglepointAiLabs/4t8agl-optimize-clifford-algebra-multivector-neural-layers-for-pytorch.git
+
+[submodule "87mij4-unit-and-distributed-training-test-suite-for-chaotic-libtorch-model"]
+	path = 87mij4-unit-and-distributed-training-test-suite-for-chaotic-libtorch-model
+	url = https://github.com/eaglepointAiLabs/87mij4-unit-and-distributed-training-test-suite-for-chaotic-libtorch-model.git
