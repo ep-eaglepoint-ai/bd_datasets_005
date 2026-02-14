@@ -485,3 +485,7 @@
 [submodule "q1exis-deterministic-runtime-schema-validation-engine"]
 	path = q1exis-deterministic-runtime-schema-validation-engine
 	url = https://github.com/eaglepointAiLabs/q1exis-deterministic-runtime-schema-validation-engine.git
+
+[submodule "oh2kpi-address-line-sanitizer-comprehensive-test-suite"]
+	path = oh2kpi-address-line-sanitizer-comprehensive-test-suite
+	url = https://github.com/eaglepointAiLabs/oh2kpi-address-line-sanitizer-comprehensive-test-suite.git
