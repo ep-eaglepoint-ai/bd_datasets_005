@@ -525,3 +525,7 @@
 [submodule "7q5agc-messcache-test-suite"]
 	path = 7q5agc-messcache-test-suite
 	url = https://github.com/eaglepointAiLabs/7q5agc-messcache-test-suite.git
+
+[submodule "sdsid2-messcache-haskell-test-suite"]
+	path = sdsid2-messcache-haskell-test-suite
+	url = https://github.com/eaglepointAiLabs/sdsid2-messcache-haskell-test-suite.git
