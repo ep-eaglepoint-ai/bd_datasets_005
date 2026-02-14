@@ -497,3 +497,7 @@
 [submodule "ecnbc0-concurrency-testing-for-go-cache"]
 	path = ecnbc0-concurrency-testing-for-go-cache
 	url = https://github.com/eaglepointAiLabs/ecnbc0-concurrency-testing-for-go-cache.git
+
+[submodule "j5c0rb-upgrade-react-quote-generator"]
+	path = j5c0rb-upgrade-react-quote-generator
+	url = https://github.com/eaglepointAiLabs/j5c0rb-upgrade-react-quote-generator.git
