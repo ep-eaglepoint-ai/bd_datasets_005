@@ -413,3 +413,7 @@
 [submodule "fp8n24-optimize-an-analytics-api-for-a-content-platform"]
 	path = fp8n24-optimize-an-analytics-api-for-a-content-platform
 	url = https://github.com/eaglepointAiLabs/fp8n24-optimize-an-analytics-api-for-a-content-platform.git
+
+[submodule "mcvld6-multivector-clifford-algebra-c-test-suite"]
+	path = mcvld6-multivector-clifford-algebra-c-test-suite
+	url = https://github.com/eaglepointAiLabs/mcvld6-multivector-clifford-algebra-c-test-suite.git
