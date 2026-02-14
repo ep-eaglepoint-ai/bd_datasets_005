@@ -249,3 +249,7 @@
 [submodule "z14ul0-expense-tracking-and-reimbursement-system-with-approval-workflow-and-receipt-management"]
 	path = z14ul0-expense-tracking-and-reimbursement-system-with-approval-workflow-and-receipt-management
 	url = https://github.com/eaglepointAiLabs/z14ul0-expense-tracking-and-reimbursement-system-with-approval-workflow-and-receipt-management.git
+
+[submodule "ccfugk-customer-support-ticketing-system"]
+	path = ccfugk-customer-support-ticketing-system
+	url = https://github.com/eaglepointAiLabs/ccfugk-customer-support-ticketing-system.git
