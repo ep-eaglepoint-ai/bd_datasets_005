@@ -141,3 +141,7 @@
 [submodule "feuqwl-container-orchestration-scheduler"]
 	path = feuqwl-container-orchestration-scheduler
 	url = https://github.com/eaglepointAiLabs/feuqwl-container-orchestration-scheduler.git
+
+[submodule "thr5zw-deterministic-time-based-rule-evaluation-engine"]
+	path = thr5zw-deterministic-time-based-rule-evaluation-engine
+	url = https://github.com/eaglepointAiLabs/thr5zw-deterministic-time-based-rule-evaluation-engine.git
