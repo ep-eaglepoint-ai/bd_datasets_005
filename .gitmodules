@@ -449,3 +449,7 @@
 [submodule "80bypp-special-task-queue-typescript"]
 	path = 80bypp-special-task-queue-typescript
 	url = https://github.com/eaglepointAiLabs/80bypp-special-task-queue-typescript.git
+
+[submodule "r38wpn-resource-scheduling-with-spatial-adjacency-and-temporal-overlap-constraints"]
+	path = r38wpn-resource-scheduling-with-spatial-adjacency-and-temporal-overlap-constraints
+	url = https://github.com/eaglepointAiLabs/r38wpn-resource-scheduling-with-spatial-adjacency-and-temporal-overlap-constraints.git
