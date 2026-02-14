@@ -153,3 +153,7 @@
 [submodule "ztk83a-personal-task-tracker-module"]
 	path = ztk83a-personal-task-tracker-module
 	url = https://github.com/eaglepointAiLabs/ztk83a-personal-task-tracker-module.git
+
+[submodule "v81bbo-secure-password-validation-module"]
+	path = v81bbo-secure-password-validation-module
+	url = https://github.com/eaglepointAiLabs/v81bbo-secure-password-validation-module.git
