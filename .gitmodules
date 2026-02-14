@@ -81,3 +81,7 @@
 [submodule "y55brq-build-a-full-stack-digital-ordering-loyalty-system-for-a-coffee-shop"]
 	path = y55brq-build-a-full-stack-digital-ordering-loyalty-system-for-a-coffee-shop
 	url = https://github.com/eaglepointAiLabs/y55brq-build-a-full-stack-digital-ordering-loyalty-system-for-a-coffee-shop.git
+
+[submodule "ivxjc2-canonical-shipment-status-engine-determinism-and-safety-evaluation"]
+	path = ivxjc2-canonical-shipment-status-engine-determinism-and-safety-evaluation
+	url = https://github.com/eaglepointAiLabs/ivxjc2-canonical-shipment-status-engine-determinism-and-safety-evaluation.git
