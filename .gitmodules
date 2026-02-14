@@ -253,3 +253,7 @@
 [submodule "ccfugk-customer-support-ticketing-system"]
 	path = ccfugk-customer-support-ticketing-system
 	url = https://github.com/eaglepointAiLabs/ccfugk-customer-support-ticketing-system.git
+
+[submodule "x4rxnn-expense-approval-system"]
+	path = x4rxnn-expense-approval-system
+	url = https://github.com/eaglepointAiLabs/x4rxnn-expense-approval-system.git
