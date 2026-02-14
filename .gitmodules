@@ -321,3 +321,7 @@
 [submodule "z16aee-refactor-user-activity-tracking-for-performance-and-accuracy"]
 	path = z16aee-refactor-user-activity-tracking-for-performance-and-accuracy
 	url = https://github.com/eaglepointAiLabs/z16aee-refactor-user-activity-tracking-for-performance-and-accuracy.git
+
+[submodule "8e11lo-epidemic-style-gossip-protocol-with-eventual-consistency"]
+	path = 8e11lo-epidemic-style-gossip-protocol-with-eventual-consistency
+	url = https://github.com/eaglepointAiLabs/8e11lo-epidemic-style-gossip-protocol-with-eventual-consistency.git
