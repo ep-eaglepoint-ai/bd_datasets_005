@@ -337,3 +337,7 @@
 [submodule "ea57nd-optimize-user-engagement-report-generation"]
 	path = ea57nd-optimize-user-engagement-report-generation
 	url = https://github.com/eaglepointAiLabs/ea57nd-optimize-user-engagement-report-generation.git
+
+[submodule "3yfxdo-thread-safe-grpc-service-for-distributed-state-management"]
+	path = 3yfxdo-thread-safe-grpc-service-for-distributed-state-management
+	url = https://github.com/eaglepointAiLabs/3yfxdo-thread-safe-grpc-service-for-distributed-state-management.git
