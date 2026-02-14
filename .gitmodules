@@ -325,3 +325,7 @@
 [submodule "8e11lo-epidemic-style-gossip-protocol-with-eventual-consistency"]
 	path = 8e11lo-epidemic-style-gossip-protocol-with-eventual-consistency
 	url = https://github.com/eaglepointAiLabs/8e11lo-epidemic-style-gossip-protocol-with-eventual-consistency.git
+
+[submodule "ced19l-fix-support-ticket-state-machine-transitions"]
+	path = ced19l-fix-support-ticket-state-machine-transitions
+	url = https://github.com/eaglepointAiLabs/ced19l-fix-support-ticket-state-machine-transitions.git
