@@ -265,3 +265,7 @@
 [submodule "wxv7sy-cache-system-with-consistent-hashing-and-quorum-replication"]
 	path = wxv7sy-cache-system-with-consistent-hashing-and-quorum-replication
 	url = https://github.com/eaglepointAiLabs/wxv7sy-cache-system-with-consistent-hashing-and-quorum-replication.git
+
+[submodule "lrsihq-distributed-lock-manager-with-quorum-based-acquisition-and-deadlock-detection"]
+	path = lrsihq-distributed-lock-manager-with-quorum-based-acquisition-and-deadlock-detection
+	url = https://github.com/eaglepointAiLabs/lrsihq-distributed-lock-manager-with-quorum-based-acquisition-and-deadlock-detection.git
