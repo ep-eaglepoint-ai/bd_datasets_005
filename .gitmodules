@@ -517,3 +517,7 @@
 [submodule "9ug83i-inventorymanager-concurrency-test-suite"]
 	path = 9ug83i-inventorymanager-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/9ug83i-inventorymanager-concurrency-test-suite.git
+
+[submodule "0jwk2b-transactional-inventory-reservation-with-deadlock-free-locking"]
+	path = 0jwk2b-transactional-inventory-reservation-with-deadlock-free-locking
+	url = https://github.com/eaglepointAiLabs/0jwk2b-transactional-inventory-reservation-with-deadlock-free-locking.git
