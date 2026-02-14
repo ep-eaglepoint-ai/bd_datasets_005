@@ -57,3 +57,7 @@
 [submodule "44muh8-minimal-full-stack-item-list-application"]
 	path = 44muh8-minimal-full-stack-item-list-application
 	url = https://github.com/eaglepointAiLabs/44muh8-minimal-full-stack-item-list-application.git
+
+[submodule "zsbm15-complex-in-memory-rate-limiter-with-idempotency-and-sliding-window-enforcement"]
+	path = zsbm15-complex-in-memory-rate-limiter-with-idempotency-and-sliding-window-enforcement
+	url = https://github.com/eaglepointAiLabs/zsbm15-complex-in-memory-rate-limiter-with-idempotency-and-sliding-window-enforcement.git
