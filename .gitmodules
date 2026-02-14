@@ -529,3 +529,7 @@
 [submodule "sdsid2-messcache-haskell-test-suite"]
 	path = sdsid2-messcache-haskell-test-suite
 	url = https://github.com/eaglepointAiLabs/sdsid2-messcache-haskell-test-suite.git
+
+[submodule "nctero-lua-registry-module-multi-tenant-test-suite"]
+	path = nctero-lua-registry-module-multi-tenant-test-suite
+	url = https://github.com/eaglepointAiLabs/nctero-lua-registry-module-multi-tenant-test-suite.git
