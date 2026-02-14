@@ -205,3 +205,7 @@
 [submodule "alp5fg-optimize-node-js-etl-pipeline-for-large-file-processing"]
 	path = alp5fg-optimize-node-js-etl-pipeline-for-large-file-processing
 	url = https://github.com/eaglepointAiLabs/alp5fg-optimize-node-js-etl-pipeline-for-large-file-processing.git
+
+[submodule "ji1dhw-add-comprehensive-tests-for-react-shopping-cart-component"]
+	path = ji1dhw-add-comprehensive-tests-for-react-shopping-cart-component
+	url = https://github.com/eaglepointAiLabs/ji1dhw-add-comprehensive-tests-for-react-shopping-cart-component.git
