@@ -357,3 +357,7 @@
 [submodule "tgr8rs-audit-interceptor-middleware"]
 	path = tgr8rs-audit-interceptor-middleware
 	url = https://github.com/eaglepointAiLabs/tgr8rs-audit-interceptor-middleware.git
+
+[submodule "usaxfb-centralized-pagination-utility-for-node-js-rest-api"]
+	path = usaxfb-centralized-pagination-utility-for-node-js-rest-api
+	url = https://github.com/eaglepointAiLabs/usaxfb-centralized-pagination-utility-for-node-js-rest-api.git
