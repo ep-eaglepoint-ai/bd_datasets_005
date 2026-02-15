@@ -533,3 +533,7 @@
 [submodule "nctero-lua-registry-module-multi-tenant-test-suite"]
 	path = nctero-lua-registry-module-multi-tenant-test-suite
 	url = https://github.com/eaglepointAiLabs/nctero-lua-registry-module-multi-tenant-test-suite.git
+
+[submodule "07x20k-special-python-parser"]
+	path = 07x20k-special-python-parser
+	url = https://github.com/eaglepointAiLabs/07x20k-special-python-parser.git
