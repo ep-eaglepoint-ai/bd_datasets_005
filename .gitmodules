@@ -553,3 +553,7 @@
 [submodule "opl0t3-c-17-behavior-tree-library-for-game-ai"]
 	path = opl0t3-c-17-behavior-tree-library-for-game-ai
 	url = https://github.com/eaglepointAiLabs/opl0t3-c-17-behavior-tree-library-for-game-ai.git
+
+[submodule "i9lw6z-dynamic-spatial-hash-map-for-2d-multiplayer-game-server"]
+	path = i9lw6z-dynamic-spatial-hash-map-for-2d-multiplayer-game-server
+	url = https://github.com/eaglepointAiLabs/i9lw6z-dynamic-spatial-hash-map-for-2d-multiplayer-game-server.git
