@@ -537,3 +537,7 @@
 [submodule "07x20k-special-python-parser"]
 	path = 07x20k-special-python-parser
 	url = https://github.com/eaglepointAiLabs/07x20k-special-python-parser.git
+
+[submodule "imkwhd-h-o-thread-synchronization"]
+	path = imkwhd-h-o-thread-synchronization
+	url = https://github.com/eaglepointAiLabs/imkwhd-h-o-thread-synchronization.git
