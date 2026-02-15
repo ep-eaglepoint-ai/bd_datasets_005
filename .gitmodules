@@ -561,3 +561,7 @@
 [submodule "7owgm3-concurrent-job-processor-test-suite"]
 	path = 7owgm3-concurrent-job-processor-test-suite
 	url = https://github.com/eaglepointAiLabs/7owgm3-concurrent-job-processor-test-suite.git
+
+[submodule "s5hgxb-concurrent-expiring-lru-cache-test-suite"]
+	path = s5hgxb-concurrent-expiring-lru-cache-test-suite
+	url = https://github.com/eaglepointAiLabs/s5hgxb-concurrent-expiring-lru-cache-test-suite.git
