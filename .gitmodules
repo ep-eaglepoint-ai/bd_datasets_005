@@ -545,3 +545,7 @@
 [submodule "a60by2-persistent-concurrent-key-value-store-in-haskell"]
 	path = a60by2-persistent-concurrent-key-value-store-in-haskell
 	url = https://github.com/eaglepointAiLabs/a60by2-persistent-concurrent-key-value-store-in-haskell.git
+
+[submodule "htixif-haskell-telemetry-aggregator-with-gadts-and-constant-space"]
+	path = htixif-haskell-telemetry-aggregator-with-gadts-and-constant-space
+	url = https://github.com/eaglepointAiLabs/htixif-haskell-telemetry-aggregator-with-gadts-and-constant-space.git
