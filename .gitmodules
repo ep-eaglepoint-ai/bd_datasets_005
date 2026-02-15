@@ -549,3 +549,7 @@
 [submodule "htixif-haskell-telemetry-aggregator-with-gadts-and-constant-space"]
 	path = htixif-haskell-telemetry-aggregator-with-gadts-and-constant-space
 	url = https://github.com/eaglepointAiLabs/htixif-haskell-telemetry-aggregator-with-gadts-and-constant-space.git
+
+[submodule "opl0t3-c-17-behavior-tree-library-for-game-ai"]
+	path = opl0t3-c-17-behavior-tree-library-for-game-ai
+	url = https://github.com/eaglepointAiLabs/opl0t3-c-17-behavior-tree-library-for-game-ai.git
