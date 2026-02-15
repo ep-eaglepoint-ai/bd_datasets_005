@@ -557,3 +557,7 @@
 [submodule "i9lw6z-dynamic-spatial-hash-map-for-2d-multiplayer-game-server"]
 	path = i9lw6z-dynamic-spatial-hash-map-for-2d-multiplayer-game-server
 	url = https://github.com/eaglepointAiLabs/i9lw6z-dynamic-spatial-hash-map-for-2d-multiplayer-game-server.git
+
+[submodule "7owgm3-concurrent-job-processor-test-suite"]
+	path = 7owgm3-concurrent-job-processor-test-suite
+	url = https://github.com/eaglepointAiLabs/7owgm3-concurrent-job-processor-test-suite.git
