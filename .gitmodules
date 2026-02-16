@@ -661,3 +661,7 @@
 [submodule "fhdyd4-optimizing-a-real-time-messaging-service"]
 	path = fhdyd4-optimizing-a-real-time-messaging-service
 	url = https://github.com/eaglepointAiLabs/fhdyd4-optimizing-a-real-time-messaging-service.git
+
+[submodule "acde8x-optimize-and-clean-up-chaotic-emd-sinkhorn-barycenter-and-neural-network-c-code"]
+	path = acde8x-optimize-and-clean-up-chaotic-emd-sinkhorn-barycenter-and-neural-network-c-code
+	url = https://github.com/eaglepointAiLabs/acde8x-optimize-and-clean-up-chaotic-emd-sinkhorn-barycenter-and-neural-network-c-code.git
