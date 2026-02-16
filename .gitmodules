@@ -813,3 +813,7 @@
 [submodule "al3lb5-efficient-student-term-gpa-report-generator"]
 	path = al3lb5-efficient-student-term-gpa-report-generator
 	url = https://github.com/eaglepointAiLabs/al3lb5-efficient-student-term-gpa-report-generator.git
+
+[submodule "u4sl4h-implement-concurrency-limited-taskrunner-utility"]
+	path = u4sl4h-implement-concurrency-limited-taskrunner-utility
+	url = https://github.com/eaglepointAiLabs/u4sl4h-implement-concurrency-limited-taskrunner-utility.git
