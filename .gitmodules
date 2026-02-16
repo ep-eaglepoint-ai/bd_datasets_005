@@ -741,3 +741,7 @@
 [submodule "etpapd-escrow-state-machine-with-pl-pgsql-triggers-and-invariant-enforcement"]
 	path = etpapd-escrow-state-machine-with-pl-pgsql-triggers-and-invariant-enforcement
 	url = https://github.com/eaglepointAiLabs/etpapd-escrow-state-machine-with-pl-pgsql-triggers-and-invariant-enforcement.git
+
+[submodule "oa99oh-row-level-multi-tenancy-via-custom-managers-and-thread-locals"]
+	path = oa99oh-row-level-multi-tenancy-via-custom-managers-and-thread-locals
+	url = https://github.com/eaglepointAiLabs/oa99oh-row-level-multi-tenancy-via-custom-managers-and-thread-locals.git
