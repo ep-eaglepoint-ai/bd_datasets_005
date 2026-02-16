@@ -849,3 +849,7 @@
 [submodule "mva5x9-implement-deterministic-test-suite-for-retrypolicydecorator"]
 	path = mva5x9-implement-deterministic-test-suite-for-retrypolicydecorator
 	url = https://github.com/eaglepointAiLabs/mva5x9-implement-deterministic-test-suite-for-retrypolicydecorator.git
+
+[submodule "7ld6te-ride-hailing-promotion-fare-calculation-engine"]
+	path = 7ld6te-ride-hailing-promotion-fare-calculation-engine
+	url = https://github.com/eaglepointAiLabs/7ld6te-ride-hailing-promotion-fare-calculation-engine.git
