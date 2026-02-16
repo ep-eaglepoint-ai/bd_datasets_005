@@ -857,3 +857,7 @@
 [submodule "gtajxe-add-automated-test-suite-for-an-inventory-analytics-service"]
 	path = gtajxe-add-automated-test-suite-for-an-inventory-analytics-service
 	url = https://github.com/eaglepointAiLabs/gtajxe-add-automated-test-suite-for-an-inventory-analytics-service.git
+
+[submodule "1wd89u-implement-comprehensive-test-suite-for-transferservice"]
+	path = 1wd89u-implement-comprehensive-test-suite-for-transferservice
+	url = https://github.com/eaglepointAiLabs/1wd89u-implement-comprehensive-test-suite-for-transferservice.git
