@@ -649,3 +649,7 @@
 [submodule "5kbf41-adaptive-liquid-neural-network-unit-testing"]
 	path = 5kbf41-adaptive-liquid-neural-network-unit-testing
 	url = https://github.com/eaglepointAiLabs/5kbf41-adaptive-liquid-neural-network-unit-testing.git
+
+[submodule "dom8jc-optimize-nightmare-liquid-neural-network-for-cpu-and-memory-efficiency"]
+	path = dom8jc-optimize-nightmare-liquid-neural-network-for-cpu-and-memory-efficiency
+	url = https://github.com/eaglepointAiLabs/dom8jc-optimize-nightmare-liquid-neural-network-for-cpu-and-memory-efficiency.git
