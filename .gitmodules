@@ -569,3 +569,7 @@
 [submodule "h6xfj0-actor-system-concurrency-test-suite"]
 	path = h6xfj0-actor-system-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/h6xfj0-actor-system-concurrency-test-suite.git
+
+[submodule "35va7f-binary-header-signature-audit"]
+	path = 35va7f-binary-header-signature-audit
+	url = https://github.com/eaglepointAiLabs/35va7f-binary-header-signature-audit.git
