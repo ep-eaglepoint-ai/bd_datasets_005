@@ -713,3 +713,7 @@
 [submodule "euw9kr-probabilistic-occupancy-estimation-via-poisson-processes"]
 	path = euw9kr-probabilistic-occupancy-estimation-via-poisson-processes
 	url = https://github.com/eaglepointAiLabs/euw9kr-probabilistic-occupancy-estimation-via-poisson-processes.git
+
+[submodule "nhsnk8-server-side-radius-clustering-with-web-mercator-projection"]
+	path = nhsnk8-server-side-radius-clustering-with-web-mercator-projection
+	url = https://github.com/eaglepointAiLabs/nhsnk8-server-side-radius-clustering-with-web-mercator-projection.git
