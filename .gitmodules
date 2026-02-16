@@ -705,3 +705,7 @@
 [submodule "s3rgmz-optimization-of-reservation-logic-via-bitmasks"]
 	path = s3rgmz-optimization-of-reservation-logic-via-bitmasks
 	url = https://github.com/eaglepointAiLabs/s3rgmz-optimization-of-reservation-logic-via-bitmasks.git
+
+[submodule "o2zmkl-resource-reservation-system-with-capacity-and-expiration-management"]
+	path = o2zmkl-resource-reservation-system-with-capacity-and-expiration-management
+	url = https://github.com/eaglepointAiLabs/o2zmkl-resource-reservation-system-with-capacity-and-expiration-management.git
