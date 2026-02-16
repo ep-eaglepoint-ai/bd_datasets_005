@@ -757,3 +757,7 @@
 [submodule "udz823-flask-feature-flag-service"]
 	path = udz823-flask-feature-flag-service
 	url = https://github.com/eaglepointAiLabs/udz823-flask-feature-flag-service.git
+
+[submodule "wwj073-python-text-analyzer-utility"]
+	path = wwj073-python-text-analyzer-utility
+	url = https://github.com/eaglepointAiLabs/wwj073-python-text-analyzer-utility.git
