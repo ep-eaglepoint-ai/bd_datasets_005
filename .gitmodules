@@ -609,3 +609,7 @@
 [submodule "bj600o-api-middleware-chain-bottleneck-fix"]
 	path = bj600o-api-middleware-chain-bottleneck-fix
 	url = https://github.com/eaglepointAiLabs/bj600o-api-middleware-chain-bottleneck-fix.git
+
+[submodule "3eihn6-add-historical-activity-tracking-feature-to-library-catalog-service"]
+	path = 3eihn6-add-historical-activity-tracking-feature-to-library-catalog-service
+	url = https://github.com/eaglepointAiLabs/3eihn6-add-historical-activity-tracking-feature-to-library-catalog-service.git
