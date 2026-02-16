@@ -873,3 +873,7 @@
 [submodule "i8y5np-tic-tac-toe-cli-test-suite"]
 	path = i8y5np-tic-tac-toe-cli-test-suite
 	url = https://github.com/eaglepointAiLabs/i8y5np-tic-tac-toe-cli-test-suite.git
+
+[submodule "rivgek-go-cache-concurrency-test-suite"]
+	path = rivgek-go-cache-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/rivgek-go-cache-concurrency-test-suite.git
