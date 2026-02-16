@@ -709,3 +709,7 @@
 [submodule "o2zmkl-resource-reservation-system-with-capacity-and-expiration-management"]
 	path = o2zmkl-resource-reservation-system-with-capacity-and-expiration-management
 	url = https://github.com/eaglepointAiLabs/o2zmkl-resource-reservation-system-with-capacity-and-expiration-management.git
+
+[submodule "euw9kr-probabilistic-occupancy-estimation-via-poisson-processes"]
+	path = euw9kr-probabilistic-occupancy-estimation-via-poisson-processes
+	url = https://github.com/eaglepointAiLabs/euw9kr-probabilistic-occupancy-estimation-via-poisson-processes.git
