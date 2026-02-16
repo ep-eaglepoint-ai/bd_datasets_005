@@ -669,3 +669,7 @@
 [submodule "vzhz01-comprehensive-test-suite-for-distribution-and-simple-wgan-library"]
 	path = vzhz01-comprehensive-test-suite-for-distribution-and-simple-wgan-library
 	url = https://github.com/eaglepointAiLabs/vzhz01-comprehensive-test-suite-for-distribution-and-simple-wgan-library.git
+
+[submodule "9qexwz-optimizing-a-chaotic-neuro-symbolic-pipeline"]
+	path = 9qexwz-optimizing-a-chaotic-neuro-symbolic-pipeline
+	url = https://github.com/eaglepointAiLabs/9qexwz-optimizing-a-chaotic-neuro-symbolic-pipeline.git
