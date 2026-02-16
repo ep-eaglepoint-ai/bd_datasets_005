@@ -793,3 +793,7 @@
 [submodule "2ij8f2-extending-a-classroom-assignment-tracking-api"]
 	path = 2ij8f2-extending-a-classroom-assignment-tracking-api
 	url = https://github.com/eaglepointAiLabs/2ij8f2-extending-a-classroom-assignment-tracking-api.git
+
+[submodule "ohpi5t-cancellable-generator-execution"]
+	path = ohpi5t-cancellable-generator-execution
+	url = https://github.com/eaglepointAiLabs/ohpi5t-cancellable-generator-execution.git
