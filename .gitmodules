@@ -861,3 +861,7 @@
 [submodule "1wd89u-implement-comprehensive-test-suite-for-transferservice"]
 	path = 1wd89u-implement-comprehensive-test-suite-for-transferservice
 	url = https://github.com/eaglepointAiLabs/1wd89u-implement-comprehensive-test-suite-for-transferservice.git
+
+[submodule "wazltd-transactional-outbox-pattern-with-raw-sqlite"]
+	path = wazltd-transactional-outbox-pattern-with-raw-sqlite
+	url = https://github.com/eaglepointAiLabs/wazltd-transactional-outbox-pattern-with-raw-sqlite.git
