@@ -689,3 +689,7 @@
 [submodule "u0ssut-multi-stage-user-processing-pipeline-test-design"]
 	path = u0ssut-multi-stage-user-processing-pipeline-test-design
 	url = https://github.com/eaglepointAiLabs/u0ssut-multi-stage-user-processing-pipeline-test-design.git
+
+[submodule "dtgumy-configurable-deterministic-deep-merge-utility"]
+	path = dtgumy-configurable-deterministic-deep-merge-utility
+	url = https://github.com/eaglepointAiLabs/dtgumy-configurable-deterministic-deep-merge-utility.git
