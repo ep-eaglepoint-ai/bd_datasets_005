@@ -693,3 +693,7 @@
 [submodule "dtgumy-configurable-deterministic-deep-merge-utility"]
 	path = dtgumy-configurable-deterministic-deep-merge-utility
 	url = https://github.com/eaglepointAiLabs/dtgumy-configurable-deterministic-deep-merge-utility.git
+
+[submodule "tz2ou9-robust-data-masking-utility-with-correct-auto-detection-and-edge-case-handling"]
+	path = tz2ou9-robust-data-masking-utility-with-correct-auto-detection-and-edge-case-handling
+	url = https://github.com/eaglepointAiLabs/tz2ou9-robust-data-masking-utility-with-correct-auto-detection-and-edge-case-handling.git
