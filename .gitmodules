@@ -657,3 +657,7 @@
 [submodule "521sxc-scheduled-media-lifecycle-purge-manager"]
 	path = 521sxc-scheduled-media-lifecycle-purge-manager
 	url = https://github.com/eaglepointAiLabs/521sxc-scheduled-media-lifecycle-purge-manager.git
+
+[submodule "fhdyd4-optimizing-a-real-time-messaging-service"]
+	path = fhdyd4-optimizing-a-real-time-messaging-service
+	url = https://github.com/eaglepointAiLabs/fhdyd4-optimizing-a-real-time-messaging-service.git
