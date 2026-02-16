@@ -773,3 +773,7 @@
 [submodule "petsy7-distributed-nodes-go"]
 	path = petsy7-distributed-nodes-go
 	url = https://github.com/eaglepointAiLabs/petsy7-distributed-nodes-go.git
+
+[submodule "lrq2n3-frontend-expense-tracker"]
+	path = lrq2n3-frontend-expense-tracker
+	url = https://github.com/eaglepointAiLabs/lrq2n3-frontend-expense-tracker.git
