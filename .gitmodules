@@ -697,3 +697,7 @@
 [submodule "tz2ou9-robust-data-masking-utility-with-correct-auto-detection-and-edge-case-handling"]
 	path = tz2ou9-robust-data-masking-utility-with-correct-auto-detection-and-edge-case-handling
 	url = https://github.com/eaglepointAiLabs/tz2ou9-robust-data-masking-utility-with-correct-auto-detection-and-edge-case-handling.git
+
+[submodule "ekw7w1-add-automated-test-for-a-financial-transaction-processing-component"]
+	path = ekw7w1-add-automated-test-for-a-financial-transaction-processing-component
+	url = https://github.com/eaglepointAiLabs/ekw7w1-add-automated-test-for-a-financial-transaction-processing-component.git
