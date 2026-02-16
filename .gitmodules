@@ -829,3 +829,7 @@
 [submodule "zzsiql-restaurant-order-tracking-system-test-suite"]
 	path = zzsiql-restaurant-order-tracking-system-test-suite
 	url = https://github.com/eaglepointAiLabs/zzsiql-restaurant-order-tracking-system-test-suite.git
+
+[submodule "jdmgxp-implement-impactanalyzer-for-dependency-graph-analysis"]
+	path = jdmgxp-implement-impactanalyzer-for-dependency-graph-analysis
+	url = https://github.com/eaglepointAiLabs/jdmgxp-implement-impactanalyzer-for-dependency-graph-analysis.git
