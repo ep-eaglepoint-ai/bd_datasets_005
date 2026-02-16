@@ -869,3 +869,7 @@
 [submodule "6fe659-snake-game-test-suite-with-google-test-and-mock"]
 	path = 6fe659-snake-game-test-suite-with-google-test-and-mock
 	url = https://github.com/eaglepointAiLabs/6fe659-snake-game-test-suite-with-google-test-and-mock.git
+
+[submodule "i8y5np-tic-tac-toe-cli-test-suite"]
+	path = i8y5np-tic-tac-toe-cli-test-suite
+	url = https://github.com/eaglepointAiLabs/i8y5np-tic-tac-toe-cli-test-suite.git
