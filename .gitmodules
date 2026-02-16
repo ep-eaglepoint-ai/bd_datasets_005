@@ -833,3 +833,7 @@
 [submodule "jdmgxp-implement-impactanalyzer-for-dependency-graph-analysis"]
 	path = jdmgxp-implement-impactanalyzer-for-dependency-graph-analysis
 	url = https://github.com/eaglepointAiLabs/jdmgxp-implement-impactanalyzer-for-dependency-graph-analysis.git
+
+[submodule "u200pa-optimizing-a-high-frequency-log-processing-service-for-a-financial-trading-platform"]
+	path = u200pa-optimizing-a-high-frequency-log-processing-service-for-a-financial-trading-platform
+	url = https://github.com/eaglepointAiLabs/u200pa-optimizing-a-high-frequency-log-processing-service-for-a-financial-trading-platform.git
