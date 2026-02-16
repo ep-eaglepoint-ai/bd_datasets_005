@@ -845,3 +845,7 @@
 [submodule "1x7c34-implement-high-performance-fuzzysearchengine-for-file-paths"]
 	path = 1x7c34-implement-high-performance-fuzzysearchengine-for-file-paths
 	url = https://github.com/eaglepointAiLabs/1x7c34-implement-high-performance-fuzzysearchengine-for-file-paths.git
+
+[submodule "mva5x9-implement-deterministic-test-suite-for-retrypolicydecorator"]
+	path = mva5x9-implement-deterministic-test-suite-for-retrypolicydecorator
+	url = https://github.com/eaglepointAiLabs/mva5x9-implement-deterministic-test-suite-for-retrypolicydecorator.git
