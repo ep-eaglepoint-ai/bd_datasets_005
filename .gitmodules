@@ -749,3 +749,7 @@
 [submodule "rxgjtd-extending-a-financial-ledger-system"]
 	path = rxgjtd-extending-a-financial-ledger-system
 	url = https://github.com/eaglepointAiLabs/rxgjtd-extending-a-financial-ledger-system.git
+
+[submodule "6zc1mg-node-js-cron-expression-parser-test-suite"]
+	path = 6zc1mg-node-js-cron-expression-parser-test-suite
+	url = https://github.com/eaglepointAiLabs/6zc1mg-node-js-cron-expression-parser-test-suite.git
