@@ -737,3 +737,7 @@
 [submodule "1397xu-log-aggregation-engine-throughput-and-memory-optimization"]
 	path = 1397xu-log-aggregation-engine-throughput-and-memory-optimization
 	url = https://github.com/eaglepointAiLabs/1397xu-log-aggregation-engine-throughput-and-memory-optimization.git
+
+[submodule "etpapd-escrow-state-machine-with-pl-pgsql-triggers-and-invariant-enforcement"]
+	path = etpapd-escrow-state-machine-with-pl-pgsql-triggers-and-invariant-enforcement
+	url = https://github.com/eaglepointAiLabs/etpapd-escrow-state-machine-with-pl-pgsql-triggers-and-invariant-enforcement.git
