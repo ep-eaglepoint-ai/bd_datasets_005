@@ -777,3 +777,7 @@
 [submodule "lrq2n3-frontend-expense-tracker"]
 	path = lrq2n3-frontend-expense-tracker
 	url = https://github.com/eaglepointAiLabs/lrq2n3-frontend-expense-tracker.git
+
+[submodule "ts0th8-image-gallery"]
+	path = ts0th8-image-gallery
+	url = https://github.com/eaglepointAiLabs/ts0th8-image-gallery.git
