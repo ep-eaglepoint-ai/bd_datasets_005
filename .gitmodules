@@ -769,3 +769,7 @@
 [submodule "eemdn8-generic-stack-structure"]
 	path = eemdn8-generic-stack-structure
 	url = https://github.com/eaglepointAiLabs/eemdn8-generic-stack-structure.git
+
+[submodule "petsy7-distributed-nodes-go"]
+	path = petsy7-distributed-nodes-go
+	url = https://github.com/eaglepointAiLabs/petsy7-distributed-nodes-go.git
