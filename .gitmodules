@@ -825,3 +825,7 @@
 [submodule "qcyf2m-optimize-pivotengine-aggregate-for-linear-time-grouping"]
 	path = qcyf2m-optimize-pivotengine-aggregate-for-linear-time-grouping
 	url = https://github.com/eaglepointAiLabs/qcyf2m-optimize-pivotengine-aggregate-for-linear-time-grouping.git
+
+[submodule "zzsiql-restaurant-order-tracking-system-test-suite"]
+	path = zzsiql-restaurant-order-tracking-system-test-suite
+	url = https://github.com/eaglepointAiLabs/zzsiql-restaurant-order-tracking-system-test-suite.git
