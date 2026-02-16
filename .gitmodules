@@ -645,3 +645,7 @@
 [submodule "ux3c0e-go-goroutine-leak-fix"]
 	path = ux3c0e-go-goroutine-leak-fix
 	url = https://github.com/eaglepointAiLabs/ux3c0e-go-goroutine-leak-fix.git
+
+[submodule "5kbf41-adaptive-liquid-neural-network-unit-testing"]
+	path = 5kbf41-adaptive-liquid-neural-network-unit-testing
+	url = https://github.com/eaglepointAiLabs/5kbf41-adaptive-liquid-neural-network-unit-testing.git
