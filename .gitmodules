@@ -621,3 +621,7 @@
 [submodule "7cfpmy-priority-based-in-memory-job-scheduler-with-dependency-validation"]
 	path = 7cfpmy-priority-based-in-memory-job-scheduler-with-dependency-validation
 	url = https://github.com/eaglepointAiLabs/7cfpmy-priority-based-in-memory-job-scheduler-with-dependency-validation.git
+
+[submodule "8kyev5-recursive-directory-tree-optimization"]
+	path = 8kyev5-recursive-directory-tree-optimization
+	url = https://github.com/eaglepointAiLabs/8kyev5-recursive-directory-tree-optimization.git
