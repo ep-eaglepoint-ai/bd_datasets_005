@@ -853,3 +853,7 @@
 [submodule "7ld6te-ride-hailing-promotion-fare-calculation-engine"]
 	path = 7ld6te-ride-hailing-promotion-fare-calculation-engine
 	url = https://github.com/eaglepointAiLabs/7ld6te-ride-hailing-promotion-fare-calculation-engine.git
+
+[submodule "gtajxe-add-automated-test-suite-for-an-inventory-analytics-service"]
+	path = gtajxe-add-automated-test-suite-for-an-inventory-analytics-service
+	url = https://github.com/eaglepointAiLabs/gtajxe-add-automated-test-suite-for-an-inventory-analytics-service.git
