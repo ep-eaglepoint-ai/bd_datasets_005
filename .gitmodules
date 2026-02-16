@@ -729,3 +729,7 @@
 [submodule "y6cahv-customer-support-chatbot-test-suite"]
 	path = y6cahv-customer-support-chatbot-test-suite
 	url = https://github.com/eaglepointAiLabs/y6cahv-customer-support-chatbot-test-suite.git
+
+[submodule "tmitf7-high-frequency-data-retention-via-postgresql-range-partitioning"]
+	path = tmitf7-high-frequency-data-retention-via-postgresql-range-partitioning
+	url = https://github.com/eaglepointAiLabs/tmitf7-high-frequency-data-retention-via-postgresql-range-partitioning.git
