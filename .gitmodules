@@ -685,3 +685,7 @@
 [submodule "5529bh-express-api-version-negotiation-middlewar"]
 	path = 5529bh-express-api-version-negotiation-middlewar
 	url = https://github.com/eaglepointAiLabs/5529bh-express-api-version-negotiation-middlewar.git
+
+[submodule "u0ssut-multi-stage-user-processing-pipeline-test-design"]
+	path = u0ssut-multi-stage-user-processing-pipeline-test-design
+	url = https://github.com/eaglepointAiLabs/u0ssut-multi-stage-user-processing-pipeline-test-design.git
