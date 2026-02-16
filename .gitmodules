@@ -801,3 +801,7 @@
 [submodule "2jxzzy-memoized-function-with-input-based-caching"]
 	path = 2jxzzy-memoized-function-with-input-based-caching
 	url = https://github.com/eaglepointAiLabs/2jxzzy-memoized-function-with-input-based-caching.git
+
+[submodule "jtcdar-roman-numeral-parser-unit-tests"]
+	path = jtcdar-roman-numeral-parser-unit-tests
+	url = https://github.com/eaglepointAiLabs/jtcdar-roman-numeral-parser-unit-tests.git
