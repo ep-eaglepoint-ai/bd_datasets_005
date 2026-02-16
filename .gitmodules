@@ -665,3 +665,7 @@
 [submodule "acde8x-optimize-and-clean-up-chaotic-emd-sinkhorn-barycenter-and-neural-network-c-code"]
 	path = acde8x-optimize-and-clean-up-chaotic-emd-sinkhorn-barycenter-and-neural-network-c-code
 	url = https://github.com/eaglepointAiLabs/acde8x-optimize-and-clean-up-chaotic-emd-sinkhorn-barycenter-and-neural-network-c-code.git
+
+[submodule "vzhz01-comprehensive-test-suite-for-distribution-and-simple-wgan-library"]
+	path = vzhz01-comprehensive-test-suite-for-distribution-and-simple-wgan-library
+	url = https://github.com/eaglepointAiLabs/vzhz01-comprehensive-test-suite-for-distribution-and-simple-wgan-library.git
