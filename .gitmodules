@@ -677,3 +677,7 @@
 [submodule "mm93u2-unit-and-functional-tests-for-digitnet-neural-network-with-symbolic-logic"]
 	path = mm93u2-unit-and-functional-tests-for-digitnet-neural-network-with-symbolic-logic
 	url = https://github.com/eaglepointAiLabs/mm93u2-unit-and-functional-tests-for-digitnet-neural-network-with-symbolic-logic.git
+
+[submodule "6yjkkp-circuit-breaker-http-client"]
+	path = 6yjkkp-circuit-breaker-http-client
+	url = https://github.com/eaglepointAiLabs/6yjkkp-circuit-breaker-http-client.git
