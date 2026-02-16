@@ -817,3 +817,7 @@
 [submodule "u4sl4h-implement-concurrency-limited-taskrunner-utility"]
 	path = u4sl4h-implement-concurrency-limited-taskrunner-utility
 	url = https://github.com/eaglepointAiLabs/u4sl4h-implement-concurrency-limited-taskrunner-utility.git
+
+[submodule "tlji32-implement-o1-metadata-lru-cache-with-strict-eviction"]
+	path = tlji32-implement-o1-metadata-lru-cache-with-strict-eviction
+	url = https://github.com/eaglepointAiLabs/tlji32-implement-o1-metadata-lru-cache-with-strict-eviction.git
