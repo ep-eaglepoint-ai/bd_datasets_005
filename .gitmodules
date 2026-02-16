@@ -593,3 +593,7 @@
 [submodule "8gj7lb-selective-json-telemetry-scanner"]
 	path = 8gj7lb-selective-json-telemetry-scanner
 	url = https://github.com/eaglepointAiLabs/8gj7lb-selective-json-telemetry-scanner.git
+
+[submodule "8o8x1w-recursive-directory-tree-optimization"]
+	path = 8o8x1w-recursive-directory-tree-optimization
+	url = https://github.com/eaglepointAiLabs/8o8x1w-recursive-directory-tree-optimization.git
