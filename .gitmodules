@@ -585,3 +585,7 @@
 [submodule "dkkjhx-html-unsafe-tag-stripper-audit"]
 	path = dkkjhx-html-unsafe-tag-stripper-audit
 	url = https://github.com/eaglepointAiLabs/dkkjhx-html-unsafe-tag-stripper-audit.git
+
+[submodule "29n1jp-laravel-report-service-query-optimization"]
+	path = 29n1jp-laravel-report-service-query-optimization
+	url = https://github.com/eaglepointAiLabs/29n1jp-laravel-report-service-query-optimization.git
