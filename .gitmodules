@@ -701,3 +701,7 @@
 [submodule "ekw7w1-add-automated-test-for-a-financial-transaction-processing-component"]
 	path = ekw7w1-add-automated-test-for-a-financial-transaction-processing-component
 	url = https://github.com/eaglepointAiLabs/ekw7w1-add-automated-test-for-a-financial-transaction-processing-component.git
+
+[submodule "s3rgmz-optimization-of-reservation-logic-via-bitmasks"]
+	path = s3rgmz-optimization-of-reservation-logic-via-bitmasks
+	url = https://github.com/eaglepointAiLabs/s3rgmz-optimization-of-reservation-logic-via-bitmasks.git
