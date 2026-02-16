@@ -625,3 +625,7 @@
 [submodule "8kyev5-recursive-directory-tree-optimization"]
 	path = 8kyev5-recursive-directory-tree-optimization
 	url = https://github.com/eaglepointAiLabs/8kyev5-recursive-directory-tree-optimization.git
+
+[submodule "75buu0-optimize-battery-rl-simulator-for-efficiency"]
+	path = 75buu0-optimize-battery-rl-simulator-for-efficiency
+	url = https://github.com/eaglepointAiLabs/75buu0-optimize-battery-rl-simulator-for-efficiency.git
