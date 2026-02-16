@@ -581,3 +581,7 @@
 [submodule "tdodv5-json-metadata-diffing-oracle-audit"]
 	path = tdodv5-json-metadata-diffing-oracle-audit
 	url = https://github.com/eaglepointAiLabs/tdodv5-json-metadata-diffing-oracle-audit.git
+
+[submodule "dkkjhx-html-unsafe-tag-stripper-audit"]
+	path = dkkjhx-html-unsafe-tag-stripper-audit
+	url = https://github.com/eaglepointAiLabs/dkkjhx-html-unsafe-tag-stripper-audit.git
