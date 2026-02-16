@@ -589,3 +589,7 @@
 [submodule "29n1jp-laravel-report-service-query-optimization"]
 	path = 29n1jp-laravel-report-service-query-optimization
 	url = https://github.com/eaglepointAiLabs/29n1jp-laravel-report-service-query-optimization.git
+
+[submodule "8gj7lb-selective-json-telemetry-scanner"]
+	path = 8gj7lb-selective-json-telemetry-scanner
+	url = https://github.com/eaglepointAiLabs/8gj7lb-selective-json-telemetry-scanner.git
