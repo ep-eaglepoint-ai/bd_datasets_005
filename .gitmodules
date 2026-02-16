@@ -781,3 +781,7 @@
 [submodule "ts0th8-image-gallery"]
 	path = ts0th8-image-gallery
 	url = https://github.com/eaglepointAiLabs/ts0th8-image-gallery.git
+
+[submodule "auvjiw-notes-applications"]
+	path = auvjiw-notes-applications
+	url = https://github.com/eaglepointAiLabs/auvjiw-notes-applications.git
