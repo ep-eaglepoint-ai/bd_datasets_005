@@ -605,3 +605,7 @@
 [submodule "tg6hw3-high-throughput-buffered-logging-agent"]
 	path = tg6hw3-high-throughput-buffered-logging-agent
 	url = https://github.com/eaglepointAiLabs/tg6hw3-high-throughput-buffered-logging-agent.git
+
+[submodule "bj600o-api-middleware-chain-bottleneck-fix"]
+	path = bj600o-api-middleware-chain-bottleneck-fix
+	url = https://github.com/eaglepointAiLabs/bj600o-api-middleware-chain-bottleneck-fix.git
