@@ -745,3 +745,7 @@
 [submodule "oa99oh-row-level-multi-tenancy-via-custom-managers-and-thread-locals"]
 	path = oa99oh-row-level-multi-tenancy-via-custom-managers-and-thread-locals
 	url = https://github.com/eaglepointAiLabs/oa99oh-row-level-multi-tenancy-via-custom-managers-and-thread-locals.git
+
+[submodule "rxgjtd-extending-a-financial-ledger-system"]
+	path = rxgjtd-extending-a-financial-ledger-system
+	url = https://github.com/eaglepointAiLabs/rxgjtd-extending-a-financial-ledger-system.git
