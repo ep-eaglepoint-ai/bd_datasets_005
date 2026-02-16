@@ -753,3 +753,7 @@
 [submodule "6zc1mg-node-js-cron-expression-parser-test-suite"]
 	path = 6zc1mg-node-js-cron-expression-parser-test-suite
 	url = https://github.com/eaglepointAiLabs/6zc1mg-node-js-cron-expression-parser-test-suite.git
+
+[submodule "udz823-flask-feature-flag-service"]
+	path = udz823-flask-feature-flag-service
+	url = https://github.com/eaglepointAiLabs/udz823-flask-feature-flag-service.git
