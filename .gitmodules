@@ -805,3 +805,7 @@
 [submodule "jtcdar-roman-numeral-parser-unit-tests"]
 	path = jtcdar-roman-numeral-parser-unit-tests
 	url = https://github.com/eaglepointAiLabs/jtcdar-roman-numeral-parser-unit-tests.git
+
+[submodule "04hz40-add-automated-test-for-a-reservation-service"]
+	path = 04hz40-add-automated-test-for-a-reservation-service
+	url = https://github.com/eaglepointAiLabs/04hz40-add-automated-test-for-a-reservation-service.git
