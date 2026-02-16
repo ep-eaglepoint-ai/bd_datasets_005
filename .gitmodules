@@ -865,3 +865,7 @@
 [submodule "wazltd-transactional-outbox-pattern-with-raw-sqlite"]
 	path = wazltd-transactional-outbox-pattern-with-raw-sqlite
 	url = https://github.com/eaglepointAiLabs/wazltd-transactional-outbox-pattern-with-raw-sqlite.git
+
+[submodule "6fe659-snake-game-test-suite-with-google-test-and-mock"]
+	path = 6fe659-snake-game-test-suite-with-google-test-and-mock
+	url = https://github.com/eaglepointAiLabs/6fe659-snake-game-test-suite-with-google-test-and-mock.git
