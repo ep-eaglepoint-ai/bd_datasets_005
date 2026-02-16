@@ -629,3 +629,7 @@
 [submodule "75buu0-optimize-battery-rl-simulator-for-efficiency"]
 	path = 75buu0-optimize-battery-rl-simulator-for-efficiency
 	url = https://github.com/eaglepointAiLabs/75buu0-optimize-battery-rl-simulator-for-efficiency.git
+
+[submodule "ibw88f-merge-sort-optimization"]
+	path = ibw88f-merge-sort-optimization
+	url = https://github.com/eaglepointAiLabs/ibw88f-merge-sort-optimization.git
