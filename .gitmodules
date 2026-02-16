@@ -577,3 +577,7 @@
 [submodule "jh5ye1-nested-comment-cycle-audit"]
 	path = jh5ye1-nested-comment-cycle-audit
 	url = https://github.com/eaglepointAiLabs/jh5ye1-nested-comment-cycle-audit.git
+
+[submodule "tdodv5-json-metadata-diffing-oracle-audit"]
+	path = tdodv5-json-metadata-diffing-oracle-audit
+	url = https://github.com/eaglepointAiLabs/tdodv5-json-metadata-diffing-oracle-audit.git
