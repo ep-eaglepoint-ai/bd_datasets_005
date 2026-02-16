@@ -613,3 +613,7 @@
 [submodule "3eihn6-add-historical-activity-tracking-feature-to-library-catalog-service"]
 	path = 3eihn6-add-historical-activity-tracking-feature-to-library-catalog-service
 	url = https://github.com/eaglepointAiLabs/3eihn6-add-historical-activity-tracking-feature-to-library-catalog-service.git
+
+[submodule "g435uk-fastapi-background-job-queue-system"]
+	path = g435uk-fastapi-background-job-queue-system
+	url = https://github.com/eaglepointAiLabs/g435uk-fastapi-background-job-queue-system.git
