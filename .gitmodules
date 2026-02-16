@@ -841,3 +841,7 @@
 [submodule "juz8cf-implement-ologn-virtual-scroll-engine-with-prefix-sums"]
 	path = juz8cf-implement-ologn-virtual-scroll-engine-with-prefix-sums
 	url = https://github.com/eaglepointAiLabs/juz8cf-implement-ologn-virtual-scroll-engine-with-prefix-sums.git
+
+[submodule "1x7c34-implement-high-performance-fuzzysearchengine-for-file-paths"]
+	path = 1x7c34-implement-high-performance-fuzzysearchengine-for-file-paths
+	url = https://github.com/eaglepointAiLabs/1x7c34-implement-high-performance-fuzzysearchengine-for-file-paths.git
