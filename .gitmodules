@@ -573,3 +573,7 @@
 [submodule "35va7f-binary-header-signature-audit"]
 	path = 35va7f-binary-header-signature-audit
 	url = https://github.com/eaglepointAiLabs/35va7f-binary-header-signature-audit.git
+
+[submodule "jh5ye1-nested-comment-cycle-audit"]
+	path = jh5ye1-nested-comment-cycle-audit
+	url = https://github.com/eaglepointAiLabs/jh5ye1-nested-comment-cycle-audit.git
