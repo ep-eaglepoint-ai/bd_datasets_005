@@ -653,3 +653,7 @@
 [submodule "dom8jc-optimize-nightmare-liquid-neural-network-for-cpu-and-memory-efficiency"]
 	path = dom8jc-optimize-nightmare-liquid-neural-network-for-cpu-and-memory-efficiency
 	url = https://github.com/eaglepointAiLabs/dom8jc-optimize-nightmare-liquid-neural-network-for-cpu-and-memory-efficiency.git
+
+[submodule "521sxc-scheduled-media-lifecycle-purge-manager"]
+	path = 521sxc-scheduled-media-lifecycle-purge-manager
+	url = https://github.com/eaglepointAiLabs/521sxc-scheduled-media-lifecycle-purge-manager.git
