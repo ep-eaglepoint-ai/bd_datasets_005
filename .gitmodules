@@ -733,3 +733,7 @@
 [submodule "tmitf7-high-frequency-data-retention-via-postgresql-range-partitioning"]
 	path = tmitf7-high-frequency-data-retention-via-postgresql-range-partitioning
 	url = https://github.com/eaglepointAiLabs/tmitf7-high-frequency-data-retention-via-postgresql-range-partitioning.git
+
+[submodule "1397xu-log-aggregation-engine-throughput-and-memory-optimization"]
+	path = 1397xu-log-aggregation-engine-throughput-and-memory-optimization
+	url = https://github.com/eaglepointAiLabs/1397xu-log-aggregation-engine-throughput-and-memory-optimization.git
