@@ -721,3 +721,7 @@
 [submodule "pkm2l3-customer-loyalty-app"]
 	path = pkm2l3-customer-loyalty-app
 	url = https://github.com/eaglepointAiLabs/pkm2l3-customer-loyalty-app.git
+
+[submodule "6zi0z6-double-entry-ledger-with-pessimistic-locking"]
+	path = 6zi0z6-double-entry-ledger-with-pessimistic-locking
+	url = https://github.com/eaglepointAiLabs/6zi0z6-double-entry-ledger-with-pessimistic-locking.git
