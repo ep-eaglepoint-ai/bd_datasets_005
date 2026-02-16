@@ -789,3 +789,7 @@
 [submodule "3ignze-countdown-timer"]
 	path = 3ignze-countdown-timer
 	url = https://github.com/eaglepointAiLabs/3ignze-countdown-timer.git
+
+[submodule "2ij8f2-extending-a-classroom-assignment-tracking-api"]
+	path = 2ij8f2-extending-a-classroom-assignment-tracking-api
+	url = https://github.com/eaglepointAiLabs/2ij8f2-extending-a-classroom-assignment-tracking-api.git
