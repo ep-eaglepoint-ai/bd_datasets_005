@@ -637,3 +637,7 @@
 [submodule "s6bhkw-epsilon-differential-privacy-aggregator"]
 	path = s6bhkw-epsilon-differential-privacy-aggregator
 	url = https://github.com/eaglepointAiLabs/s6bhkw-epsilon-differential-privacy-aggregator.git
+
+[submodule "fr3yqh-smart-battery-management-system-simulation-with-q-learning-and-actor-critic"]
+	path = fr3yqh-smart-battery-management-system-simulation-with-q-learning-and-actor-critic
+	url = https://github.com/eaglepointAiLabs/fr3yqh-smart-battery-management-system-simulation-with-q-learning-and-actor-critic.git
