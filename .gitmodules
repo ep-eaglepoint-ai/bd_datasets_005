@@ -785,3 +785,7 @@
 [submodule "auvjiw-notes-applications"]
 	path = auvjiw-notes-applications
 	url = https://github.com/eaglepointAiLabs/auvjiw-notes-applications.git
+
+[submodule "3ignze-countdown-timer"]
+	path = 3ignze-countdown-timer
+	url = https://github.com/eaglepointAiLabs/3ignze-countdown-timer.git
