@@ -601,3 +601,7 @@
 [submodule "yzwbns-file-system-watcher"]
 	path = yzwbns-file-system-watcher
 	url = https://github.com/eaglepointAiLabs/yzwbns-file-system-watcher.git
+
+[submodule "tg6hw3-high-throughput-buffered-logging-agent"]
+	path = tg6hw3-high-throughput-buffered-logging-agent
+	url = https://github.com/eaglepointAiLabs/tg6hw3-high-throughput-buffered-logging-agent.git
