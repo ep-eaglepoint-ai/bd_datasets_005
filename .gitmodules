@@ -761,3 +761,7 @@
 [submodule "wwj073-python-text-analyzer-utility"]
 	path = wwj073-python-text-analyzer-utility
 	url = https://github.com/eaglepointAiLabs/wwj073-python-text-analyzer-utility.git
+
+[submodule "73co1q-numerical-analysis-utility-module"]
+	path = 73co1q-numerical-analysis-utility-module
+	url = https://github.com/eaglepointAiLabs/73co1q-numerical-analysis-utility-module.git
