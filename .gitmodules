@@ -673,3 +673,7 @@
 [submodule "9qexwz-optimizing-a-chaotic-neuro-symbolic-pipeline"]
 	path = 9qexwz-optimizing-a-chaotic-neuro-symbolic-pipeline
 	url = https://github.com/eaglepointAiLabs/9qexwz-optimizing-a-chaotic-neuro-symbolic-pipeline.git
+
+[submodule "mm93u2-unit-and-functional-tests-for-digitnet-neural-network-with-symbolic-logic"]
+	path = mm93u2-unit-and-functional-tests-for-digitnet-neural-network-with-symbolic-logic
+	url = https://github.com/eaglepointAiLabs/mm93u2-unit-and-functional-tests-for-digitnet-neural-network-with-symbolic-logic.git
