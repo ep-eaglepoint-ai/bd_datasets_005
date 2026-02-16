@@ -725,3 +725,7 @@
 [submodule "6zi0z6-double-entry-ledger-with-pessimistic-locking"]
 	path = 6zi0z6-double-entry-ledger-with-pessimistic-locking
 	url = https://github.com/eaglepointAiLabs/6zi0z6-double-entry-ledger-with-pessimistic-locking.git
+
+[submodule "y6cahv-customer-support-chatbot-test-suite"]
+	path = y6cahv-customer-support-chatbot-test-suite
+	url = https://github.com/eaglepointAiLabs/y6cahv-customer-support-chatbot-test-suite.git
