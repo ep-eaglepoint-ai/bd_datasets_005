@@ -681,3 +681,7 @@
 [submodule "6yjkkp-circuit-breaker-http-client"]
 	path = 6yjkkp-circuit-breaker-http-client
 	url = https://github.com/eaglepointAiLabs/6yjkkp-circuit-breaker-http-client.git
+
+[submodule "5529bh-express-api-version-negotiation-middlewar"]
+	path = 5529bh-express-api-version-negotiation-middlewar
+	url = https://github.com/eaglepointAiLabs/5529bh-express-api-version-negotiation-middlewar.git
