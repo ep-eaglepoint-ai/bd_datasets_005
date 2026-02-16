@@ -809,3 +809,7 @@
 [submodule "04hz40-add-automated-test-for-a-reservation-service"]
 	path = 04hz40-add-automated-test-for-a-reservation-service
 	url = https://github.com/eaglepointAiLabs/04hz40-add-automated-test-for-a-reservation-service.git
+
+[submodule "al3lb5-efficient-student-term-gpa-report-generator"]
+	path = al3lb5-efficient-student-term-gpa-report-generator
+	url = https://github.com/eaglepointAiLabs/al3lb5-efficient-student-term-gpa-report-generator.git
