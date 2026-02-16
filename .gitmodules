@@ -821,3 +821,7 @@
 [submodule "tlji32-implement-o1-metadata-lru-cache-with-strict-eviction"]
 	path = tlji32-implement-o1-metadata-lru-cache-with-strict-eviction
 	url = https://github.com/eaglepointAiLabs/tlji32-implement-o1-metadata-lru-cache-with-strict-eviction.git
+
+[submodule "qcyf2m-optimize-pivotengine-aggregate-for-linear-time-grouping"]
+	path = qcyf2m-optimize-pivotengine-aggregate-for-linear-time-grouping
+	url = https://github.com/eaglepointAiLabs/qcyf2m-optimize-pivotengine-aggregate-for-linear-time-grouping.git
