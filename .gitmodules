@@ -837,3 +837,7 @@
 [submodule "u200pa-optimizing-a-high-frequency-log-processing-service-for-a-financial-trading-platform"]
 	path = u200pa-optimizing-a-high-frequency-log-processing-service-for-a-financial-trading-platform
 	url = https://github.com/eaglepointAiLabs/u200pa-optimizing-a-high-frequency-log-processing-service-for-a-financial-trading-platform.git
+
+[submodule "juz8cf-implement-ologn-virtual-scroll-engine-with-prefix-sums"]
+	path = juz8cf-implement-ologn-virtual-scroll-engine-with-prefix-sums
+	url = https://github.com/eaglepointAiLabs/juz8cf-implement-ologn-virtual-scroll-engine-with-prefix-sums.git
