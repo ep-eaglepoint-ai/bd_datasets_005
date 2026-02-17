@@ -1173,3 +1173,7 @@
 [submodule "rekyo3-longest-contiguous-access-window-with-exactly-k-distinct-resources"]
 	path = rekyo3-longest-contiguous-access-window-with-exactly-k-distinct-resources
 	url = https://github.com/eaglepointAiLabs/rekyo3-longest-contiguous-access-window-with-exactly-k-distinct-resources.git
+
+[submodule "5t8962-test-suite-for-electric-bus-fleet-optimization-model"]
+	path = 5t8962-test-suite-for-electric-bus-fleet-optimization-model
+	url = https://github.com/eaglepointAiLabs/5t8962-test-suite-for-electric-bus-fleet-optimization-model.git
