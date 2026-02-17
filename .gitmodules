@@ -1009,3 +1009,7 @@
 [submodule "743ogl-mathematical-and-logical-expression-evaluator"]
 	path = 743ogl-mathematical-and-logical-expression-evaluator
 	url = https://github.com/eaglepointAiLabs/743ogl-mathematical-and-logical-expression-evaluator.git
+
+[submodule "zeq5t1-matrix-multiplication-cache-optimization"]
+	path = zeq5t1-matrix-multiplication-cache-optimization
+	url = https://github.com/eaglepointAiLabs/zeq5t1-matrix-multiplication-cache-optimization.git
