@@ -1089,3 +1089,7 @@
 [submodule "q6l8x1-cpp-banking-engine-test"]
 	path = q6l8x1-cpp-banking-engine-test
 	url = https://github.com/eaglepointAiLabs/q6l8x1-cpp-banking-engine-test.git
+
+[submodule "uepwks-log-aggregation-pipeline-memory-fix"]
+	path = uepwks-log-aggregation-pipeline-memory-fix
+	url = https://github.com/eaglepointAiLabs/uepwks-log-aggregation-pipeline-memory-fix.git
