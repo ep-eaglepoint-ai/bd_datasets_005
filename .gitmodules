@@ -1093,3 +1093,7 @@
 [submodule "uepwks-log-aggregation-pipeline-memory-fix"]
 	path = uepwks-log-aggregation-pipeline-memory-fix
 	url = https://github.com/eaglepointAiLabs/uepwks-log-aggregation-pipeline-memory-fix.git
+
+[submodule "szvela-grade-tracking-cpp-test"]
+	path = szvela-grade-tracking-cpp-test
+	url = https://github.com/eaglepointAiLabs/szvela-grade-tracking-cpp-test.git
