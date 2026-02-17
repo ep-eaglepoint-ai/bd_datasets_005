@@ -1073,3 +1073,7 @@
 [submodule "ui1nqj-inventory-system-test"]
 	path = ui1nqj-inventory-system-test
 	url = https://github.com/eaglepointAiLabs/ui1nqj-inventory-system-test.git
+
+[submodule "31n4jw-integer-interval-set-operations-module"]
+	path = 31n4jw-integer-interval-set-operations-module
+	url = https://github.com/eaglepointAiLabs/31n4jw-integer-interval-set-operations-module.git
