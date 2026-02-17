@@ -1197,3 +1197,7 @@
 [submodule "ijs0rw-optimize-deeply-unoptimized-hydro-scheduling-code-for-performance"]
 	path = ijs0rw-optimize-deeply-unoptimized-hydro-scheduling-code-for-performance
 	url = https://github.com/eaglepointAiLabs/ijs0rw-optimize-deeply-unoptimized-hydro-scheduling-code-for-performance.git
+
+[submodule "ttzw0w-optimizing-a-stochastic-factory-production-lp-simulation-for-efficiency-and-memory-usage"]
+	path = ttzw0w-optimizing-a-stochastic-factory-production-lp-simulation-for-efficiency-and-memory-usage
+	url = https://github.com/eaglepointAiLabs/ttzw0w-optimizing-a-stochastic-factory-production-lp-simulation-for-efficiency-and-memory-usage.git
