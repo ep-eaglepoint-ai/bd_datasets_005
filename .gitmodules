@@ -1053,3 +1053,7 @@
 [submodule "6h2uwt-refactor-dataprocessor-into-modular-pipeline-utilities"]
 	path = 6h2uwt-refactor-dataprocessor-into-modular-pipeline-utilities
 	url = https://github.com/eaglepointAiLabs/6h2uwt-refactor-dataprocessor-into-modular-pipeline-utilities.git
+
+[submodule "6d6w29-refactor-healthaggregator-for-fault-tolerant-service-monitoring"]
+	path = 6d6w29-refactor-healthaggregator-for-fault-tolerant-service-monitoring
+	url = https://github.com/eaglepointAiLabs/6d6w29-refactor-healthaggregator-for-fault-tolerant-service-monitoring.git
