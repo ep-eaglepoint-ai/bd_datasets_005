@@ -877,3 +877,7 @@
 [submodule "rivgek-go-cache-concurrency-test-suite"]
 	path = rivgek-go-cache-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/rivgek-go-cache-concurrency-test-suite.git
+
+[submodule "733342-simple-habit-tracker-with-streaks"]
+	path = 733342-simple-habit-tracker-with-streaks
+	url = https://github.com/eaglepointAiLabs/733342-simple-habit-tracker-with-streaks.git
