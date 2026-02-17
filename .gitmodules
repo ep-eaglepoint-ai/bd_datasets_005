@@ -993,3 +993,7 @@
 [submodule "aqd8yo-email-encryption-system-test-suite"]
 	path = aqd8yo-email-encryption-system-test-suite
 	url = https://github.com/eaglepointAiLabs/aqd8yo-email-encryption-system-test-suite.git
+
+[submodule "u726ge-optimizing-a-node-js-service-for-a-web-platform"]
+	path = u726ge-optimizing-a-node-js-service-for-a-web-platform
+	url = https://github.com/eaglepointAiLabs/u726ge-optimizing-a-node-js-service-for-a-web-platform.git
