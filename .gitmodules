@@ -1109,3 +1109,7 @@
 [submodule "jbm9wb-write-a-comprehensive-vitest-test-suite-for-an-event-driven-account-state-engine"]
 	path = jbm9wb-write-a-comprehensive-vitest-test-suite-for-an-event-driven-account-state-engine
 	url = https://github.com/eaglepointAiLabs/jbm9wb-write-a-comprehensive-vitest-test-suite-for-an-event-driven-account-state-engine.git
+
+[submodule "t0ynii-stabilizing-and-optimizing-a-high-throughput-event-ingestion-service"]
+	path = t0ynii-stabilizing-and-optimizing-a-high-throughput-event-ingestion-service
+	url = https://github.com/eaglepointAiLabs/t0ynii-stabilizing-and-optimizing-a-high-throughput-event-ingestion-service.git
