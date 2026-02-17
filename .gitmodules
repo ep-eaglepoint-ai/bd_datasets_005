@@ -1125,3 +1125,7 @@
 [submodule "86o4ah-express-geo-distance-search-api-query-fix"]
 	path = 86o4ah-express-geo-distance-search-api-query-fix
 	url = https://github.com/eaglepointAiLabs/86o4ah-express-geo-distance-search-api-query-fix.git
+
+[submodule "8xb0gt-real-time-auction-with-bid-validation"]
+	path = 8xb0gt-real-time-auction-with-bid-validation
+	url = https://github.com/eaglepointAiLabs/8xb0gt-real-time-auction-with-bid-validation.git
