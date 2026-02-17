@@ -1117,3 +1117,7 @@
 [submodule "y0i74l-masked-email-formatter-with-strict-validation-and-deterministic-rules"]
 	path = y0i74l-masked-email-formatter-with-strict-validation-and-deterministic-rules
 	url = https://github.com/eaglepointAiLabs/y0i74l-masked-email-formatter-with-strict-validation-and-deterministic-rules.git
+
+[submodule "wy3zwe-spring-boot-scheduled-task-executor-thread-leak-fix"]
+	path = wy3zwe-spring-boot-scheduled-task-executor-thread-leak-fix
+	url = https://github.com/eaglepointAiLabs/wy3zwe-spring-boot-scheduled-task-executor-thread-leak-fix.git
