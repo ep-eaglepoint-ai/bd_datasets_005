@@ -1189,3 +1189,7 @@
 [submodule "y72j89-agi-topos-testing-task-simple-test-suite-implementation"]
 	path = y72j89-agi-topos-testing-task-simple-test-suite-implementation
 	url = https://github.com/eaglepointAiLabs/y72j89-agi-topos-testing-task-simple-test-suite-implementation.git
+
+[submodule "sdevjp-optimization-of-agi-topos-simulation-for-efficiency-and-memory-safety"]
+	path = sdevjp-optimization-of-agi-topos-simulation-for-efficiency-and-memory-safety
+	url = https://github.com/eaglepointAiLabs/sdevjp-optimization-of-agi-topos-simulation-for-efficiency-and-memory-safety.git
