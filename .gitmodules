@@ -909,3 +909,7 @@
 [submodule "re62bg-concurrent-invoice-collision-guard"]
 	path = re62bg-concurrent-invoice-collision-guard
 	url = https://github.com/eaglepointAiLabs/re62bg-concurrent-invoice-collision-guard.git
+
+[submodule "8clbya-dashboard-syncengine-persistence-and-cross-tab-synchronization"]
+	path = 8clbya-dashboard-syncengine-persistence-and-cross-tab-synchronization
+	url = https://github.com/eaglepointAiLabs/8clbya-dashboard-syncengine-persistence-and-cross-tab-synchronization.git
