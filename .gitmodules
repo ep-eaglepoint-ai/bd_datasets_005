@@ -997,3 +997,7 @@
 [submodule "u726ge-optimizing-a-node-js-service-for-a-web-platform"]
 	path = u726ge-optimizing-a-node-js-service-for-a-web-platform
 	url = https://github.com/eaglepointAiLabs/u726ge-optimizing-a-node-js-service-for-a-web-platform.git
+
+[submodule "f0c9lx-reward-points-engine-comprehensive-test-suite-for-state-isolation-and-business-rules"]
+	path = f0c9lx-reward-points-engine-comprehensive-test-suite-for-state-isolation-and-business-rules
+	url = https://github.com/eaglepointAiLabs/f0c9lx-reward-points-engine-comprehensive-test-suite-for-state-isolation-and-business-rules.git
