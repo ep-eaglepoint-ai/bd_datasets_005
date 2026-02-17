@@ -933,3 +933,7 @@
 [submodule "1jnc4c-test-plan-for-natural-information-geometry-framework-in-pytorch"]
 	path = 1jnc4c-test-plan-for-natural-information-geometry-framework-in-pytorch
 	url = https://github.com/eaglepointAiLabs/1jnc4c-test-plan-for-natural-information-geometry-framework-in-pytorch.git
+
+[submodule "bwytt9-implement-multi-pass-transaction-reconciliation-engine"]
+	path = bwytt9-implement-multi-pass-transaction-reconciliation-engine
+	url = https://github.com/eaglepointAiLabs/bwytt9-implement-multi-pass-transaction-reconciliation-engine.git
