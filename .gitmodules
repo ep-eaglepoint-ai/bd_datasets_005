@@ -1149,3 +1149,7 @@
 [submodule "w7cfel-gunicorn-gevent-with-early-monkey-patching"]
 	path = w7cfel-gunicorn-gevent-with-early-monkey-patching
 	url = https://github.com/eaglepointAiLabs/w7cfel-gunicorn-gevent-with-early-monkey-patching.git
+
+[submodule "vvco88-streaming-importer-with-partial-success-progress-feedback"]
+	path = vvco88-streaming-importer-with-partial-success-progress-feedback
+	url = https://github.com/eaglepointAiLabs/vvco88-streaming-importer-with-partial-success-progress-feedback.git
