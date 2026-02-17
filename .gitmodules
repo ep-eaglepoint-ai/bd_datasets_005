@@ -1085,3 +1085,7 @@
 [submodule "3q1q4v-polling-express-api-testing"]
 	path = 3q1q4v-polling-express-api-testing
 	url = https://github.com/eaglepointAiLabs/3q1q4v-polling-express-api-testing.git
+
+[submodule "q6l8x1-cpp-banking-engine-test"]
+	path = q6l8x1-cpp-banking-engine-test
+	url = https://github.com/eaglepointAiLabs/q6l8x1-cpp-banking-engine-test.git
