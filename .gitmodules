@@ -1185,3 +1185,7 @@
 [submodule "pmg6mf-unit-testing-for-hydropower-reservoir-optimization-module"]
 	path = pmg6mf-unit-testing-for-hydropower-reservoir-optimization-module
 	url = https://github.com/eaglepointAiLabs/pmg6mf-unit-testing-for-hydropower-reservoir-optimization-module.git
+
+[submodule "y72j89-agi-topos-testing-task-simple-test-suite-implementation"]
+	path = y72j89-agi-topos-testing-task-simple-test-suite-implementation
+	url = https://github.com/eaglepointAiLabs/y72j89-agi-topos-testing-task-simple-test-suite-implementation.git
