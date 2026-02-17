@@ -929,3 +929,7 @@
 [submodule "yfjkvs-build-a-lightweight-notification-preference-service-for-an-internal-saas-platform"]
 	path = yfjkvs-build-a-lightweight-notification-preference-service-for-an-internal-saas-platform
 	url = https://github.com/eaglepointAiLabs/yfjkvs-build-a-lightweight-notification-preference-service-for-an-internal-saas-platform.git
+
+[submodule "1jnc4c-test-plan-for-natural-information-geometry-framework-in-pytorch"]
+	path = 1jnc4c-test-plan-for-natural-information-geometry-framework-in-pytorch
+	url = https://github.com/eaglepointAiLabs/1jnc4c-test-plan-for-natural-information-geometry-framework-in-pytorch.git
