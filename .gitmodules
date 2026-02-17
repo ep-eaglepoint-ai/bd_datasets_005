@@ -941,3 +941,7 @@
 [submodule "qr28jg-optimize-a-pathological-tensorflow-js-research-framework"]
 	path = qr28jg-optimize-a-pathological-tensorflow-js-research-framework
 	url = https://github.com/eaglepointAiLabs/qr28jg-optimize-a-pathological-tensorflow-js-research-framework.git
+
+[submodule "chb4qm-comprehensive-testing-suite-for-high-rank-lattice-regression-model"]
+	path = chb4qm-comprehensive-testing-suite-for-high-rank-lattice-regression-model
+	url = https://github.com/eaglepointAiLabs/chb4qm-comprehensive-testing-suite-for-high-rank-lattice-regression-model.git
