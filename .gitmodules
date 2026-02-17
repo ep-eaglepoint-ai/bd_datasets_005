@@ -973,3 +973,7 @@
 [submodule "iadaur-reactive-searchservice-with-debounce-cancellation-and-lru-caching"]
 	path = iadaur-reactive-searchservice-with-debounce-cancellation-and-lru-caching
 	url = https://github.com/eaglepointAiLabs/iadaur-reactive-searchservice-with-debounce-cancellation-and-lru-caching.git
+
+[submodule "szeric-seat-reservation-system-for-a-small-cinema-java"]
+	path = szeric-seat-reservation-system-for-a-small-cinema-java
+	url = https://github.com/eaglepointAiLabs/szeric-seat-reservation-system-for-a-small-cinema-java.git
