@@ -1169,3 +1169,7 @@
 [submodule "6a9w1z-refactoring-a-reusable-data-visualization-module-for-an-internal-analytics-dashboard"]
 	path = 6a9w1z-refactoring-a-reusable-data-visualization-module-for-an-internal-analytics-dashboard
 	url = https://github.com/eaglepointAiLabs/6a9w1z-refactoring-a-reusable-data-visualization-module-for-an-internal-analytics-dashboard.git
+
+[submodule "rekyo3-longest-contiguous-access-window-with-exactly-k-distinct-resources"]
+	path = rekyo3-longest-contiguous-access-window-with-exactly-k-distinct-resources
+	url = https://github.com/eaglepointAiLabs/rekyo3-longest-contiguous-access-window-with-exactly-k-distinct-resources.git
