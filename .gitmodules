@@ -1129,3 +1129,7 @@
 [submodule "8xb0gt-real-time-auction-with-bid-validation"]
 	path = 8xb0gt-real-time-auction-with-bid-validation
 	url = https://github.com/eaglepointAiLabs/8xb0gt-real-time-auction-with-bid-validation.git
+
+[submodule "clfz6i-improving-the-performance-of-an-analytics-endpoint-used-for-internal-business-reporting"]
+	path = clfz6i-improving-the-performance-of-an-analytics-endpoint-used-for-internal-business-reporting
+	url = https://github.com/eaglepointAiLabs/clfz6i-improving-the-performance-of-an-analytics-endpoint-used-for-internal-business-reporting.git
