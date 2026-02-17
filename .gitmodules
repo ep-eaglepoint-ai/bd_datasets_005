@@ -1069,3 +1069,7 @@
 [submodule "ygqb6j-film-curation-testing"]
 	path = ygqb6j-film-curation-testing
 	url = https://github.com/eaglepointAiLabs/ygqb6j-film-curation-testing.git
+
+[submodule "ui1nqj-inventory-system-test"]
+	path = ui1nqj-inventory-system-test
+	url = https://github.com/eaglepointAiLabs/ui1nqj-inventory-system-test.git
