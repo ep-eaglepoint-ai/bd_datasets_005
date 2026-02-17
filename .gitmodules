@@ -1145,3 +1145,7 @@
 [submodule "wlup1u-optimized-mobility-route-aggregation-with-deterministic-de-duplication"]
 	path = wlup1u-optimized-mobility-route-aggregation-with-deterministic-de-duplication
 	url = https://github.com/eaglepointAiLabs/wlup1u-optimized-mobility-route-aggregation-with-deterministic-de-duplication.git
+
+[submodule "w7cfel-gunicorn-gevent-with-early-monkey-patching"]
+	path = w7cfel-gunicorn-gevent-with-early-monkey-patching
+	url = https://github.com/eaglepointAiLabs/w7cfel-gunicorn-gevent-with-early-monkey-patching.git
