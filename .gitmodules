@@ -977,3 +977,7 @@
 [submodule "szeric-seat-reservation-system-for-a-small-cinema-java"]
 	path = szeric-seat-reservation-system-for-a-small-cinema-java
 	url = https://github.com/eaglepointAiLabs/szeric-seat-reservation-system-for-a-small-cinema-java.git
+
+[submodule "9o7byv-optimize-and-refactor-go-persistent-homology-pipeline-for-efficiency-and-maintainability"]
+	path = 9o7byv-optimize-and-refactor-go-persistent-homology-pipeline-for-efficiency-and-maintainability
+	url = https://github.com/eaglepointAiLabs/9o7byv-optimize-and-refactor-go-persistent-homology-pipeline-for-efficiency-and-maintainability.git
