@@ -905,3 +905,7 @@
 [submodule "mgz2o1-typescript-in-memory-search-index"]
 	path = mgz2o1-typescript-in-memory-search-index
 	url = https://github.com/eaglepointAiLabs/mgz2o1-typescript-in-memory-search-index.git
+
+[submodule "re62bg-concurrent-invoice-collision-guard"]
+	path = re62bg-concurrent-invoice-collision-guard
+	url = https://github.com/eaglepointAiLabs/re62bg-concurrent-invoice-collision-guard.git
