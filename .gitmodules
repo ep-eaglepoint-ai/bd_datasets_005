@@ -965,3 +965,7 @@
 [submodule "etmn30-multi-tz-ledger-normalizer-audit"]
 	path = etmn30-multi-tz-ledger-normalizer-audit
 	url = https://github.com/eaglepointAiLabs/etmn30-multi-tz-ledger-normalizer-audit.git
+
+[submodule "dwf3bj-comprehensive-test-suite-for-persistent-homology-pipeline"]
+	path = dwf3bj-comprehensive-test-suite-for-persistent-homology-pipeline
+	url = https://github.com/eaglepointAiLabs/dwf3bj-comprehensive-test-suite-for-persistent-homology-pipeline.git
