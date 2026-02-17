@@ -917,3 +917,7 @@
 [submodule "vfnph7-python-semver-dependency-resolver"]
 	path = vfnph7-python-semver-dependency-resolver
 	url = https://github.com/eaglepointAiLabs/vfnph7-python-semver-dependency-resolver.git
+
+[submodule "v1f45e-delta-profile-sync-engine-with-type-guards"]
+	path = v1f45e-delta-profile-sync-engine-with-type-guards
+	url = https://github.com/eaglepointAiLabs/v1f45e-delta-profile-sync-engine-with-type-guards.git
