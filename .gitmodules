@@ -921,3 +921,7 @@
 [submodule "v1f45e-delta-profile-sync-engine-with-type-guards"]
 	path = v1f45e-delta-profile-sync-engine-with-type-guards
 	url = https://github.com/eaglepointAiLabs/v1f45e-delta-profile-sync-engine-with-type-guards.git
+
+[submodule "mfc5t4-multi-resource-booking-validator"]
+	path = mfc5t4-multi-resource-booking-validator
+	url = https://github.com/eaglepointAiLabs/mfc5t4-multi-resource-booking-validator.git
