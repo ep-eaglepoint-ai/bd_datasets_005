@@ -881,3 +881,7 @@
 [submodule "733342-simple-habit-tracker-with-streaks"]
 	path = 733342-simple-habit-tracker-with-streaks
 	url = https://github.com/eaglepointAiLabs/733342-simple-habit-tracker-with-streaks.git
+
+[submodule "yscp31-financial-time-series-real-time-anomaly-detection"]
+	path = yscp31-financial-time-series-real-time-anomaly-detection
+	url = https://github.com/eaglepointAiLabs/yscp31-financial-time-series-real-time-anomaly-detection.git
