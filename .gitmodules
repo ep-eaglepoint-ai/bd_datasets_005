@@ -1001,3 +1001,7 @@
 [submodule "f0c9lx-reward-points-engine-comprehensive-test-suite-for-state-isolation-and-business-rules"]
 	path = f0c9lx-reward-points-engine-comprehensive-test-suite-for-state-isolation-and-business-rules
 	url = https://github.com/eaglepointAiLabs/f0c9lx-reward-points-engine-comprehensive-test-suite-for-state-isolation-and-business-rules.git
+
+[submodule "cfb933-file-backed-key-value-store-test-suite"]
+	path = cfb933-file-backed-key-value-store-test-suite
+	url = https://github.com/eaglepointAiLabs/cfb933-file-backed-key-value-store-test-suite.git
