@@ -885,3 +885,7 @@
 [submodule "yscp31-financial-time-series-real-time-anomaly-detection"]
 	path = yscp31-financial-time-series-real-time-anomaly-detection
 	url = https://github.com/eaglepointAiLabs/yscp31-financial-time-series-real-time-anomaly-detection.git
+
+[submodule "o8vcw1-organization-hierarchy-manager-with-safe-reassignment"]
+	path = o8vcw1-organization-hierarchy-manager-with-safe-reassignment
+	url = https://github.com/eaglepointAiLabs/o8vcw1-organization-hierarchy-manager-with-safe-reassignment.git
