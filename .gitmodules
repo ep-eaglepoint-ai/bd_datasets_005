@@ -1049,3 +1049,7 @@
 [submodule "5sc0j4-in-memory-pub-sub-broker"]
 	path = 5sc0j4-in-memory-pub-sub-broker
 	url = https://github.com/eaglepointAiLabs/5sc0j4-in-memory-pub-sub-broker.git
+
+[submodule "6h2uwt-refactor-dataprocessor-into-modular-pipeline-utilities"]
+	path = 6h2uwt-refactor-dataprocessor-into-modular-pipeline-utilities
+	url = https://github.com/eaglepointAiLabs/6h2uwt-refactor-dataprocessor-into-modular-pipeline-utilities.git
