@@ -1013,3 +1013,7 @@
 [submodule "zeq5t1-matrix-multiplication-cache-optimization"]
 	path = zeq5t1-matrix-multiplication-cache-optimization
 	url = https://github.com/eaglepointAiLabs/zeq5t1-matrix-multiplication-cache-optimization.git
+
+[submodule "3x65ui-complex-css-shorthand-expander-audit"]
+	path = 3x65ui-complex-css-shorthand-expander-audit
+	url = https://github.com/eaglepointAiLabs/3x65ui-complex-css-shorthand-expander-audit.git
