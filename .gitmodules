@@ -893,3 +893,7 @@
 [submodule "rf0u1u-automated-soft-delete-compliance-scrubber"]
 	path = rf0u1u-automated-soft-delete-compliance-scrubber
 	url = https://github.com/eaglepointAiLabs/rf0u1u-automated-soft-delete-compliance-scrubber.git
+
+[submodule "n5cn1v-geographical-velocity-travel-lock"]
+	path = n5cn1v-geographical-velocity-travel-lock
+	url = https://github.com/eaglepointAiLabs/n5cn1v-geographical-velocity-travel-lock.git
