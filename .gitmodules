@@ -937,3 +937,7 @@
 [submodule "bwytt9-implement-multi-pass-transaction-reconciliation-engine"]
 	path = bwytt9-implement-multi-pass-transaction-reconciliation-engine
 	url = https://github.com/eaglepointAiLabs/bwytt9-implement-multi-pass-transaction-reconciliation-engine.git
+
+[submodule "qr28jg-optimize-a-pathological-tensorflow-js-research-framework"]
+	path = qr28jg-optimize-a-pathological-tensorflow-js-research-framework
+	url = https://github.com/eaglepointAiLabs/qr28jg-optimize-a-pathological-tensorflow-js-research-framework.git
