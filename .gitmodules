@@ -1081,3 +1081,7 @@
 [submodule "v5g7ik-fast-api-bookmark-manager-test"]
 	path = v5g7ik-fast-api-bookmark-manager-test
 	url = https://github.com/eaglepointAiLabs/v5g7ik-fast-api-bookmark-manager-test.git
+
+[submodule "3q1q4v-polling-express-api-testing"]
+	path = 3q1q4v-polling-express-api-testing
+	url = https://github.com/eaglepointAiLabs/3q1q4v-polling-express-api-testing.git
