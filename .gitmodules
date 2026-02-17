@@ -985,3 +985,7 @@
 [submodule "ltban6-secure-path-traversal-resolver-audit"]
 	path = ltban6-secure-path-traversal-resolver-audit
 	url = https://github.com/eaglepointAiLabs/ltban6-secure-path-traversal-resolver-audit.git
+
+[submodule "m7xoim-comprehensive-discountengine-test-suite"]
+	path = m7xoim-comprehensive-discountengine-test-suite
+	url = https://github.com/eaglepointAiLabs/m7xoim-comprehensive-discountengine-test-suite.git
