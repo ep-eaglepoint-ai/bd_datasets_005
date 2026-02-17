@@ -1045,3 +1045,7 @@
 [submodule "klqa1q-refactor-notificationservice-to-pluggable-provider-architecture"]
 	path = klqa1q-refactor-notificationservice-to-pluggable-provider-architecture
 	url = https://github.com/eaglepointAiLabs/klqa1q-refactor-notificationservice-to-pluggable-provider-architecture.git
+
+[submodule "5sc0j4-in-memory-pub-sub-broker"]
+	path = 5sc0j4-in-memory-pub-sub-broker
+	url = https://github.com/eaglepointAiLabs/5sc0j4-in-memory-pub-sub-broker.git
