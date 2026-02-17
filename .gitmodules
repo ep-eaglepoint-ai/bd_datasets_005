@@ -949,3 +949,7 @@
 [submodule "ky77wb-xml-validator-performance-optimization"]
 	path = ky77wb-xml-validator-performance-optimization
 	url = https://github.com/eaglepointAiLabs/ky77wb-xml-validator-performance-optimization.git
+
+[submodule "d0jamq-optimizing-lattice-regression-code-for-efficiency-and-readability"]
+	path = d0jamq-optimizing-lattice-regression-code-for-efficiency-and-readability
+	url = https://github.com/eaglepointAiLabs/d0jamq-optimizing-lattice-regression-code-for-efficiency-and-readability.git
