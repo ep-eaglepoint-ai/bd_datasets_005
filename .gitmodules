@@ -925,3 +925,7 @@
 [submodule "mfc5t4-multi-resource-booking-validator"]
 	path = mfc5t4-multi-resource-booking-validator
 	url = https://github.com/eaglepointAiLabs/mfc5t4-multi-resource-booking-validator.git
+
+[submodule "yfjkvs-build-a-lightweight-notification-preference-service-for-an-internal-saas-platform"]
+	path = yfjkvs-build-a-lightweight-notification-preference-service-for-an-internal-saas-platform
+	url = https://github.com/eaglepointAiLabs/yfjkvs-build-a-lightweight-notification-preference-service-for-an-internal-saas-platform.git
