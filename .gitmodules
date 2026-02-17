@@ -1005,3 +1005,7 @@
 [submodule "cfb933-file-backed-key-value-store-test-suite"]
 	path = cfb933-file-backed-key-value-store-test-suite
 	url = https://github.com/eaglepointAiLabs/cfb933-file-backed-key-value-store-test-suite.git
+
+[submodule "743ogl-mathematical-and-logical-expression-evaluator"]
+	path = 743ogl-mathematical-and-logical-expression-evaluator
+	url = https://github.com/eaglepointAiLabs/743ogl-mathematical-and-logical-expression-evaluator.git
