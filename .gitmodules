@@ -1153,3 +1153,7 @@
 [submodule "vvco88-streaming-importer-with-partial-success-progress-feedback"]
 	path = vvco88-streaming-importer-with-partial-success-progress-feedback
 	url = https://github.com/eaglepointAiLabs/vvco88-streaming-importer-with-partial-success-progress-feedback.git
+
+[submodule "c6bw1o-graph-traversal-optimization"]
+	path = c6bw1o-graph-traversal-optimization
+	url = https://github.com/eaglepointAiLabs/c6bw1o-graph-traversal-optimization.git
