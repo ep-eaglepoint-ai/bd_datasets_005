@@ -1037,3 +1037,7 @@
 [submodule "6m723x-add-test-suite-for-a-transaction-processor-using-vitest"]
 	path = 6m723x-add-test-suite-for-a-transaction-processor-using-vitest
 	url = https://github.com/eaglepointAiLabs/6m723x-add-test-suite-for-a-transaction-processor-using-vitest.git
+
+[submodule "ziwft5-regex-matcher-performance-optimization"]
+	path = ziwft5-regex-matcher-performance-optimization
+	url = https://github.com/eaglepointAiLabs/ziwft5-regex-matcher-performance-optimization.git
