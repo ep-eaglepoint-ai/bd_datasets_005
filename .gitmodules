@@ -1161,3 +1161,7 @@
 [submodule "k4mtsi-deterministic-permission-harmonization-engine-for-hierarchical-saas-resources"]
 	path = k4mtsi-deterministic-permission-harmonization-engine-for-hierarchical-saas-resources
 	url = https://github.com/eaglepointAiLabs/k4mtsi-deterministic-permission-harmonization-engine-for-hierarchical-saas-resources.git
+
+[submodule "kkhnk1-streaming-anomaly-detection-with-welford-s-algorithm"]
+	path = kkhnk1-streaming-anomaly-detection-with-welford-s-algorithm
+	url = https://github.com/eaglepointAiLabs/kkhnk1-streaming-anomaly-detection-with-welford-s-algorithm.git
