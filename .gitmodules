@@ -957,3 +957,7 @@
 [submodule "vc3sw8-java-stock-portfolio-management-system-test-suite"]
 	path = vc3sw8-java-stock-portfolio-management-system-test-suite
 	url = https://github.com/eaglepointAiLabs/vc3sw8-java-stock-portfolio-management-system-test-suite.git
+
+[submodule "oi8zgq-streammediaprocessor-with-memory-efficient-chunked-streaming"]
+	path = oi8zgq-streammediaprocessor-with-memory-efficient-chunked-streaming
+	url = https://github.com/eaglepointAiLabs/oi8zgq-streammediaprocessor-with-memory-efficient-chunked-streaming.git
