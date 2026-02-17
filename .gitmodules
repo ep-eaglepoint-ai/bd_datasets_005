@@ -1193,3 +1193,7 @@
 [submodule "sdevjp-optimization-of-agi-topos-simulation-for-efficiency-and-memory-safety"]
 	path = sdevjp-optimization-of-agi-topos-simulation-for-efficiency-and-memory-safety
 	url = https://github.com/eaglepointAiLabs/sdevjp-optimization-of-agi-topos-simulation-for-efficiency-and-memory-safety.git
+
+[submodule "ijs0rw-optimize-deeply-unoptimized-hydro-scheduling-code-for-performance"]
+	path = ijs0rw-optimize-deeply-unoptimized-hydro-scheduling-code-for-performance
+	url = https://github.com/eaglepointAiLabs/ijs0rw-optimize-deeply-unoptimized-hydro-scheduling-code-for-performance.git
