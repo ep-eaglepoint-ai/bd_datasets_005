@@ -901,3 +901,7 @@
 [submodule "shmcmh-preemptive-api-key-rotator"]
 	path = shmcmh-preemptive-api-key-rotator
 	url = https://github.com/eaglepointAiLabs/shmcmh-preemptive-api-key-rotator.git
+
+[submodule "mgz2o1-typescript-in-memory-search-index"]
+	path = mgz2o1-typescript-in-memory-search-index
+	url = https://github.com/eaglepointAiLabs/mgz2o1-typescript-in-memory-search-index.git
