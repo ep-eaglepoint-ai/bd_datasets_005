@@ -1165,3 +1165,7 @@
 [submodule "kkhnk1-streaming-anomaly-detection-with-welford-s-algorithm"]
 	path = kkhnk1-streaming-anomaly-detection-with-welford-s-algorithm
 	url = https://github.com/eaglepointAiLabs/kkhnk1-streaming-anomaly-detection-with-welford-s-algorithm.git
+
+[submodule "6a9w1z-refactoring-a-reusable-data-visualization-module-for-an-internal-analytics-dashboard"]
+	path = 6a9w1z-refactoring-a-reusable-data-visualization-module-for-an-internal-analytics-dashboard
+	url = https://github.com/eaglepointAiLabs/6a9w1z-refactoring-a-reusable-data-visualization-module-for-an-internal-analytics-dashboard.git
