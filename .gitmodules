@@ -1121,3 +1121,7 @@
 [submodule "wy3zwe-spring-boot-scheduled-task-executor-thread-leak-fix"]
 	path = wy3zwe-spring-boot-scheduled-task-executor-thread-leak-fix
 	url = https://github.com/eaglepointAiLabs/wy3zwe-spring-boot-scheduled-task-executor-thread-leak-fix.git
+
+[submodule "86o4ah-express-geo-distance-search-api-query-fix"]
+	path = 86o4ah-express-geo-distance-search-api-query-fix
+	url = https://github.com/eaglepointAiLabs/86o4ah-express-geo-distance-search-api-query-fix.git
