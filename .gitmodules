@@ -1021,3 +1021,7 @@
 [submodule "7zja4h-graph-cycle-detection-system"]
 	path = 7zja4h-graph-cycle-detection-system
 	url = https://github.com/eaglepointAiLabs/7zja4h-graph-cycle-detection-system.git
+
+[submodule "h34s6y-smart-irrigation-scheduler-for-profit-optimization"]
+	path = h34s6y-smart-irrigation-scheduler-for-profit-optimization
+	url = https://github.com/eaglepointAiLabs/h34s6y-smart-irrigation-scheduler-for-profit-optimization.git
