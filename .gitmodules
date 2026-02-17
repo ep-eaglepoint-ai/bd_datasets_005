@@ -1101,3 +1101,7 @@
 [submodule "96cbmx-java-library-management-test"]
 	path = 96cbmx-java-library-management-test
 	url = https://github.com/eaglepointAiLabs/96cbmx-java-library-management-test.git
+
+[submodule "vfaoxu-payroll-management-test"]
+	path = vfaoxu-payroll-management-test
+	url = https://github.com/eaglepointAiLabs/vfaoxu-payroll-management-test.git
