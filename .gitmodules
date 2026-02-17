@@ -953,3 +953,7 @@
 [submodule "d0jamq-optimizing-lattice-regression-code-for-efficiency-and-readability"]
 	path = d0jamq-optimizing-lattice-regression-code-for-efficiency-and-readability
 	url = https://github.com/eaglepointAiLabs/d0jamq-optimizing-lattice-regression-code-for-efficiency-and-readability.git
+
+[submodule "vc3sw8-java-stock-portfolio-management-system-test-suite"]
+	path = vc3sw8-java-stock-portfolio-management-system-test-suite
+	url = https://github.com/eaglepointAiLabs/vc3sw8-java-stock-portfolio-management-system-test-suite.git
