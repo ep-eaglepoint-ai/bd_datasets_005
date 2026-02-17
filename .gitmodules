@@ -1097,3 +1097,7 @@
 [submodule "szvela-grade-tracking-cpp-test"]
 	path = szvela-grade-tracking-cpp-test
 	url = https://github.com/eaglepointAiLabs/szvela-grade-tracking-cpp-test.git
+
+[submodule "96cbmx-java-library-management-test"]
+	path = 96cbmx-java-library-management-test
+	url = https://github.com/eaglepointAiLabs/96cbmx-java-library-management-test.git
