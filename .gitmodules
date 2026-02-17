@@ -1181,3 +1181,7 @@
 [submodule "8ldfg1-optimization-of-deeply-unoptimized-bus-charging-scheduler"]
 	path = 8ldfg1-optimization-of-deeply-unoptimized-bus-charging-scheduler
 	url = https://github.com/eaglepointAiLabs/8ldfg1-optimization-of-deeply-unoptimized-bus-charging-scheduler.git
+
+[submodule "pmg6mf-unit-testing-for-hydropower-reservoir-optimization-module"]
+	path = pmg6mf-unit-testing-for-hydropower-reservoir-optimization-module
+	url = https://github.com/eaglepointAiLabs/pmg6mf-unit-testing-for-hydropower-reservoir-optimization-module.git
