@@ -981,3 +981,7 @@
 [submodule "9o7byv-optimize-and-refactor-go-persistent-homology-pipeline-for-efficiency-and-maintainability"]
 	path = 9o7byv-optimize-and-refactor-go-persistent-homology-pipeline-for-efficiency-and-maintainability
 	url = https://github.com/eaglepointAiLabs/9o7byv-optimize-and-refactor-go-persistent-homology-pipeline-for-efficiency-and-maintainability.git
+
+[submodule "ltban6-secure-path-traversal-resolver-audit"]
+	path = ltban6-secure-path-traversal-resolver-audit
+	url = https://github.com/eaglepointAiLabs/ltban6-secure-path-traversal-resolver-audit.git
