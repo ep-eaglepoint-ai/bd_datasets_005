@@ -1177,3 +1177,7 @@
 [submodule "5t8962-test-suite-for-electric-bus-fleet-optimization-model"]
 	path = 5t8962-test-suite-for-electric-bus-fleet-optimization-model
 	url = https://github.com/eaglepointAiLabs/5t8962-test-suite-for-electric-bus-fleet-optimization-model.git
+
+[submodule "8ldfg1-optimization-of-deeply-unoptimized-bus-charging-scheduler"]
+	path = 8ldfg1-optimization-of-deeply-unoptimized-bus-charging-scheduler
+	url = https://github.com/eaglepointAiLabs/8ldfg1-optimization-of-deeply-unoptimized-bus-charging-scheduler.git
