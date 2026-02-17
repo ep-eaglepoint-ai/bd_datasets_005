@@ -913,3 +913,7 @@
 [submodule "8clbya-dashboard-syncengine-persistence-and-cross-tab-synchronization"]
 	path = 8clbya-dashboard-syncengine-persistence-and-cross-tab-synchronization
 	url = https://github.com/eaglepointAiLabs/8clbya-dashboard-syncengine-persistence-and-cross-tab-synchronization.git
+
+[submodule "vfnph7-python-semver-dependency-resolver"]
+	path = vfnph7-python-semver-dependency-resolver
+	url = https://github.com/eaglepointAiLabs/vfnph7-python-semver-dependency-resolver.git
