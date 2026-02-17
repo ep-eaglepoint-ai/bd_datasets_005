@@ -1041,3 +1041,7 @@
 [submodule "ziwft5-regex-matcher-performance-optimization"]
 	path = ziwft5-regex-matcher-performance-optimization
 	url = https://github.com/eaglepointAiLabs/ziwft5-regex-matcher-performance-optimization.git
+
+[submodule "klqa1q-refactor-notificationservice-to-pluggable-provider-architecture"]
+	path = klqa1q-refactor-notificationservice-to-pluggable-provider-architecture
+	url = https://github.com/eaglepointAiLabs/klqa1q-refactor-notificationservice-to-pluggable-provider-architecture.git
