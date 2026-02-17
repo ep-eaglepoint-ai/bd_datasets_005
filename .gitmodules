@@ -969,3 +969,7 @@
 [submodule "dwf3bj-comprehensive-test-suite-for-persistent-homology-pipeline"]
 	path = dwf3bj-comprehensive-test-suite-for-persistent-homology-pipeline
 	url = https://github.com/eaglepointAiLabs/dwf3bj-comprehensive-test-suite-for-persistent-homology-pipeline.git
+
+[submodule "iadaur-reactive-searchservice-with-debounce-cancellation-and-lru-caching"]
+	path = iadaur-reactive-searchservice-with-debounce-cancellation-and-lru-caching
+	url = https://github.com/eaglepointAiLabs/iadaur-reactive-searchservice-with-debounce-cancellation-and-lru-caching.git
