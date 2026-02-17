@@ -1065,3 +1065,7 @@
 [submodule "58rlv9-add-audit-grade-historical-change-tracking-system-for-a-financial-account-management-service"]
 	path = 58rlv9-add-audit-grade-historical-change-tracking-system-for-a-financial-account-management-service
 	url = https://github.com/eaglepointAiLabs/58rlv9-add-audit-grade-historical-change-tracking-system-for-a-financial-account-management-service.git
+
+[submodule "ygqb6j-film-curation-testing"]
+	path = ygqb6j-film-curation-testing
+	url = https://github.com/eaglepointAiLabs/ygqb6j-film-curation-testing.git
