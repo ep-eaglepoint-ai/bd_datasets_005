@@ -889,3 +889,7 @@
 [submodule "o8vcw1-organization-hierarchy-manager-with-safe-reassignment"]
 	path = o8vcw1-organization-hierarchy-manager-with-safe-reassignment
 	url = https://github.com/eaglepointAiLabs/o8vcw1-organization-hierarchy-manager-with-safe-reassignment.git
+
+[submodule "rf0u1u-automated-soft-delete-compliance-scrubber"]
+	path = rf0u1u-automated-soft-delete-compliance-scrubber
+	url = https://github.com/eaglepointAiLabs/rf0u1u-automated-soft-delete-compliance-scrubber.git
