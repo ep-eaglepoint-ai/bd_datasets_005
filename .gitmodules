@@ -989,3 +989,7 @@
 [submodule "m7xoim-comprehensive-discountengine-test-suite"]
 	path = m7xoim-comprehensive-discountengine-test-suite
 	url = https://github.com/eaglepointAiLabs/m7xoim-comprehensive-discountengine-test-suite.git
+
+[submodule "aqd8yo-email-encryption-system-test-suite"]
+	path = aqd8yo-email-encryption-system-test-suite
+	url = https://github.com/eaglepointAiLabs/aqd8yo-email-encryption-system-test-suite.git
