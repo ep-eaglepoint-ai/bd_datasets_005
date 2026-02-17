@@ -1057,3 +1057,7 @@
 [submodule "6d6w29-refactor-healthaggregator-for-fault-tolerant-service-monitoring"]
 	path = 6d6w29-refactor-healthaggregator-for-fault-tolerant-service-monitoring
 	url = https://github.com/eaglepointAiLabs/6d6w29-refactor-healthaggregator-for-fault-tolerant-service-monitoring.git
+
+[submodule "7gioos-string-template-engine-with-conditional-blocks"]
+	path = 7gioos-string-template-engine-with-conditional-blocks
+	url = https://github.com/eaglepointAiLabs/7gioos-string-template-engine-with-conditional-blocks.git
