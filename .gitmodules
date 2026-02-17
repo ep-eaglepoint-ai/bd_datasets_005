@@ -897,3 +897,7 @@
 [submodule "n5cn1v-geographical-velocity-travel-lock"]
 	path = n5cn1v-geographical-velocity-travel-lock
 	url = https://github.com/eaglepointAiLabs/n5cn1v-geographical-velocity-travel-lock.git
+
+[submodule "shmcmh-preemptive-api-key-rotator"]
+	path = shmcmh-preemptive-api-key-rotator
+	url = https://github.com/eaglepointAiLabs/shmcmh-preemptive-api-key-rotator.git
