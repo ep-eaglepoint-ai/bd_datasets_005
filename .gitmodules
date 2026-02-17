@@ -1141,3 +1141,7 @@
 [submodule "40eh5p-adaptive-long-polling-with-load-based-timeouts"]
 	path = 40eh5p-adaptive-long-polling-with-load-based-timeouts
 	url = https://github.com/eaglepointAiLabs/40eh5p-adaptive-long-polling-with-load-based-timeouts.git
+
+[submodule "wlup1u-optimized-mobility-route-aggregation-with-deterministic-de-duplication"]
+	path = wlup1u-optimized-mobility-route-aggregation-with-deterministic-de-duplication
+	url = https://github.com/eaglepointAiLabs/wlup1u-optimized-mobility-route-aggregation-with-deterministic-de-duplication.git
