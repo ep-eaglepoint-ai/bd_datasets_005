@@ -945,3 +945,7 @@
 [submodule "chb4qm-comprehensive-testing-suite-for-high-rank-lattice-regression-model"]
 	path = chb4qm-comprehensive-testing-suite-for-high-rank-lattice-regression-model
 	url = https://github.com/eaglepointAiLabs/chb4qm-comprehensive-testing-suite-for-high-rank-lattice-regression-model.git
+
+[submodule "ky77wb-xml-validator-performance-optimization"]
+	path = ky77wb-xml-validator-performance-optimization
+	url = https://github.com/eaglepointAiLabs/ky77wb-xml-validator-performance-optimization.git
