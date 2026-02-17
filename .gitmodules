@@ -1201,3 +1201,7 @@
 [submodule "ttzw0w-optimizing-a-stochastic-factory-production-lp-simulation-for-efficiency-and-memory-usage"]
 	path = ttzw0w-optimizing-a-stochastic-factory-production-lp-simulation-for-efficiency-and-memory-usage
 	url = https://github.com/eaglepointAiLabs/ttzw0w-optimizing-a-stochastic-factory-production-lp-simulation-for-efficiency-and-memory-usage.git
+
+[submodule "fc7kkm-stochastic-factory-production-optimization"]
+	path = fc7kkm-stochastic-factory-production-optimization
+	url = https://github.com/eaglepointAiLabs/fc7kkm-stochastic-factory-production-optimization.git
