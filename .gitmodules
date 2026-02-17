@@ -1105,3 +1105,7 @@
 [submodule "vfaoxu-payroll-management-test"]
 	path = vfaoxu-payroll-management-test
 	url = https://github.com/eaglepointAiLabs/vfaoxu-payroll-management-test.git
+
+[submodule "jbm9wb-write-a-comprehensive-vitest-test-suite-for-an-event-driven-account-state-engine"]
+	path = jbm9wb-write-a-comprehensive-vitest-test-suite-for-an-event-driven-account-state-engine
+	url = https://github.com/eaglepointAiLabs/jbm9wb-write-a-comprehensive-vitest-test-suite-for-an-event-driven-account-state-engine.git
