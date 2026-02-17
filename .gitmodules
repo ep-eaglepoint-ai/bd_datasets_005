@@ -1029,3 +1029,7 @@
 [submodule "3e6zzn-warehouse-temperature-optimization-lp-based-energy-spoilage-minimization"]
 	path = 3e6zzn-warehouse-temperature-optimization-lp-based-energy-spoilage-minimization
 	url = https://github.com/eaglepointAiLabs/3e6zzn-warehouse-temperature-optimization-lp-based-energy-spoilage-minimization.git
+
+[submodule "cczr7b-mmaplogger-high-stress-test-suite"]
+	path = cczr7b-mmaplogger-high-stress-test-suite
+	url = https://github.com/eaglepointAiLabs/cczr7b-mmaplogger-high-stress-test-suite.git
