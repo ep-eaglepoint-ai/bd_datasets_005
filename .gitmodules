@@ -1033,3 +1033,7 @@
 [submodule "cczr7b-mmaplogger-high-stress-test-suite"]
 	path = cczr7b-mmaplogger-high-stress-test-suite
 	url = https://github.com/eaglepointAiLabs/cczr7b-mmaplogger-high-stress-test-suite.git
+
+[submodule "6m723x-add-test-suite-for-a-transaction-processor-using-vitest"]
+	path = 6m723x-add-test-suite-for-a-transaction-processor-using-vitest
+	url = https://github.com/eaglepointAiLabs/6m723x-add-test-suite-for-a-transaction-processor-using-vitest.git
