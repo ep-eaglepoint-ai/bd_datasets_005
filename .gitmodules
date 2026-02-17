@@ -961,3 +961,7 @@
 [submodule "oi8zgq-streammediaprocessor-with-memory-efficient-chunked-streaming"]
 	path = oi8zgq-streammediaprocessor-with-memory-efficient-chunked-streaming
 	url = https://github.com/eaglepointAiLabs/oi8zgq-streammediaprocessor-with-memory-efficient-chunked-streaming.git
+
+[submodule "etmn30-multi-tz-ledger-normalizer-audit"]
+	path = etmn30-multi-tz-ledger-normalizer-audit
+	url = https://github.com/eaglepointAiLabs/etmn30-multi-tz-ledger-normalizer-audit.git
