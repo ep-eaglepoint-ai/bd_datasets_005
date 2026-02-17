@@ -1113,3 +1113,7 @@
 [submodule "t0ynii-stabilizing-and-optimizing-a-high-throughput-event-ingestion-service"]
 	path = t0ynii-stabilizing-and-optimizing-a-high-throughput-event-ingestion-service
 	url = https://github.com/eaglepointAiLabs/t0ynii-stabilizing-and-optimizing-a-high-throughput-event-ingestion-service.git
+
+[submodule "y0i74l-masked-email-formatter-with-strict-validation-and-deterministic-rules"]
+	path = y0i74l-masked-email-formatter-with-strict-validation-and-deterministic-rules
+	url = https://github.com/eaglepointAiLabs/y0i74l-masked-email-formatter-with-strict-validation-and-deterministic-rules.git
