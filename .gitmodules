@@ -1409,3 +1409,7 @@
 [submodule "526za4-fintech-code-completion"]
 	path = 526za4-fintech-code-completion
 	url = https://github.com/eaglepointAiLabs/526za4-fintech-code-completion.git
+
+[submodule "leb7ru-java-two-sums"]
+	path = leb7ru-java-two-sums
+	url = https://github.com/eaglepointAiLabs/leb7ru-java-two-sums.git
