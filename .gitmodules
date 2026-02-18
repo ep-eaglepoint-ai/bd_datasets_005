@@ -1389,3 +1389,7 @@
 [submodule "d1cad4-recipe-scaling-tool"]
 	path = d1cad4-recipe-scaling-tool
 	url = https://github.com/eaglepointAiLabs/d1cad4-recipe-scaling-tool.git
+
+[submodule "y5tk3v-extending-a-hostpital-api"]
+	path = y5tk3v-extending-a-hostpital-api
+	url = https://github.com/eaglepointAiLabs/y5tk3v-extending-a-hostpital-api.git
