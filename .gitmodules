@@ -1277,3 +1277,7 @@
 [submodule "t72keq-downtime-aggregation-with-datetime-parsing"]
 	path = t72keq-downtime-aggregation-with-datetime-parsing
 	url = https://github.com/eaglepointAiLabs/t72keq-downtime-aggregation-with-datetime-parsing.git
+
+[submodule "ctaq2h-session-store-leak-fix"]
+	path = ctaq2h-session-store-leak-fix
+	url = https://github.com/eaglepointAiLabs/ctaq2h-session-store-leak-fix.git
