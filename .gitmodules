@@ -1329,3 +1329,7 @@
 [submodule "2je251-relative-human-duration-cpp-audit"]
 	path = 2je251-relative-human-duration-cpp-audit
 	url = https://github.com/eaglepointAiLabs/2je251-relative-human-duration-cpp-audit.git
+
+[submodule "9lty53-cidr-range-intersection-audit"]
+	path = 9lty53-cidr-range-intersection-audit
+	url = https://github.com/eaglepointAiLabs/9lty53-cidr-range-intersection-audit.git
