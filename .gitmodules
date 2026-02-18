@@ -1377,3 +1377,7 @@
 [submodule "sj2low-binary-magic-byte-audit"]
 	path = sj2low-binary-magic-byte-audit
 	url = https://github.com/eaglepointAiLabs/sj2low-binary-magic-byte-audit.git
+
+[submodule "k4na1m-assembly-line-balancing-via-ranked-positional-weight"]
+	path = k4na1m-assembly-line-balancing-via-ranked-positional-weight
+	url = https://github.com/eaglepointAiLabs/k4na1m-assembly-line-balancing-via-ranked-positional-weight.git
