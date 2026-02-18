@@ -1289,3 +1289,7 @@
 [submodule "mkgit1-test-validation-for-async-driver-heartbeat-and-watchdog-timing-logic"]
 	path = mkgit1-test-validation-for-async-driver-heartbeat-and-watchdog-timing-logic
 	url = https://github.com/eaglepointAiLabs/mkgit1-test-validation-for-async-driver-heartbeat-and-watchdog-timing-logic.git
+
+[submodule "1sohtj-translationengine-with-nested-resolution-interpolation-and-pluralization"]
+	path = 1sohtj-translationengine-with-nested-resolution-interpolation-and-pluralization
+	url = https://github.com/eaglepointAiLabs/1sohtj-translationengine-with-nested-resolution-interpolation-and-pluralization.git
