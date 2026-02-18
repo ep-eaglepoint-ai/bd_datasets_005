@@ -1445,3 +1445,7 @@
 [submodule "0avitn-api-complexity-cost-gatekeeper"]
 	path = 0avitn-api-complexity-cost-gatekeeper
 	url = https://github.com/eaglepointAiLabs/0avitn-api-complexity-cost-gatekeeper.git
+
+[submodule "x5akw6-inverted-index-optimization-for-keyword-matching"]
+	path = x5akw6-inverted-index-optimization-for-keyword-matching
+	url = https://github.com/eaglepointAiLabs/x5akw6-inverted-index-optimization-for-keyword-matching.git
