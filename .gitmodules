@@ -1317,3 +1317,7 @@
 [submodule "54kste-comprehensive-test-suite-for-warehouse-order-fulfillment-state-machine"]
 	path = 54kste-comprehensive-test-suite-for-warehouse-order-fulfillment-state-machine
 	url = https://github.com/eaglepointAiLabs/54kste-comprehensive-test-suite-for-warehouse-order-fulfillment-state-machine.git
+
+[submodule "3bxrna-string-template-recursion-audit"]
+	path = 3bxrna-string-template-recursion-audit
+	url = https://github.com/eaglepointAiLabs/3bxrna-string-template-recursion-audit.git
