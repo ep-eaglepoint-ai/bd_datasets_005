@@ -1353,3 +1353,7 @@
 [submodule "ax8gpr-order-processor-strategy-refactoring"]
 	path = ax8gpr-order-processor-strategy-refactoring
 	url = https://github.com/eaglepointAiLabs/ax8gpr-order-processor-strategy-refactoring.git
+
+[submodule "s89bs2-comprehensive-vitest-test-suite-for-getuserswithposts-exposing-partial-failures"]
+	path = s89bs2-comprehensive-vitest-test-suite-for-getuserswithposts-exposing-partial-failures
+	url = https://github.com/eaglepointAiLabs/s89bs2-comprehensive-vitest-test-suite-for-getuserswithposts-exposing-partial-failures.git
