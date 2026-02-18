@@ -1457,3 +1457,7 @@
 [submodule "8azaea-feature-flag-resolution-engine"]
 	path = 8azaea-feature-flag-resolution-engine
 	url = https://github.com/eaglepointAiLabs/8azaea-feature-flag-resolution-engine.git
+
+[submodule "2yy1mo-refactor-shortcutmanager-to-registry-based-dynamic-system"]
+	path = 2yy1mo-refactor-shortcutmanager-to-registry-based-dynamic-system
+	url = https://github.com/eaglepointAiLabs/2yy1mo-refactor-shortcutmanager-to-registry-based-dynamic-system.git
