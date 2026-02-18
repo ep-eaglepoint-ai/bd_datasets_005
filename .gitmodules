@@ -1385,3 +1385,7 @@
 [submodule "ighn89-build-a-lightweight-subscription-billing-service-for-an-internal-saas-analytics"]
 	path = ighn89-build-a-lightweight-subscription-billing-service-for-an-internal-saas-analytics
 	url = https://github.com/eaglepointAiLabs/ighn89-build-a-lightweight-subscription-billing-service-for-an-internal-saas-analytics.git
+
+[submodule "d1cad4-recipe-scaling-tool"]
+	path = d1cad4-recipe-scaling-tool
+	url = https://github.com/eaglepointAiLabs/d1cad4-recipe-scaling-tool.git
