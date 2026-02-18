@@ -1265,3 +1265,7 @@
 [submodule "s0lzuk-inventory-deduction-with-automatic-waste-calculation"]
 	path = s0lzuk-inventory-deduction-with-automatic-waste-calculation
 	url = https://github.com/eaglepointAiLabs/s0lzuk-inventory-deduction-with-automatic-waste-calculation.git
+
+[submodule "wfqipe-implement-comprehensive-unit-tests-for-cartvalidator"]
+	path = wfqipe-implement-comprehensive-unit-tests-for-cartvalidator
+	url = https://github.com/eaglepointAiLabs/wfqipe-implement-comprehensive-unit-tests-for-cartvalidator.git
