@@ -1369,3 +1369,7 @@
 [submodule "pk1psk-bidirectional-consistency-test-suite-for-matching-constraints"]
 	path = pk1psk-bidirectional-consistency-test-suite-for-matching-constraints
 	url = https://github.com/eaglepointAiLabs/pk1psk-bidirectional-consistency-test-suite-for-matching-constraints.git
+
+[submodule "tg6w7m-offline-first-store-and-forward-queue-with-sqlite"]
+	path = tg6w7m-offline-first-store-and-forward-queue-with-sqlite
+	url = https://github.com/eaglepointAiLabs/tg6w7m-offline-first-store-and-forward-queue-with-sqlite.git
