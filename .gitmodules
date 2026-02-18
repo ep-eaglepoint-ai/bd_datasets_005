@@ -1325,3 +1325,7 @@
 [submodule "fuasbl-fsm-pytest-test-suite"]
 	path = fuasbl-fsm-pytest-test-suite
 	url = https://github.com/eaglepointAiLabs/fuasbl-fsm-pytest-test-suite.git
+
+[submodule "2je251-relative-human-duration-cpp-audit"]
+	path = 2je251-relative-human-duration-cpp-audit
+	url = https://github.com/eaglepointAiLabs/2je251-relative-human-duration-cpp-audit.git
