@@ -1205,3 +1205,7 @@
 [submodule "fc7kkm-stochastic-factory-production-optimization"]
 	path = fc7kkm-stochastic-factory-production-optimization
 	url = https://github.com/eaglepointAiLabs/fc7kkm-stochastic-factory-production-optimization.git
+
+[submodule "csvqod-shortest-word-transformation-paths"]
+	path = csvqod-shortest-word-transformation-paths
+	url = https://github.com/eaglepointAiLabs/csvqod-shortest-word-transformation-paths.git
