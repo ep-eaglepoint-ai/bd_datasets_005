@@ -1365,3 +1365,7 @@
 [submodule "wu551r-production-grade-social-media-username-generator-strict-platform-rules"]
 	path = wu551r-production-grade-social-media-username-generator-strict-platform-rules
 	url = https://github.com/eaglepointAiLabs/wu551r-production-grade-social-media-username-generator-strict-platform-rules.git
+
+[submodule "pk1psk-bidirectional-consistency-test-suite-for-matching-constraints"]
+	path = pk1psk-bidirectional-consistency-test-suite-for-matching-constraints
+	url = https://github.com/eaglepointAiLabs/pk1psk-bidirectional-consistency-test-suite-for-matching-constraints.git
