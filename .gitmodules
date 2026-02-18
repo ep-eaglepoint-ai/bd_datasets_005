@@ -1345,3 +1345,7 @@
 [submodule "9myd9c-optimization-of-school-report-card-generator"]
 	path = 9myd9c-optimization-of-school-report-card-generator
 	url = https://github.com/eaglepointAiLabs/9myd9c-optimization-of-school-report-card-generator.git
+
+[submodule "pmynyi-shopping-cart-new-feature-development"]
+	path = pmynyi-shopping-cart-new-feature-development
+	url = https://github.com/eaglepointAiLabs/pmynyi-shopping-cart-new-feature-development.git
