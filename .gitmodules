@@ -1437,3 +1437,7 @@
 [submodule "hgb36o-integer-id-sharding-mapper-audit"]
 	path = hgb36o-integer-id-sharding-mapper-audit
 	url = https://github.com/eaglepointAiLabs/hgb36o-integer-id-sharding-mapper-audit.git
+
+[submodule "vz13ea-bounded-priority-scheduler-with-deterministic-fairness-and-strict-performance-guarantees"]
+	path = vz13ea-bounded-priority-scheduler-with-deterministic-fairness-and-strict-performance-guarantees
+	url = https://github.com/eaglepointAiLabs/vz13ea-bounded-priority-scheduler-with-deterministic-fairness-and-strict-performance-guarantees.git
