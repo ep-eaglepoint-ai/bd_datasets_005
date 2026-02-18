@@ -1341,3 +1341,7 @@
 [submodule "67u291-optimize-a-statistics-endpoint-for-a-high-traffic-analytics-service"]
 	path = 67u291-optimize-a-statistics-endpoint-for-a-high-traffic-analytics-service
 	url = https://github.com/eaglepointAiLabs/67u291-optimize-a-statistics-endpoint-for-a-high-traffic-analytics-service.git
+
+[submodule "9myd9c-optimization-of-school-report-card-generator"]
+	path = 9myd9c-optimization-of-school-report-card-generator
+	url = https://github.com/eaglepointAiLabs/9myd9c-optimization-of-school-report-card-generator.git
