@@ -1441,3 +1441,7 @@
 [submodule "vz13ea-bounded-priority-scheduler-with-deterministic-fairness-and-strict-performance-guarantees"]
 	path = vz13ea-bounded-priority-scheduler-with-deterministic-fairness-and-strict-performance-guarantees
 	url = https://github.com/eaglepointAiLabs/vz13ea-bounded-priority-scheduler-with-deterministic-fairness-and-strict-performance-guarantees.git
+
+[submodule "0avitn-api-complexity-cost-gatekeeper"]
+	path = 0avitn-api-complexity-cost-gatekeeper
+	url = https://github.com/eaglepointAiLabs/0avitn-api-complexity-cost-gatekeeper.git
