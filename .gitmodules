@@ -1253,3 +1253,7 @@
 [submodule "a87aua-real-time-scrap-rate-calculator-with-threshold-logic"]
 	path = a87aua-real-time-scrap-rate-calculator-with-threshold-logic
 	url = https://github.com/eaglepointAiLabs/a87aua-real-time-scrap-rate-calculator-with-threshold-logic.git
+
+[submodule "bm18f8-certification-interval-merging-status-derivation"]
+	path = bm18f8-certification-interval-merging-status-derivation
+	url = https://github.com/eaglepointAiLabs/bm18f8-certification-interval-merging-status-derivation.git
