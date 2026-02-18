@@ -1273,3 +1273,7 @@
 [submodule "yq38yr-implement-unit-tests-for-permissionengine-rbac-logic"]
 	path = yq38yr-implement-unit-tests-for-permissionengine-rbac-logic
 	url = https://github.com/eaglepointAiLabs/yq38yr-implement-unit-tests-for-permissionengine-rbac-logic.git
+
+[submodule "t72keq-downtime-aggregation-with-datetime-parsing"]
+	path = t72keq-downtime-aggregation-with-datetime-parsing
+	url = https://github.com/eaglepointAiLabs/t72keq-downtime-aggregation-with-datetime-parsing.git
