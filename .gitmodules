@@ -1449,3 +1449,7 @@
 [submodule "x5akw6-inverted-index-optimization-for-keyword-matching"]
 	path = x5akw6-inverted-index-optimization-for-keyword-matching
 	url = https://github.com/eaglepointAiLabs/x5akw6-inverted-index-optimization-for-keyword-matching.git
+
+[submodule "5cqzpg-implement-cachemanager-with-request-deduplication-ttl-and-safe-invalidation"]
+	path = 5cqzpg-implement-cachemanager-with-request-deduplication-ttl-and-safe-invalidation
+	url = https://github.com/eaglepointAiLabs/5cqzpg-implement-cachemanager-with-request-deduplication-ttl-and-safe-invalidation.git
