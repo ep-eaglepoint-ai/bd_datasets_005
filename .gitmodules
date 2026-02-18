@@ -1269,3 +1269,7 @@
 [submodule "wfqipe-implement-comprehensive-unit-tests-for-cartvalidator"]
 	path = wfqipe-implement-comprehensive-unit-tests-for-cartvalidator
 	url = https://github.com/eaglepointAiLabs/wfqipe-implement-comprehensive-unit-tests-for-cartvalidator.git
+
+[submodule "yq38yr-implement-unit-tests-for-permissionengine-rbac-logic"]
+	path = yq38yr-implement-unit-tests-for-permissionengine-rbac-logic
+	url = https://github.com/eaglepointAiLabs/yq38yr-implement-unit-tests-for-permissionengine-rbac-logic.git
