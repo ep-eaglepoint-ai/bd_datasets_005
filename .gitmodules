@@ -1233,3 +1233,7 @@
 [submodule "1x567v-add-a-secure-activity-audit-feature-for-an-internal-operations-platform"]
 	path = 1x567v-add-a-secure-activity-audit-feature-for-an-internal-operations-platform
 	url = https://github.com/eaglepointAiLabs/1x567v-add-a-secure-activity-audit-feature-for-an-internal-operations-platform.git
+
+[submodule "dnhupg-optimizing-an-api-service-for-an-online-reading-platform"]
+	path = dnhupg-optimizing-an-api-service-for-an-online-reading-platform
+	url = https://github.com/eaglepointAiLabs/dnhupg-optimizing-an-api-service-for-an-online-reading-platform.git
