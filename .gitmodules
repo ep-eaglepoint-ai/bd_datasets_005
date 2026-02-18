@@ -1209,3 +1209,7 @@
 [submodule "csvqod-shortest-word-transformation-paths"]
 	path = csvqod-shortest-word-transformation-paths
 	url = https://github.com/eaglepointAiLabs/csvqod-shortest-word-transformation-paths.git
+
+[submodule "2atbdd-valid-number-string-checker"]
+	path = 2atbdd-valid-number-string-checker
+	url = https://github.com/eaglepointAiLabs/2atbdd-valid-number-string-checker.git
