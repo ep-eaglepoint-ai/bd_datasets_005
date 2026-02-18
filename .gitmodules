@@ -1297,3 +1297,7 @@
 [submodule "f4lqzg-optimizing-packing-logic-via-aggregation-and-integer-arithmetic"]
 	path = f4lqzg-optimizing-packing-logic-via-aggregation-and-integer-arithmetic
 	url = https://github.com/eaglepointAiLabs/f4lqzg-optimizing-packing-logic-via-aggregation-and-integer-arithmetic.git
+
+[submodule "gwpem8-streaming-batch-processor-performance-fix"]
+	path = gwpem8-streaming-batch-processor-performance-fix
+	url = https://github.com/eaglepointAiLabs/gwpem8-streaming-batch-processor-performance-fix.git
