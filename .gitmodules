@@ -1285,3 +1285,7 @@
 [submodule "n5l6j0-optimize-resourcefilter-for-scalable-resource-visibility-filtering"]
 	path = n5l6j0-optimize-resourcefilter-for-scalable-resource-visibility-filtering
 	url = https://github.com/eaglepointAiLabs/n5l6j0-optimize-resourcefilter-for-scalable-resource-visibility-filtering.git
+
+[submodule "mkgit1-test-validation-for-async-driver-heartbeat-and-watchdog-timing-logic"]
+	path = mkgit1-test-validation-for-async-driver-heartbeat-and-watchdog-timing-logic
+	url = https://github.com/eaglepointAiLabs/mkgit1-test-validation-for-async-driver-heartbeat-and-watchdog-timing-logic.git
