@@ -1237,3 +1237,7 @@
 [submodule "dnhupg-optimizing-an-api-service-for-an-online-reading-platform"]
 	path = dnhupg-optimizing-an-api-service-for-an-online-reading-platform
 	url = https://github.com/eaglepointAiLabs/dnhupg-optimizing-an-api-service-for-an-online-reading-platform.git
+
+[submodule "yg4as5-worker-pool-with-job-prioritization-and-graceful-drain"]
+	path = yg4as5-worker-pool-with-job-prioritization-and-graceful-drain
+	url = https://github.com/eaglepointAiLabs/yg4as5-worker-pool-with-job-prioritization-and-graceful-drain.git
