@@ -1217,3 +1217,7 @@
 [submodule "dturca-two-sum-index-pairs-optimization"]
 	path = dturca-two-sum-index-pairs-optimization
 	url = https://github.com/eaglepointAiLabs/dturca-two-sum-index-pairs-optimization.git
+
+[submodule "ahrt8f-stadium-consecutive-visit-records-verification"]
+	path = ahrt8f-stadium-consecutive-visit-records-verification
+	url = https://github.com/eaglepointAiLabs/ahrt8f-stadium-consecutive-visit-records-verification.git
