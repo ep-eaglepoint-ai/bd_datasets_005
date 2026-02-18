@@ -1257,3 +1257,7 @@
 [submodule "bm18f8-certification-interval-merging-status-derivation"]
 	path = bm18f8-certification-interval-merging-status-derivation
 	url = https://github.com/eaglepointAiLabs/bm18f8-certification-interval-merging-status-derivation.git
+
+[submodule "l1bcpq-ast-code-metrics-calculator"]
+	path = l1bcpq-ast-code-metrics-calculator
+	url = https://github.com/eaglepointAiLabs/l1bcpq-ast-code-metrics-calculator.git
