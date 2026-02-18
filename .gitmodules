@@ -1333,3 +1333,7 @@
 [submodule "9lty53-cidr-range-intersection-audit"]
 	path = 9lty53-cidr-range-intersection-audit
 	url = https://github.com/eaglepointAiLabs/9lty53-cidr-range-intersection-audit.git
+
+[submodule "lrgpx4-secure-deep-property-accessor-audit"]
+	path = lrgpx4-secure-deep-property-accessor-audit
+	url = https://github.com/eaglepointAiLabs/lrgpx4-secure-deep-property-accessor-audit.git
