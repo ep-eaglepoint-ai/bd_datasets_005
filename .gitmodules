@@ -1241,3 +1241,7 @@
 [submodule "yg4as5-worker-pool-with-job-prioritization-and-graceful-drain"]
 	path = yg4as5-worker-pool-with-job-prioritization-and-graceful-drain
 	url = https://github.com/eaglepointAiLabs/yg4as5-worker-pool-with-job-prioritization-and-graceful-drain.git
+
+[submodule "7suio8-shift-handover-report-generator-with-role-based-validation"]
+	path = 7suio8-shift-handover-report-generator-with-role-based-validation
+	url = https://github.com/eaglepointAiLabs/7suio8-shift-handover-report-generator-with-role-based-validation.git
