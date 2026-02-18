@@ -1225,3 +1225,7 @@
 [submodule "tvk36h-department-high-earners-verification"]
 	path = tvk36h-department-high-earners-verification
 	url = https://github.com/eaglepointAiLabs/tvk36h-department-high-earners-verification.git
+
+[submodule "izrpm3-dependency-resolver-with-stable-ordering-and-cycle-detection"]
+	path = izrpm3-dependency-resolver-with-stable-ordering-and-cycle-detection
+	url = https://github.com/eaglepointAiLabs/izrpm3-dependency-resolver-with-stable-ordering-and-cycle-detection.git
