@@ -1313,3 +1313,7 @@
 [submodule "ye8pet-weighted-money-split-with-decimal-precision-and-strict-remainder-allocation"]
 	path = ye8pet-weighted-money-split-with-decimal-precision-and-strict-remainder-allocation
 	url = https://github.com/eaglepointAiLabs/ye8pet-weighted-money-split-with-decimal-precision-and-strict-remainder-allocation.git
+
+[submodule "54kste-comprehensive-test-suite-for-warehouse-order-fulfillment-state-machine"]
+	path = 54kste-comprehensive-test-suite-for-warehouse-order-fulfillment-state-machine
+	url = https://github.com/eaglepointAiLabs/54kste-comprehensive-test-suite-for-warehouse-order-fulfillment-state-machine.git
