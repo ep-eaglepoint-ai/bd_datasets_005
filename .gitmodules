@@ -1309,3 +1309,7 @@
 [submodule "1nrde0-rest-controller-integration-tests"]
 	path = 1nrde0-rest-controller-integration-tests
 	url = https://github.com/eaglepointAiLabs/1nrde0-rest-controller-integration-tests.git
+
+[submodule "ye8pet-weighted-money-split-with-decimal-precision-and-strict-remainder-allocation"]
+	path = ye8pet-weighted-money-split-with-decimal-precision-and-strict-remainder-allocation
+	url = https://github.com/eaglepointAiLabs/ye8pet-weighted-money-split-with-decimal-precision-and-strict-remainder-allocation.git
