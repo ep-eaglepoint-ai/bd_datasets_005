@@ -1433,3 +1433,7 @@
 [submodule "xihd0r-string-processing-utiltiy"]
 	path = xihd0r-string-processing-utiltiy
 	url = https://github.com/eaglepointAiLabs/xihd0r-string-processing-utiltiy.git
+
+[submodule "hgb36o-integer-id-sharding-mapper-audit"]
+	path = hgb36o-integer-id-sharding-mapper-audit
+	url = https://github.com/eaglepointAiLabs/hgb36o-integer-id-sharding-mapper-audit.git
