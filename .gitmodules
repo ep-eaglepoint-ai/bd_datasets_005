@@ -1461,3 +1461,7 @@
 [submodule "2yy1mo-refactor-shortcutmanager-to-registry-based-dynamic-system"]
 	path = 2yy1mo-refactor-shortcutmanager-to-registry-based-dynamic-system
 	url = https://github.com/eaglepointAiLabs/2yy1mo-refactor-shortcutmanager-to-registry-based-dynamic-system.git
+
+[submodule "7m7xk4-persistent-priority-scheduler-test-suite"]
+	path = 7m7xk4-persistent-priority-scheduler-test-suite
+	url = https://github.com/eaglepointAiLabs/7m7xk4-persistent-priority-scheduler-test-suite.git
