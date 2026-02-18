@@ -1213,3 +1213,7 @@
 [submodule "2atbdd-valid-number-string-checker"]
 	path = 2atbdd-valid-number-string-checker
 	url = https://github.com/eaglepointAiLabs/2atbdd-valid-number-string-checker.git
+
+[submodule "dturca-two-sum-index-pairs-optimization"]
+	path = dturca-two-sum-index-pairs-optimization
+	url = https://github.com/eaglepointAiLabs/dturca-two-sum-index-pairs-optimization.git
