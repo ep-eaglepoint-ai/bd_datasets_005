@@ -1249,3 +1249,7 @@
 [submodule "vgbzip-add-automated-test-for-a-small-internal-billing-utility"]
 	path = vgbzip-add-automated-test-for-a-small-internal-billing-utility
 	url = https://github.com/eaglepointAiLabs/vgbzip-add-automated-test-for-a-small-internal-billing-utility.git
+
+[submodule "a87aua-real-time-scrap-rate-calculator-with-threshold-logic"]
+	path = a87aua-real-time-scrap-rate-calculator-with-threshold-logic
+	url = https://github.com/eaglepointAiLabs/a87aua-real-time-scrap-rate-calculator-with-threshold-logic.git
