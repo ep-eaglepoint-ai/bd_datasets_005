@@ -1381,3 +1381,7 @@
 [submodule "k4na1m-assembly-line-balancing-via-ranked-positional-weight"]
 	path = k4na1m-assembly-line-balancing-via-ranked-positional-weight
 	url = https://github.com/eaglepointAiLabs/k4na1m-assembly-line-balancing-via-ranked-positional-weight.git
+
+[submodule "ighn89-build-a-lightweight-subscription-billing-service-for-an-internal-saas-analytics"]
+	path = ighn89-build-a-lightweight-subscription-billing-service-for-an-internal-saas-analytics
+	url = https://github.com/eaglepointAiLabs/ighn89-build-a-lightweight-subscription-billing-service-for-an-internal-saas-analytics.git
