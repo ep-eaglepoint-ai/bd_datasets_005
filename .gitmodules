@@ -1281,3 +1281,7 @@
 [submodule "ctaq2h-session-store-leak-fix"]
 	path = ctaq2h-session-store-leak-fix
 	url = https://github.com/eaglepointAiLabs/ctaq2h-session-store-leak-fix.git
+
+[submodule "n5l6j0-optimize-resourcefilter-for-scalable-resource-visibility-filtering"]
+	path = n5l6j0-optimize-resourcefilter-for-scalable-resource-visibility-filtering
+	url = https://github.com/eaglepointAiLabs/n5l6j0-optimize-resourcefilter-for-scalable-resource-visibility-filtering.git
