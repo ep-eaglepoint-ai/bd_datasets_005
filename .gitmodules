@@ -1373,3 +1373,7 @@
 [submodule "tg6w7m-offline-first-store-and-forward-queue-with-sqlite"]
 	path = tg6w7m-offline-first-store-and-forward-queue-with-sqlite
 	url = https://github.com/eaglepointAiLabs/tg6w7m-offline-first-store-and-forward-queue-with-sqlite.git
+
+[submodule "sj2low-binary-magic-byte-audit"]
+	path = sj2low-binary-magic-byte-audit
+	url = https://github.com/eaglepointAiLabs/sj2low-binary-magic-byte-audit.git
