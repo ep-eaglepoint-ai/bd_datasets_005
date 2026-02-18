@@ -1221,3 +1221,7 @@
 [submodule "ahrt8f-stadium-consecutive-visit-records-verification"]
 	path = ahrt8f-stadium-consecutive-visit-records-verification
 	url = https://github.com/eaglepointAiLabs/ahrt8f-stadium-consecutive-visit-records-verification.git
+
+[submodule "tvk36h-department-high-earners-verification"]
+	path = tvk36h-department-high-earners-verification
+	url = https://github.com/eaglepointAiLabs/tvk36h-department-high-earners-verification.git
