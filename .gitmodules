@@ -1301,3 +1301,7 @@
 [submodule "gwpem8-streaming-batch-processor-performance-fix"]
 	path = gwpem8-streaming-batch-processor-performance-fix
 	url = https://github.com/eaglepointAiLabs/gwpem8-streaming-batch-processor-performance-fix.git
+
+[submodule "oz6fek-implement-a-new-feature-that-allows-users-to-register-for-an-event"]
+	path = oz6fek-implement-a-new-feature-that-allows-users-to-register-for-an-event
+	url = https://github.com/eaglepointAiLabs/oz6fek-implement-a-new-feature-that-allows-users-to-register-for-an-event.git
