@@ -1349,3 +1349,7 @@
 [submodule "pmynyi-shopping-cart-new-feature-development"]
 	path = pmynyi-shopping-cart-new-feature-development
 	url = https://github.com/eaglepointAiLabs/pmynyi-shopping-cart-new-feature-development.git
+
+[submodule "ax8gpr-order-processor-strategy-refactoring"]
+	path = ax8gpr-order-processor-strategy-refactoring
+	url = https://github.com/eaglepointAiLabs/ax8gpr-order-processor-strategy-refactoring.git
