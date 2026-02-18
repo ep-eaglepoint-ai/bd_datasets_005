@@ -1465,3 +1465,7 @@
 [submodule "7m7xk4-persistent-priority-scheduler-test-suite"]
 	path = 7m7xk4-persistent-priority-scheduler-test-suite
 	url = https://github.com/eaglepointAiLabs/7m7xk4-persistent-priority-scheduler-test-suite.git
+
+[submodule "p1u6fe-asyncjournal-concurrency-test-suite"]
+	path = p1u6fe-asyncjournal-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/p1u6fe-asyncjournal-concurrency-test-suite.git
