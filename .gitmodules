@@ -1397,3 +1397,7 @@
 [submodule "pc92cd-add-a-focused-unit-test-suite-for-user-registration-service"]
 	path = pc92cd-add-a-focused-unit-test-suite-for-user-registration-service
 	url = https://github.com/eaglepointAiLabs/pc92cd-add-a-focused-unit-test-suite-for-user-registration-service.git
+
+[submodule "i08mnc-vigenere-cipher-implementation"]
+	path = i08mnc-vigenere-cipher-implementation
+	url = https://github.com/eaglepointAiLabs/i08mnc-vigenere-cipher-implementation.git
