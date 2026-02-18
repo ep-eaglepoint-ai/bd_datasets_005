@@ -1429,3 +1429,7 @@
 [submodule "jtbadh-data-ingestion-pipeline"]
 	path = jtbadh-data-ingestion-pipeline
 	url = https://github.com/eaglepointAiLabs/jtbadh-data-ingestion-pipeline.git
+
+[submodule "xihd0r-string-processing-utiltiy"]
+	path = xihd0r-string-processing-utiltiy
+	url = https://github.com/eaglepointAiLabs/xihd0r-string-processing-utiltiy.git
