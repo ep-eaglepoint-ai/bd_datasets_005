@@ -1245,3 +1245,7 @@
 [submodule "7suio8-shift-handover-report-generator-with-role-based-validation"]
 	path = 7suio8-shift-handover-report-generator-with-role-based-validation
 	url = https://github.com/eaglepointAiLabs/7suio8-shift-handover-report-generator-with-role-based-validation.git
+
+[submodule "vgbzip-add-automated-test-for-a-small-internal-billing-utility"]
+	path = vgbzip-add-automated-test-for-a-small-internal-billing-utility
+	url = https://github.com/eaglepointAiLabs/vgbzip-add-automated-test-for-a-small-internal-billing-utility.git
