@@ -1425,3 +1425,7 @@
 [submodule "7cfzzq-atomic-sequential-slug-generator-audit"]
 	path = 7cfzzq-atomic-sequential-slug-generator-audit
 	url = https://github.com/eaglepointAiLabs/7cfzzq-atomic-sequential-slug-generator-audit.git
+
+[submodule "jtbadh-data-ingestion-pipeline"]
+	path = jtbadh-data-ingestion-pipeline
+	url = https://github.com/eaglepointAiLabs/jtbadh-data-ingestion-pipeline.git
