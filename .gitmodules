@@ -1321,3 +1321,7 @@
 [submodule "3bxrna-string-template-recursion-audit"]
 	path = 3bxrna-string-template-recursion-audit
 	url = https://github.com/eaglepointAiLabs/3bxrna-string-template-recursion-audit.git
+
+[submodule "fuasbl-fsm-pytest-test-suite"]
+	path = fuasbl-fsm-pytest-test-suite
+	url = https://github.com/eaglepointAiLabs/fuasbl-fsm-pytest-test-suite.git
