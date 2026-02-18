@@ -1417,3 +1417,7 @@
 [submodule "swml6t-implement-normalized-commentmanager"]
 	path = swml6t-implement-normalized-commentmanager
 	url = https://github.com/eaglepointAiLabs/swml6t-implement-normalized-commentmanager.git
+
+[submodule "okx4ok-libtech-systems"]
+	path = okx4ok-libtech-systems
+	url = https://github.com/eaglepointAiLabs/okx4ok-libtech-systems.git
