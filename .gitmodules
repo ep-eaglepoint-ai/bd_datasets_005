@@ -1305,3 +1305,7 @@
 [submodule "oz6fek-implement-a-new-feature-that-allows-users-to-register-for-an-event"]
 	path = oz6fek-implement-a-new-feature-that-allows-users-to-register-for-an-event
 	url = https://github.com/eaglepointAiLabs/oz6fek-implement-a-new-feature-that-allows-users-to-register-for-an-event.git
+
+[submodule "1nrde0-rest-controller-integration-tests"]
+	path = 1nrde0-rest-controller-integration-tests
+	url = https://github.com/eaglepointAiLabs/1nrde0-rest-controller-integration-tests.git
