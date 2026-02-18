@@ -1337,3 +1337,7 @@
 [submodule "lrgpx4-secure-deep-property-accessor-audit"]
 	path = lrgpx4-secure-deep-property-accessor-audit
 	url = https://github.com/eaglepointAiLabs/lrgpx4-secure-deep-property-accessor-audit.git
+
+[submodule "67u291-optimize-a-statistics-endpoint-for-a-high-traffic-analytics-service"]
+	path = 67u291-optimize-a-statistics-endpoint-for-a-high-traffic-analytics-service
+	url = https://github.com/eaglepointAiLabs/67u291-optimize-a-statistics-endpoint-for-a-high-traffic-analytics-service.git
