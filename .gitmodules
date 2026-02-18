@@ -1393,3 +1393,7 @@
 [submodule "y5tk3v-extending-a-hostpital-api"]
 	path = y5tk3v-extending-a-hostpital-api
 	url = https://github.com/eaglepointAiLabs/y5tk3v-extending-a-hostpital-api.git
+
+[submodule "pc92cd-add-a-focused-unit-test-suite-for-user-registration-service"]
+	path = pc92cd-add-a-focused-unit-test-suite-for-user-registration-service
+	url = https://github.com/eaglepointAiLabs/pc92cd-add-a-focused-unit-test-suite-for-user-registration-service.git
