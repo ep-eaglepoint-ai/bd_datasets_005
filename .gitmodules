@@ -1261,3 +1261,7 @@
 [submodule "l1bcpq-ast-code-metrics-calculator"]
 	path = l1bcpq-ast-code-metrics-calculator
 	url = https://github.com/eaglepointAiLabs/l1bcpq-ast-code-metrics-calculator.git
+
+[submodule "s0lzuk-inventory-deduction-with-automatic-waste-calculation"]
+	path = s0lzuk-inventory-deduction-with-automatic-waste-calculation
+	url = https://github.com/eaglepointAiLabs/s0lzuk-inventory-deduction-with-automatic-waste-calculation.git
