@@ -1693,3 +1693,7 @@
 [submodule "9lfl7h-exhaustive-state-machine"]
 	path = 9lfl7h-exhaustive-state-machine
 	url = https://github.com/eaglepointAiLabs/9lfl7h-exhaustive-state-machine.git
+
+[submodule "t396un-the-boundary-condition-flaw"]
+	path = t396un-the-boundary-condition-flaw
+	url = https://github.com/eaglepointAiLabs/t396un-the-boundary-condition-flaw.git
