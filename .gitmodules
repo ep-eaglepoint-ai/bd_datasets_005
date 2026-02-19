@@ -1609,3 +1609,7 @@
 [submodule "v71x33-dynamic-scheduling-with-heaps-and-lazy-deletion"]
 	path = v71x33-dynamic-scheduling-with-heaps-and-lazy-deletion
 	url = https://github.com/eaglepointAiLabs/v71x33-dynamic-scheduling-with-heaps-and-lazy-deletion.git
+
+[submodule "ij3z79-streaming-aggregation-with-hash-based-rule-matching"]
+	path = ij3z79-streaming-aggregation-with-hash-based-rule-matching
+	url = https://github.com/eaglepointAiLabs/ij3z79-streaming-aggregation-with-hash-based-rule-matching.git
