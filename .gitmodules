@@ -1509,3 +1509,7 @@
 [submodule "iklluf-hr-payroll-expression-parser-test-suite-precision-improvement"]
 	path = iklluf-hr-payroll-expression-parser-test-suite-precision-improvement
 	url = https://github.com/eaglepointAiLabs/iklluf-hr-payroll-expression-parser-test-suite-precision-improvement.git
+
+[submodule "9t14h0-extend-the-library-inventory-system-with-borrow-and-return-functionality"]
+	path = 9t14h0-extend-the-library-inventory-system-with-borrow-and-return-functionality
+	url = https://github.com/eaglepointAiLabs/9t14h0-extend-the-library-inventory-system-with-borrow-and-return-functionality.git
