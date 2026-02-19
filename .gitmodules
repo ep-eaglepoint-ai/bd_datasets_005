@@ -1589,3 +1589,7 @@
 [submodule "jewhi6-the-string-memory-thrash"]
 	path = jewhi6-the-string-memory-thrash
 	url = https://github.com/eaglepointAiLabs/jewhi6-the-string-memory-thrash.git
+
+[submodule "liixg5-immutable-environment-config"]
+	path = liixg5-immutable-environment-config
+	url = https://github.com/eaglepointAiLabs/liixg5-immutable-environment-config.git
