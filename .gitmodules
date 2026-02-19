@@ -1577,3 +1577,7 @@
 [submodule "2pqvnr-optimization-task-efficient-self-supervised-torque-clustering"]
 	path = 2pqvnr-optimization-task-efficient-self-supervised-torque-clustering
 	url = https://github.com/eaglepointAiLabs/2pqvnr-optimization-task-efficient-self-supervised-torque-clustering.git
+
+[submodule "9sj0tq-microgrid-30-day-hourly-dispatch-optimization-with-pyomo"]
+	path = 9sj0tq-microgrid-30-day-hourly-dispatch-optimization-with-pyomo
+	url = https://github.com/eaglepointAiLabs/9sj0tq-microgrid-30-day-hourly-dispatch-optimization-with-pyomo.git
