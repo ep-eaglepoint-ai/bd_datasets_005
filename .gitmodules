@@ -1537,3 +1537,7 @@
 [submodule "fewb2g-healthcare-patient-profile-immutable-deep-merge-utility"]
 	path = fewb2g-healthcare-patient-profile-immutable-deep-merge-utility
 	url = https://github.com/eaglepointAiLabs/fewb2g-healthcare-patient-profile-immutable-deep-merge-utility.git
+
+[submodule "lubhyk-local-persistence-reactive-state-integration-for-a-simple-todo-app"]
+	path = lubhyk-local-persistence-reactive-state-integration-for-a-simple-todo-app
+	url = https://github.com/eaglepointAiLabs/lubhyk-local-persistence-reactive-state-integration-for-a-simple-todo-app.git
