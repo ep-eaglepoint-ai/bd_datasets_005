@@ -1689,3 +1689,7 @@
 [submodule "m3dtw1-the-switch-map-search-coordinator"]
 	path = m3dtw1-the-switch-map-search-coordinator
 	url = https://github.com/eaglepointAiLabs/m3dtw1-the-switch-map-search-coordinator.git
+
+[submodule "9lfl7h-exhaustive-state-machine"]
+	path = 9lfl7h-exhaustive-state-machine
+	url = https://github.com/eaglepointAiLabs/9lfl7h-exhaustive-state-machine.git
