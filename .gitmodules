@@ -1501,3 +1501,7 @@
 [submodule "6zk4y8-bit-exact-n-dimensional-grid-optimization"]
 	path = 6zk4y8-bit-exact-n-dimensional-grid-optimization
 	url = https://github.com/eaglepointAiLabs/6zk4y8-bit-exact-n-dimensional-grid-optimization.git
+
+[submodule "nwuoh8-argon2-cryptographic-latency-validator"]
+	path = nwuoh8-argon2-cryptographic-latency-validator
+	url = https://github.com/eaglepointAiLabs/nwuoh8-argon2-cryptographic-latency-validator.git
