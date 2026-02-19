@@ -1493,3 +1493,7 @@
 [submodule "u1v50u-databroker-concurrency-test-suite"]
 	path = u1v50u-databroker-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/u1v50u-databroker-concurrency-test-suite.git
+
+[submodule "pm00ev-digital-wallet-ledger-with-immutable-transactions-and-reversal-support"]
+	path = pm00ev-digital-wallet-ledger-with-immutable-transactions-and-reversal-support
+	url = https://github.com/eaglepointAiLabs/pm00ev-digital-wallet-ledger-with-immutable-transactions-and-reversal-support.git
