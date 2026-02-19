@@ -1669,3 +1669,7 @@
 [submodule "5bv8z0-binary-protocol-parse"]
 	path = 5bv8z0-binary-protocol-parse
 	url = https://github.com/eaglepointAiLabs/5bv8z0-binary-protocol-parse.git
+
+[submodule "w15gst-improving-the-performance-of-a-wildlife-acoustic-monitoring-service"]
+	path = w15gst-improving-the-performance-of-a-wildlife-acoustic-monitoring-service
+	url = https://github.com/eaglepointAiLabs/w15gst-improving-the-performance-of-a-wildlife-acoustic-monitoring-service.git
