@@ -1813,3 +1813,7 @@
 [submodule "isnk3u-comprehensive-junit-5-test-suite-for-a-concurrent-ebook-library-system"]
 	path = isnk3u-comprehensive-junit-5-test-suite-for-a-concurrent-ebook-library-system
 	url = https://github.com/eaglepointAiLabs/isnk3u-comprehensive-junit-5-test-suite-for-a-concurrent-ebook-library-system.git
+
+[submodule "olg59n-ai-powered-summarization"]
+	path = olg59n-ai-powered-summarization
+	url = https://github.com/eaglepointAiLabs/olg59n-ai-powered-summarization.git
