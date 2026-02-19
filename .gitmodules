@@ -1793,3 +1793,7 @@
 [submodule "po4len-api-gateway"]
 	path = po4len-api-gateway
 	url = https://github.com/eaglepointAiLabs/po4len-api-gateway.git
+
+[submodule "63l38p-go-http-router-table-driven-tests"]
+	path = 63l38p-go-http-router-table-driven-tests
+	url = https://github.com/eaglepointAiLabs/63l38p-go-http-router-table-driven-tests.git
