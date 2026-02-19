@@ -1601,3 +1601,7 @@
 [submodule "4p3fme-ui-freeze-from-deserialization-of-json"]
 	path = 4p3fme-ui-freeze-from-deserialization-of-json
 	url = https://github.com/eaglepointAiLabs/4p3fme-ui-freeze-from-deserialization-of-json.git
+
+[submodule "1soeao-snapshot-isolation-compliance-test-suite-for-an-in-memory-mvcc-store"]
+	path = 1soeao-snapshot-isolation-compliance-test-suite-for-an-in-memory-mvcc-store
+	url = https://github.com/eaglepointAiLabs/1soeao-snapshot-isolation-compliance-test-suite-for-an-in-memory-mvcc-store.git
