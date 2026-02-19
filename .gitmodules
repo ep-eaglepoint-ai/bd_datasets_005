@@ -1541,3 +1541,7 @@
 [submodule "lubhyk-local-persistence-reactive-state-integration-for-a-simple-todo-app"]
 	path = lubhyk-local-persistence-reactive-state-integration-for-a-simple-todo-app
 	url = https://github.com/eaglepointAiLabs/lubhyk-local-persistence-reactive-state-integration-for-a-simple-todo-app.git
+
+[submodule "cbnew1-optimize-the-analytic-service-implementation-of-small-e-learning-platform"]
+	path = cbnew1-optimize-the-analytic-service-implementation-of-small-e-learning-platform
+	url = https://github.com/eaglepointAiLabs/cbnew1-optimize-the-analytic-service-implementation-of-small-e-learning-platform.git
