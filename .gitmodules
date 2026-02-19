@@ -1825,3 +1825,7 @@
 [submodule "ddd7jp-dynamic-energy-load-balancer-for-residential-smart-grid-integration"]
 	path = ddd7jp-dynamic-energy-load-balancer-for-residential-smart-grid-integration
 	url = https://github.com/eaglepointAiLabs/ddd7jp-dynamic-energy-load-balancer-for-residential-smart-grid-integration.git
+
+[submodule "ez9fi3-time-tracking-dashboard"]
+	path = ez9fi3-time-tracking-dashboard
+	url = https://github.com/eaglepointAiLabs/ez9fi3-time-tracking-dashboard.git
