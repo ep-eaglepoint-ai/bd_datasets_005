@@ -1685,3 +1685,7 @@
 [submodule "yawfps-coroutine-test"]
 	path = yawfps-coroutine-test
 	url = https://github.com/eaglepointAiLabs/yawfps-coroutine-test.git
+
+[submodule "m3dtw1-the-switch-map-search-coordinator"]
+	path = m3dtw1-the-switch-map-search-coordinator
+	url = https://github.com/eaglepointAiLabs/m3dtw1-the-switch-map-search-coordinator.git
