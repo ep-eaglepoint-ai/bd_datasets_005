@@ -1741,3 +1741,7 @@
 [submodule "zkwhuf-express-request-coalescing-middleware"]
 	path = zkwhuf-express-request-coalescing-middleware
 	url = https://github.com/eaglepointAiLabs/zkwhuf-express-request-coalescing-middleware.git
+
+[submodule "qh5jbg-simd-parallel-binary-sequence-search"]
+	path = qh5jbg-simd-parallel-binary-sequence-search
+	url = https://github.com/eaglepointAiLabs/qh5jbg-simd-parallel-binary-sequence-search.git
