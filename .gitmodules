@@ -1561,3 +1561,7 @@
 [submodule "v7g8c1-comprehensive-testing-suite-for-selfsupervisedtorqueclustering"]
 	path = v7g8c1-comprehensive-testing-suite-for-selfsupervisedtorqueclustering
 	url = https://github.com/eaglepointAiLabs/v7g8c1-comprehensive-testing-suite-for-selfsupervisedtorqueclustering.git
+
+[submodule "psv9nm-optimization-of-an-inefficient-p-adic-convolutional-neural-network-pcnn-implementation"]
+	path = psv9nm-optimization-of-an-inefficient-p-adic-convolutional-neural-network-pcnn-implementation
+	url = https://github.com/eaglepointAiLabs/psv9nm-optimization-of-an-inefficient-p-adic-convolutional-neural-network-pcnn-implementation.git
