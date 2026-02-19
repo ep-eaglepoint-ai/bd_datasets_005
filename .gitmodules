@@ -1773,3 +1773,7 @@
 [submodule "phjcw0-robust-anomaly-detection-via-modified-z-score"]
 	path = phjcw0-robust-anomaly-detection-via-modified-z-score
 	url = https://github.com/eaglepointAiLabs/phjcw0-robust-anomaly-detection-via-modified-z-score.git
+
+[submodule "bxhqza-data-retrieval-optimization"]
+	path = bxhqza-data-retrieval-optimization
+	url = https://github.com/eaglepointAiLabs/bxhqza-data-retrieval-optimization.git
