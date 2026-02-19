@@ -1725,3 +1725,7 @@
 [submodule "3eh362-deep-clone-utility-with-circular-and-shared-reference-support"]
 	path = 3eh362-deep-clone-utility-with-circular-and-shared-reference-support
 	url = https://github.com/eaglepointAiLabs/3eh362-deep-clone-utility-with-circular-and-shared-reference-support.git
+
+[submodule "q7s9ax-thread-safe-circuit-breaker-for-remote-api-client"]
+	path = q7s9ax-thread-safe-circuit-breaker-for-remote-api-client
+	url = https://github.com/eaglepointAiLabs/q7s9ax-thread-safe-circuit-breaker-for-remote-api-client.git
