@@ -1753,3 +1753,7 @@
 [submodule "x2ki75-matrix-multiplication-optim"]
 	path = x2ki75-matrix-multiplication-optim
 	url = https://github.com/eaglepointAiLabs/x2ki75-matrix-multiplication-optim.git
+
+[submodule "11uq0l-iot-shadow-reconciliation-with-recursive-delta-generation"]
+	path = 11uq0l-iot-shadow-reconciliation-with-recursive-delta-generation
+	url = https://github.com/eaglepointAiLabs/11uq0l-iot-shadow-reconciliation-with-recursive-delta-generation.git
