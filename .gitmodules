@@ -1765,3 +1765,7 @@
 [submodule "ed0wpi-middleware-chain-unit-test"]
 	path = ed0wpi-middleware-chain-unit-test
 	url = https://github.com/eaglepointAiLabs/ed0wpi-middleware-chain-unit-test.git
+
+[submodule "eod6ig-data-processing-optimization"]
+	path = eod6ig-data-processing-optimization
+	url = https://github.com/eaglepointAiLabs/eod6ig-data-processing-optimization.git
