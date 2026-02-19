@@ -1701,3 +1701,7 @@
 [submodule "c4pzv0-semantic-version-parsing-and-comparison-utility"]
 	path = c4pzv0-semantic-version-parsing-and-comparison-utility
 	url = https://github.com/eaglepointAiLabs/c4pzv0-semantic-version-parsing-and-comparison-utility.git
+
+[submodule "9w3e8x-deterministic-query-parameter-serialization-and-parsing-utility"]
+	path = 9w3e8x-deterministic-query-parameter-serialization-and-parsing-utility
+	url = https://github.com/eaglepointAiLabs/9w3e8x-deterministic-query-parameter-serialization-and-parsing-utility.git
