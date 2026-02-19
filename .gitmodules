@@ -1829,3 +1829,7 @@
 [submodule "ez9fi3-time-tracking-dashboard"]
 	path = ez9fi3-time-tracking-dashboard
 	url = https://github.com/eaglepointAiLabs/ez9fi3-time-tracking-dashboard.git
+
+[submodule "tqx8fr-typescript-pyodide-wasm-bridge-for-client-side-financial-simulations"]
+	path = tqx8fr-typescript-pyodide-wasm-bridge-for-client-side-financial-simulations
+	url = https://github.com/eaglepointAiLabs/tqx8fr-typescript-pyodide-wasm-bridge-for-client-side-financial-simulations.git
