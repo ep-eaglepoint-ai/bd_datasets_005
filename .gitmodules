@@ -1549,3 +1549,7 @@
 [submodule "94v00f-concurrency-safe-loyalty-points-refactoring-with-atomic-transfers"]
 	path = 94v00f-concurrency-safe-loyalty-points-refactoring-with-atomic-transfers
 	url = https://github.com/eaglepointAiLabs/94v00f-concurrency-safe-loyalty-points-refactoring-with-atomic-transfers.git
+
+[submodule "tqjtzn-comprehensive-unit-testing-for-padicnumber-ultrametrictree-and-pcnn"]
+	path = tqjtzn-comprehensive-unit-testing-for-padicnumber-ultrametrictree-and-pcnn
+	url = https://github.com/eaglepointAiLabs/tqjtzn-comprehensive-unit-testing-for-padicnumber-ultrametrictree-and-pcnn.git
