@@ -1477,3 +1477,7 @@
 [submodule "g2ki20-card-game-session-manager-concurrency-stress-test"]
 	path = g2ki20-card-game-session-manager-concurrency-stress-test
 	url = https://github.com/eaglepointAiLabs/g2ki20-card-game-session-manager-concurrency-stress-test.git
+
+[submodule "fff6q3-weather-data-publishing-platform-concurrency-test-suite"]
+	path = fff6q3-weather-data-publishing-platform-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/fff6q3-weather-data-publishing-platform-concurrency-test-suite.git
