@@ -1605,3 +1605,7 @@
 [submodule "1soeao-snapshot-isolation-compliance-test-suite-for-an-in-memory-mvcc-store"]
 	path = 1soeao-snapshot-isolation-compliance-test-suite-for-an-in-memory-mvcc-store
 	url = https://github.com/eaglepointAiLabs/1soeao-snapshot-isolation-compliance-test-suite-for-an-in-memory-mvcc-store.git
+
+[submodule "v71x33-dynamic-scheduling-with-heaps-and-lazy-deletion"]
+	path = v71x33-dynamic-scheduling-with-heaps-and-lazy-deletion
+	url = https://github.com/eaglepointAiLabs/v71x33-dynamic-scheduling-with-heaps-and-lazy-deletion.git
