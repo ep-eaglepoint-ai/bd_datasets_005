@@ -1833,3 +1833,7 @@
 [submodule "tqx8fr-typescript-pyodide-wasm-bridge-for-client-side-financial-simulations"]
 	path = tqx8fr-typescript-pyodide-wasm-bridge-for-client-side-financial-simulations
 	url = https://github.com/eaglepointAiLabs/tqx8fr-typescript-pyodide-wasm-bridge-for-client-side-financial-simulations.git
+
+[submodule "d633zi-wasm-drone-fleet-trajectory-optimizer"]
+	path = d633zi-wasm-drone-fleet-trajectory-optimizer
+	url = https://github.com/eaglepointAiLabs/d633zi-wasm-drone-fleet-trajectory-optimizer.git
