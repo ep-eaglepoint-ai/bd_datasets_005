@@ -1717,3 +1717,7 @@
 [submodule "3k2f7u-thread-safe-bounded-priority-event-buffer"]
 	path = 3k2f7u-thread-safe-bounded-priority-event-buffer
 	url = https://github.com/eaglepointAiLabs/3k2f7u-thread-safe-bounded-priority-event-buffer.git
+
+[submodule "v2bey6-iterative-workflow-engine-with-dag-validation"]
+	path = v2bey6-iterative-workflow-engine-with-dag-validation
+	url = https://github.com/eaglepointAiLabs/v2bey6-iterative-workflow-engine-with-dag-validation.git
