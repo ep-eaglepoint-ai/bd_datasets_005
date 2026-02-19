@@ -1817,3 +1817,7 @@
 [submodule "olg59n-ai-powered-summarization"]
 	path = olg59n-ai-powered-summarization
 	url = https://github.com/eaglepointAiLabs/olg59n-ai-powered-summarization.git
+
+[submodule "13xan1-python-validator-chain-refactoring"]
+	path = 13xan1-python-validator-chain-refactoring
+	url = https://github.com/eaglepointAiLabs/13xan1-python-validator-chain-refactoring.git
