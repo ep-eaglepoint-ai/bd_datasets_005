@@ -1657,3 +1657,7 @@
 [submodule "j0fb9i-refactore-readability-and-maintainability-of-an-internal-analytics-component"]
 	path = j0fb9i-refactore-readability-and-maintainability-of-an-internal-analytics-component
 	url = https://github.com/eaglepointAiLabs/j0fb9i-refactore-readability-and-maintainability-of-an-internal-analytics-component.git
+
+[submodule "r7448r-jit-protocol-message-header-verifier"]
+	path = r7448r-jit-protocol-message-header-verifier
+	url = https://github.com/eaglepointAiLabs/r7448r-jit-protocol-message-header-verifier.git
