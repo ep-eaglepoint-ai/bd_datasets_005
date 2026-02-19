@@ -1633,3 +1633,7 @@
 [submodule "u0ba2i-sharded-locking-atomic-pointer-swapping-for-high-concurrency-state"]
 	path = u0ba2i-sharded-locking-atomic-pointer-swapping-for-high-concurrency-state
 	url = https://github.com/eaglepointAiLabs/u0ba2i-sharded-locking-atomic-pointer-swapping-for-high-concurrency-state.git
+
+[submodule "96wdf0-self-purging-versioned-snapshotter"]
+	path = 96wdf0-self-purging-versioned-snapshotter
+	url = https://github.com/eaglepointAiLabs/96wdf0-self-purging-versioned-snapshotter.git
