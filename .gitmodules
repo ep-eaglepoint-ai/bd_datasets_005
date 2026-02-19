@@ -1593,3 +1593,7 @@
 [submodule "liixg5-immutable-environment-config"]
 	path = liixg5-immutable-environment-config
 	url = https://github.com/eaglepointAiLabs/liixg5-immutable-environment-config.git
+
+[submodule "57i67a-add-resource-allocation-and-overtime-calculation-service"]
+	path = 57i67a-add-resource-allocation-and-overtime-calculation-service
+	url = https://github.com/eaglepointAiLabs/57i67a-add-resource-allocation-and-overtime-calculation-service.git
