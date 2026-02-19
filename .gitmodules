@@ -1761,3 +1761,7 @@
 [submodule "1ot4s3-identity-locked-one-time-signature-proxy"]
 	path = 1ot4s3-identity-locked-one-time-signature-proxy
 	url = https://github.com/eaglepointAiLabs/1ot4s3-identity-locked-one-time-signature-proxy.git
+
+[submodule "ed0wpi-middleware-chain-unit-test"]
+	path = ed0wpi-middleware-chain-unit-test
+	url = https://github.com/eaglepointAiLabs/ed0wpi-middleware-chain-unit-test.git
