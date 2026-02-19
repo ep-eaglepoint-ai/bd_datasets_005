@@ -1749,3 +1749,7 @@
 [submodule "2os66u-query-result-cache-with-table-invalidation"]
 	path = 2os66u-query-result-cache-with-table-invalidation
 	url = https://github.com/eaglepointAiLabs/2os66u-query-result-cache-with-table-invalidation.git
+
+[submodule "x2ki75-matrix-multiplication-optim"]
+	path = x2ki75-matrix-multiplication-optim
+	url = https://github.com/eaglepointAiLabs/x2ki75-matrix-multiplication-optim.git
