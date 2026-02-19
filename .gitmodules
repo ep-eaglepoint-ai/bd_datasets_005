@@ -1517,3 +1517,7 @@
 [submodule "qrxofl-operation-zone-isolation"]
 	path = qrxofl-operation-zone-isolation
 	url = https://github.com/eaglepointAiLabs/qrxofl-operation-zone-isolation.git
+
+[submodule "oxejf9-deterministic-grid-vectorization-performance-benchmark"]
+	path = oxejf9-deterministic-grid-vectorization-performance-benchmark
+	url = https://github.com/eaglepointAiLabs/oxejf9-deterministic-grid-vectorization-performance-benchmark.git
