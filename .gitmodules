@@ -1677,3 +1677,7 @@
 [submodule "vu9jz8-configuration-hot-reload-service"]
 	path = vu9jz8-configuration-hot-reload-service
 	url = https://github.com/eaglepointAiLabs/vu9jz8-configuration-hot-reload-service.git
+
+[submodule "mx5vfd-atomic-multi-tier-sharded-memory-pool"]
+	path = mx5vfd-atomic-multi-tier-sharded-memory-pool
+	url = https://github.com/eaglepointAiLabs/mx5vfd-atomic-multi-tier-sharded-memory-pool.git
