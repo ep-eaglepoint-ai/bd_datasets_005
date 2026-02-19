@@ -1469,3 +1469,7 @@
 [submodule "p1u6fe-asyncjournal-concurrency-test-suite"]
 	path = p1u6fe-asyncjournal-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/p1u6fe-asyncjournal-concurrency-test-suite.git
+
+[submodule "bpmsl0-turn-based-card-game-server-concurrency-test-suite"]
+	path = bpmsl0-turn-based-card-game-server-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/bpmsl0-turn-based-card-game-server-concurrency-test-suite.git
