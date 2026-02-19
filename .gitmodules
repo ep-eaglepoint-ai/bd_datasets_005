@@ -1613,3 +1613,7 @@
 [submodule "ij3z79-streaming-aggregation-with-hash-based-rule-matching"]
 	path = ij3z79-streaming-aggregation-with-hash-based-rule-matching
 	url = https://github.com/eaglepointAiLabs/ij3z79-streaming-aggregation-with-hash-based-rule-matching.git
+
+[submodule "hyw119-zero-alloc-monte-carlo-simulation-with-worker-pools"]
+	path = hyw119-zero-alloc-monte-carlo-simulation-with-worker-pools
+	url = https://github.com/eaglepointAiLabs/hyw119-zero-alloc-monte-carlo-simulation-with-worker-pools.git
