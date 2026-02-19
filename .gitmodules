@@ -1597,3 +1597,7 @@
 [submodule "57i67a-add-resource-allocation-and-overtime-calculation-service"]
 	path = 57i67a-add-resource-allocation-and-overtime-calculation-service
 	url = https://github.com/eaglepointAiLabs/57i67a-add-resource-allocation-and-overtime-calculation-service.git
+
+[submodule "4p3fme-ui-freeze-from-deserialization-of-json"]
+	path = 4p3fme-ui-freeze-from-deserialization-of-json
+	url = https://github.com/eaglepointAiLabs/4p3fme-ui-freeze-from-deserialization-of-json.git
