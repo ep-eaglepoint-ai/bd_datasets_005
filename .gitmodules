@@ -1473,3 +1473,7 @@
 [submodule "bpmsl0-turn-based-card-game-server-concurrency-test-suite"]
 	path = bpmsl0-turn-based-card-game-server-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/bpmsl0-turn-based-card-game-server-concurrency-test-suite.git
+
+[submodule "g2ki20-card-game-session-manager-concurrency-stress-test"]
+	path = g2ki20-card-game-session-manager-concurrency-stress-test
+	url = https://github.com/eaglepointAiLabs/g2ki20-card-game-session-manager-concurrency-stress-test.git
