@@ -1573,3 +1573,7 @@
 [submodule "d01wm6-optimize-and-refactor-a-neural-sheaf-system-in-c"]
 	path = d01wm6-optimize-and-refactor-a-neural-sheaf-system-in-c
 	url = https://github.com/eaglepointAiLabs/d01wm6-optimize-and-refactor-a-neural-sheaf-system-in-c.git
+
+[submodule "2pqvnr-optimization-task-efficient-self-supervised-torque-clustering"]
+	path = 2pqvnr-optimization-task-efficient-self-supervised-torque-clustering
+	url = https://github.com/eaglepointAiLabs/2pqvnr-optimization-task-efficient-self-supervised-torque-clustering.git
