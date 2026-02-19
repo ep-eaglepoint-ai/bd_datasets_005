@@ -1521,3 +1521,7 @@
 [submodule "oxejf9-deterministic-grid-vectorization-performance-benchmark"]
 	path = oxejf9-deterministic-grid-vectorization-performance-benchmark
 	url = https://github.com/eaglepointAiLabs/oxejf9-deterministic-grid-vectorization-performance-benchmark.git
+
+[submodule "i2d9ib-title-asynchronous-stream-optimistic-state-validation"]
+	path = i2d9ib-title-asynchronous-stream-optimistic-state-validation
+	url = https://github.com/eaglepointAiLabs/i2d9ib-title-asynchronous-stream-optimistic-state-validation.git
