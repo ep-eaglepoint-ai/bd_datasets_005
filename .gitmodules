@@ -1645,3 +1645,7 @@
 [submodule "1328dv-fixed-page-random-access-journal"]
 	path = 1328dv-fixed-page-random-access-journal
 	url = https://github.com/eaglepointAiLabs/1328dv-fixed-page-random-access-journal.git
+
+[submodule "pemhbn-implement-a-new-feature-that-allows-partial-order-cancellation"]
+	path = pemhbn-implement-a-new-feature-that-allows-partial-order-cancellation
+	url = https://github.com/eaglepointAiLabs/pemhbn-implement-a-new-feature-that-allows-partial-order-cancellation.git
