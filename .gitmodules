@@ -1697,3 +1697,7 @@
 [submodule "t396un-the-boundary-condition-flaw"]
 	path = t396un-the-boundary-condition-flaw
 	url = https://github.com/eaglepointAiLabs/t396un-the-boundary-condition-flaw.git
+
+[submodule "c4pzv0-semantic-version-parsing-and-comparison-utility"]
+	path = c4pzv0-semantic-version-parsing-and-comparison-utility
+	url = https://github.com/eaglepointAiLabs/c4pzv0-semantic-version-parsing-and-comparison-utility.git
