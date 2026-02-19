@@ -1729,3 +1729,7 @@
 [submodule "q7s9ax-thread-safe-circuit-breaker-for-remote-api-client"]
 	path = q7s9ax-thread-safe-circuit-breaker-for-remote-api-client
 	url = https://github.com/eaglepointAiLabs/q7s9ax-thread-safe-circuit-breaker-for-remote-api-client.git
+
+[submodule "2awzyj-high-performance-stream-log-processor"]
+	path = 2awzyj-high-performance-stream-log-processor
+	url = https://github.com/eaglepointAiLabs/2awzyj-high-performance-stream-log-processor.git
