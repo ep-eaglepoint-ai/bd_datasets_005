@@ -1621,3 +1621,7 @@
 [submodule "u6vfo3-order-preserving-customer-deduplication-code-refactoring"]
 	path = u6vfo3-order-preserving-customer-deduplication-code-refactoring
 	url = https://github.com/eaglepointAiLabs/u6vfo3-order-preserving-customer-deduplication-code-refactoring.git
+
+[submodule "825t0y-fatigue-state-machine-with-risk-thresholds"]
+	path = 825t0y-fatigue-state-machine-with-risk-thresholds
+	url = https://github.com/eaglepointAiLabs/825t0y-fatigue-state-machine-with-risk-thresholds.git
