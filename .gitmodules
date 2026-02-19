@@ -1821,3 +1821,7 @@
 [submodule "13xan1-python-validator-chain-refactoring"]
 	path = 13xan1-python-validator-chain-refactoring
 	url = https://github.com/eaglepointAiLabs/13xan1-python-validator-chain-refactoring.git
+
+[submodule "ddd7jp-dynamic-energy-load-balancer-for-residential-smart-grid-integration"]
+	path = ddd7jp-dynamic-energy-load-balancer-for-residential-smart-grid-integration
+	url = https://github.com/eaglepointAiLabs/ddd7jp-dynamic-energy-load-balancer-for-residential-smart-grid-integration.git
