@@ -1837,3 +1837,7 @@
 [submodule "d633zi-wasm-drone-fleet-trajectory-optimizer"]
 	path = d633zi-wasm-drone-fleet-trajectory-optimizer
 	url = https://github.com/eaglepointAiLabs/d633zi-wasm-drone-fleet-trajectory-optimizer.git
+
+[submodule "2z1jo7-deterministic-crop-allocation-engine"]
+	path = 2z1jo7-deterministic-crop-allocation-engine
+	url = https://github.com/eaglepointAiLabs/2z1jo7-deterministic-crop-allocation-engine.git
