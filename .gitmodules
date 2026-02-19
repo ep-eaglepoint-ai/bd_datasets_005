@@ -1805,3 +1805,7 @@
 [submodule "mldy5s-numeric-string-validator"]
 	path = mldy5s-numeric-string-validator
 	url = https://github.com/eaglepointAiLabs/mldy5s-numeric-string-validator.git
+
+[submodule "xqcnpg-cyclic-sequence-partitioning"]
+	path = xqcnpg-cyclic-sequence-partitioning
+	url = https://github.com/eaglepointAiLabs/xqcnpg-cyclic-sequence-partitioning.git
