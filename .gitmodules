@@ -1809,3 +1809,7 @@
 [submodule "xqcnpg-cyclic-sequence-partitioning"]
 	path = xqcnpg-cyclic-sequence-partitioning
 	url = https://github.com/eaglepointAiLabs/xqcnpg-cyclic-sequence-partitioning.git
+
+[submodule "isnk3u-comprehensive-junit-5-test-suite-for-a-concurrent-ebook-library-system"]
+	path = isnk3u-comprehensive-junit-5-test-suite-for-a-concurrent-ebook-library-system
+	url = https://github.com/eaglepointAiLabs/isnk3u-comprehensive-junit-5-test-suite-for-a-concurrent-ebook-library-system.git
