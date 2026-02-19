@@ -1617,3 +1617,7 @@
 [submodule "hyw119-zero-alloc-monte-carlo-simulation-with-worker-pools"]
 	path = hyw119-zero-alloc-monte-carlo-simulation-with-worker-pools
 	url = https://github.com/eaglepointAiLabs/hyw119-zero-alloc-monte-carlo-simulation-with-worker-pools.git
+
+[submodule "u6vfo3-order-preserving-customer-deduplication-code-refactoring"]
+	path = u6vfo3-order-preserving-customer-deduplication-code-refactoring
+	url = https://github.com/eaglepointAiLabs/u6vfo3-order-preserving-customer-deduplication-code-refactoring.git
