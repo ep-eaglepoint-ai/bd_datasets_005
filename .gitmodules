@@ -1757,3 +1757,7 @@
 [submodule "11uq0l-iot-shadow-reconciliation-with-recursive-delta-generation"]
 	path = 11uq0l-iot-shadow-reconciliation-with-recursive-delta-generation
 	url = https://github.com/eaglepointAiLabs/11uq0l-iot-shadow-reconciliation-with-recursive-delta-generation.git
+
+[submodule "1ot4s3-identity-locked-one-time-signature-proxy"]
+	path = 1ot4s3-identity-locked-one-time-signature-proxy
+	url = https://github.com/eaglepointAiLabs/1ot4s3-identity-locked-one-time-signature-proxy.git
