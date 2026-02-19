@@ -1649,3 +1649,7 @@
 [submodule "pemhbn-implement-a-new-feature-that-allows-partial-order-cancellation"]
 	path = pemhbn-implement-a-new-feature-that-allows-partial-order-cancellation
 	url = https://github.com/eaglepointAiLabs/pemhbn-implement-a-new-feature-that-allows-partial-order-cancellation.git
+
+[submodule "sa0l65-causal-link-dependency-graph-pruner"]
+	path = sa0l65-causal-link-dependency-graph-pruner
+	url = https://github.com/eaglepointAiLabs/sa0l65-causal-link-dependency-graph-pruner.git
