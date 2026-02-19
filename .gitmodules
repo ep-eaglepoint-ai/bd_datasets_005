@@ -1673,3 +1673,7 @@
 [submodule "w15gst-improving-the-performance-of-a-wildlife-acoustic-monitoring-service"]
 	path = w15gst-improving-the-performance-of-a-wildlife-acoustic-monitoring-service
 	url = https://github.com/eaglepointAiLabs/w15gst-improving-the-performance-of-a-wildlife-acoustic-monitoring-service.git
+
+[submodule "vu9jz8-configuration-hot-reload-service"]
+	path = vu9jz8-configuration-hot-reload-service
+	url = https://github.com/eaglepointAiLabs/vu9jz8-configuration-hot-reload-service.git
