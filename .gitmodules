@@ -1661,3 +1661,7 @@
 [submodule "r7448r-jit-protocol-message-header-verifier"]
 	path = r7448r-jit-protocol-message-header-verifier
 	url = https://github.com/eaglepointAiLabs/r7448r-jit-protocol-message-header-verifier.git
+
+[submodule "762z1a-predictive-path-pre-loader"]
+	path = 762z1a-predictive-path-pre-loader
+	url = https://github.com/eaglepointAiLabs/762z1a-predictive-path-pre-loader.git
