@@ -1745,3 +1745,7 @@
 [submodule "qh5jbg-simd-parallel-binary-sequence-search"]
 	path = qh5jbg-simd-parallel-binary-sequence-search
 	url = https://github.com/eaglepointAiLabs/qh5jbg-simd-parallel-binary-sequence-search.git
+
+[submodule "2os66u-query-result-cache-with-table-invalidation"]
+	path = 2os66u-query-result-cache-with-table-invalidation
+	url = https://github.com/eaglepointAiLabs/2os66u-query-result-cache-with-table-invalidation.git
