@@ -1529,3 +1529,7 @@
 [submodule "43y88d-add-a-test-suite-that-validates-all-observable-behaviors-of-a-pricing-engine"]
 	path = 43y88d-add-a-test-suite-that-validates-all-observable-behaviors-of-a-pricing-engine
 	url = https://github.com/eaglepointAiLabs/43y88d-add-a-test-suite-that-validates-all-observable-behaviors-of-a-pricing-engine.git
+
+[submodule "322jap-temporal-spatial-stream-batching-engine"]
+	path = 322jap-temporal-spatial-stream-batching-engine
+	url = https://github.com/eaglepointAiLabs/322jap-temporal-spatial-stream-batching-engine.git
