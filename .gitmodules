@@ -1801,3 +1801,7 @@
 [submodule "xhdv48-cli-productivity-tools"]
 	path = xhdv48-cli-productivity-tools
 	url = https://github.com/eaglepointAiLabs/xhdv48-cli-productivity-tools.git
+
+[submodule "mldy5s-numeric-string-validator"]
+	path = mldy5s-numeric-string-validator
+	url = https://github.com/eaglepointAiLabs/mldy5s-numeric-string-validator.git
