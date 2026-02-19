@@ -1569,3 +1569,7 @@
 [submodule "usai5u-memory-bound-buffer-optimization"]
 	path = usai5u-memory-bound-buffer-optimization
 	url = https://github.com/eaglepointAiLabs/usai5u-memory-bound-buffer-optimization.git
+
+[submodule "d01wm6-optimize-and-refactor-a-neural-sheaf-system-in-c"]
+	path = d01wm6-optimize-and-refactor-a-neural-sheaf-system-in-c
+	url = https://github.com/eaglepointAiLabs/d01wm6-optimize-and-refactor-a-neural-sheaf-system-in-c.git
