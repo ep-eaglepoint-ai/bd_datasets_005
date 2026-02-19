@@ -1557,3 +1557,7 @@
 [submodule "0cs70a-neural-sheaf-system-foundational-testing-and-validation-suite"]
 	path = 0cs70a-neural-sheaf-system-foundational-testing-and-validation-suite
 	url = https://github.com/eaglepointAiLabs/0cs70a-neural-sheaf-system-foundational-testing-and-validation-suite.git
+
+[submodule "v7g8c1-comprehensive-testing-suite-for-selfsupervisedtorqueclustering"]
+	path = v7g8c1-comprehensive-testing-suite-for-selfsupervisedtorqueclustering
+	url = https://github.com/eaglepointAiLabs/v7g8c1-comprehensive-testing-suite-for-selfsupervisedtorqueclustering.git
