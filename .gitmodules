@@ -1513,3 +1513,7 @@
 [submodule "9t14h0-extend-the-library-inventory-system-with-borrow-and-return-functionality"]
 	path = 9t14h0-extend-the-library-inventory-system-with-borrow-and-return-functionality
 	url = https://github.com/eaglepointAiLabs/9t14h0-extend-the-library-inventory-system-with-borrow-and-return-functionality.git
+
+[submodule "qrxofl-operation-zone-isolation"]
+	path = qrxofl-operation-zone-isolation
+	url = https://github.com/eaglepointAiLabs/qrxofl-operation-zone-isolation.git
