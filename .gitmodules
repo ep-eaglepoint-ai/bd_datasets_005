@@ -1665,3 +1665,7 @@
 [submodule "762z1a-predictive-path-pre-loader"]
 	path = 762z1a-predictive-path-pre-loader
 	url = https://github.com/eaglepointAiLabs/762z1a-predictive-path-pre-loader.git
+
+[submodule "5bv8z0-binary-protocol-parse"]
+	path = 5bv8z0-binary-protocol-parse
+	url = https://github.com/eaglepointAiLabs/5bv8z0-binary-protocol-parse.git
