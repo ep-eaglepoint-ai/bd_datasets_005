@@ -1721,3 +1721,7 @@
 [submodule "v2bey6-iterative-workflow-engine-with-dag-validation"]
 	path = v2bey6-iterative-workflow-engine-with-dag-validation
 	url = https://github.com/eaglepointAiLabs/v2bey6-iterative-workflow-engine-with-dag-validation.git
+
+[submodule "3eh362-deep-clone-utility-with-circular-and-shared-reference-support"]
+	path = 3eh362-deep-clone-utility-with-circular-and-shared-reference-support
+	url = https://github.com/eaglepointAiLabs/3eh362-deep-clone-utility-with-circular-and-shared-reference-support.git
