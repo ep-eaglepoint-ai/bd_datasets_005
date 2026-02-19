@@ -1797,3 +1797,7 @@
 [submodule "63l38p-go-http-router-table-driven-tests"]
 	path = 63l38p-go-http-router-table-driven-tests
 	url = https://github.com/eaglepointAiLabs/63l38p-go-http-router-table-driven-tests.git
+
+[submodule "xhdv48-cli-productivity-tools"]
+	path = xhdv48-cli-productivity-tools
+	url = https://github.com/eaglepointAiLabs/xhdv48-cli-productivity-tools.git
