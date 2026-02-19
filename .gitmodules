@@ -1781,3 +1781,7 @@
 [submodule "y9lyej-fibonacci-optimization"]
 	path = y9lyej-fibonacci-optimization
 	url = https://github.com/eaglepointAiLabs/y9lyej-fibonacci-optimization.git
+
+[submodule "gt4iei-task-scheduler"]
+	path = gt4iei-task-scheduler
+	url = https://github.com/eaglepointAiLabs/gt4iei-task-scheduler.git
