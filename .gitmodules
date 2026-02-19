@@ -1525,3 +1525,7 @@
 [submodule "i2d9ib-title-asynchronous-stream-optimistic-state-validation"]
 	path = i2d9ib-title-asynchronous-stream-optimistic-state-validation
 	url = https://github.com/eaglepointAiLabs/i2d9ib-title-asynchronous-stream-optimistic-state-validation.git
+
+[submodule "43y88d-add-a-test-suite-that-validates-all-observable-behaviors-of-a-pricing-engine"]
+	path = 43y88d-add-a-test-suite-that-validates-all-observable-behaviors-of-a-pricing-engine
+	url = https://github.com/eaglepointAiLabs/43y88d-add-a-test-suite-that-validates-all-observable-behaviors-of-a-pricing-engine.git
