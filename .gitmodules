@@ -1481,3 +1481,7 @@
 [submodule "fff6q3-weather-data-publishing-platform-concurrency-test-suite"]
 	path = fff6q3-weather-data-publishing-platform-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/fff6q3-weather-data-publishing-platform-concurrency-test-suite.git
+
+[submodule "xaapnh-weather-alert-distribution-system-concurrency-test-suite"]
+	path = xaapnh-weather-alert-distribution-system-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/xaapnh-weather-alert-distribution-system-concurrency-test-suite.git
