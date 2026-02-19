@@ -1581,3 +1581,7 @@
 [submodule "9sj0tq-microgrid-30-day-hourly-dispatch-optimization-with-pyomo"]
 	path = 9sj0tq-microgrid-30-day-hourly-dispatch-optimization-with-pyomo
 	url = https://github.com/eaglepointAiLabs/9sj0tq-microgrid-30-day-hourly-dispatch-optimization-with-pyomo.git
+
+[submodule "3gzgif-cold-storage-energy-arbitrage-optimization-python-implementation"]
+	path = 3gzgif-cold-storage-energy-arbitrage-optimization-python-implementation
+	url = https://github.com/eaglepointAiLabs/3gzgif-cold-storage-energy-arbitrage-optimization-python-implementation.git
