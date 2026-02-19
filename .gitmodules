@@ -1681,3 +1681,7 @@
 [submodule "mx5vfd-atomic-multi-tier-sharded-memory-pool"]
 	path = mx5vfd-atomic-multi-tier-sharded-memory-pool
 	url = https://github.com/eaglepointAiLabs/mx5vfd-atomic-multi-tier-sharded-memory-pool.git
+
+[submodule "yawfps-coroutine-test"]
+	path = yawfps-coroutine-test
+	url = https://github.com/eaglepointAiLabs/yawfps-coroutine-test.git
