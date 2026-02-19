@@ -1733,3 +1733,7 @@
 [submodule "2awzyj-high-performance-stream-log-processor"]
 	path = 2awzyj-high-performance-stream-log-processor
 	url = https://github.com/eaglepointAiLabs/2awzyj-high-performance-stream-log-processor.git
+
+[submodule "utrvat-employee-shift-scheduling-conflict-validator"]
+	path = utrvat-employee-shift-scheduling-conflict-validator
+	url = https://github.com/eaglepointAiLabs/utrvat-employee-shift-scheduling-conflict-validator.git
