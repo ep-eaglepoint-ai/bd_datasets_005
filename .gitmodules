@@ -1629,3 +1629,7 @@
 [submodule "1tigsk-streaming-sentiment-aggregation-with-alias-normalization"]
 	path = 1tigsk-streaming-sentiment-aggregation-with-alias-normalization
 	url = https://github.com/eaglepointAiLabs/1tigsk-streaming-sentiment-aggregation-with-alias-normalization.git
+
+[submodule "u0ba2i-sharded-locking-atomic-pointer-swapping-for-high-concurrency-state"]
+	path = u0ba2i-sharded-locking-atomic-pointer-swapping-for-high-concurrency-state
+	url = https://github.com/eaglepointAiLabs/u0ba2i-sharded-locking-atomic-pointer-swapping-for-high-concurrency-state.git
