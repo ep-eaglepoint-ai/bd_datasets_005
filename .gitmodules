@@ -1489,3 +1489,7 @@
 [submodule "23weuk-c-transform-payload-test-suite"]
 	path = 23weuk-c-transform-payload-test-suite
 	url = https://github.com/eaglepointAiLabs/23weuk-c-transform-payload-test-suite.git
+
+[submodule "u1v50u-databroker-concurrency-test-suite"]
+	path = u1v50u-databroker-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/u1v50u-databroker-concurrency-test-suite.git
