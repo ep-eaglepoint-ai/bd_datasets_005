@@ -1713,3 +1713,7 @@
 [submodule "0wxpgv-modular-reporting-pipeline-refactor-for-fintrack"]
 	path = 0wxpgv-modular-reporting-pipeline-refactor-for-fintrack
 	url = https://github.com/eaglepointAiLabs/0wxpgv-modular-reporting-pipeline-refactor-for-fintrack.git
+
+[submodule "3k2f7u-thread-safe-bounded-priority-event-buffer"]
+	path = 3k2f7u-thread-safe-bounded-priority-event-buffer
+	url = https://github.com/eaglepointAiLabs/3k2f7u-thread-safe-bounded-priority-event-buffer.git
