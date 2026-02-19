@@ -1769,3 +1769,7 @@
 [submodule "eod6ig-data-processing-optimization"]
 	path = eod6ig-data-processing-optimization
 	url = https://github.com/eaglepointAiLabs/eod6ig-data-processing-optimization.git
+
+[submodule "phjcw0-robust-anomaly-detection-via-modified-z-score"]
+	path = phjcw0-robust-anomaly-detection-via-modified-z-score
+	url = https://github.com/eaglepointAiLabs/phjcw0-robust-anomaly-detection-via-modified-z-score.git
