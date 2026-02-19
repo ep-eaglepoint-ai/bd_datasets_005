@@ -1789,3 +1789,7 @@
 [submodule "obws6u-lightweight-real-time-markdown"]
 	path = obws6u-lightweight-real-time-markdown
 	url = https://github.com/eaglepointAiLabs/obws6u-lightweight-real-time-markdown.git
+
+[submodule "po4len-api-gateway"]
+	path = po4len-api-gateway
+	url = https://github.com/eaglepointAiLabs/po4len-api-gateway.git
