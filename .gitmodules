@@ -1737,3 +1737,7 @@
 [submodule "utrvat-employee-shift-scheduling-conflict-validator"]
 	path = utrvat-employee-shift-scheduling-conflict-validator
 	url = https://github.com/eaglepointAiLabs/utrvat-employee-shift-scheduling-conflict-validator.git
+
+[submodule "zkwhuf-express-request-coalescing-middleware"]
+	path = zkwhuf-express-request-coalescing-middleware
+	url = https://github.com/eaglepointAiLabs/zkwhuf-express-request-coalescing-middleware.git
