@@ -1485,3 +1485,7 @@
 [submodule "xaapnh-weather-alert-distribution-system-concurrency-test-suite"]
 	path = xaapnh-weather-alert-distribution-system-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/xaapnh-weather-alert-distribution-system-concurrency-test-suite.git
+
+[submodule "23weuk-c-transform-payload-test-suite"]
+	path = 23weuk-c-transform-payload-test-suite
+	url = https://github.com/eaglepointAiLabs/23weuk-c-transform-payload-test-suite.git
