@@ -1705,3 +1705,7 @@
 [submodule "9w3e8x-deterministic-query-parameter-serialization-and-parsing-utility"]
 	path = 9w3e8x-deterministic-query-parameter-serialization-and-parsing-utility
 	url = https://github.com/eaglepointAiLabs/9w3e8x-deterministic-query-parameter-serialization-and-parsing-utility.git
+
+[submodule "ayrb5p-asynchronous-task-orchestration"]
+	path = ayrb5p-asynchronous-task-orchestration
+	url = https://github.com/eaglepointAiLabs/ayrb5p-asynchronous-task-orchestration.git
