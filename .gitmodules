@@ -1637,3 +1637,7 @@
 [submodule "96wdf0-self-purging-versioned-snapshotter"]
 	path = 96wdf0-self-purging-versioned-snapshotter
 	url = https://github.com/eaglepointAiLabs/96wdf0-self-purging-versioned-snapshotter.git
+
+[submodule "n0gog2-add-automated-test-suite-for-the-calculation-module"]
+	path = n0gog2-add-automated-test-suite-for-the-calculation-module
+	url = https://github.com/eaglepointAiLabs/n0gog2-add-automated-test-suite-for-the-calculation-module.git
