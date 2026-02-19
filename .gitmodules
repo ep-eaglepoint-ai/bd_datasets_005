@@ -1625,3 +1625,7 @@
 [submodule "825t0y-fatigue-state-machine-with-risk-thresholds"]
 	path = 825t0y-fatigue-state-machine-with-risk-thresholds
 	url = https://github.com/eaglepointAiLabs/825t0y-fatigue-state-machine-with-risk-thresholds.git
+
+[submodule "1tigsk-streaming-sentiment-aggregation-with-alias-normalization"]
+	path = 1tigsk-streaming-sentiment-aggregation-with-alias-normalization
+	url = https://github.com/eaglepointAiLabs/1tigsk-streaming-sentiment-aggregation-with-alias-normalization.git
