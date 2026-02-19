@@ -1785,3 +1785,7 @@
 [submodule "gt4iei-task-scheduler"]
 	path = gt4iei-task-scheduler
 	url = https://github.com/eaglepointAiLabs/gt4iei-task-scheduler.git
+
+[submodule "obws6u-lightweight-real-time-markdown"]
+	path = obws6u-lightweight-real-time-markdown
+	url = https://github.com/eaglepointAiLabs/obws6u-lightweight-real-time-markdown.git
