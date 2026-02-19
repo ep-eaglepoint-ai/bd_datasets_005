@@ -1585,3 +1585,7 @@
 [submodule "3gzgif-cold-storage-energy-arbitrage-optimization-python-implementation"]
 	path = 3gzgif-cold-storage-energy-arbitrage-optimization-python-implementation
 	url = https://github.com/eaglepointAiLabs/3gzgif-cold-storage-energy-arbitrage-optimization-python-implementation.git
+
+[submodule "jewhi6-the-string-memory-thrash"]
+	path = jewhi6-the-string-memory-thrash
+	url = https://github.com/eaglepointAiLabs/jewhi6-the-string-memory-thrash.git
