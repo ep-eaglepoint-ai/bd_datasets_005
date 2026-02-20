@@ -1941,3 +1941,7 @@
 [submodule "rk3ftv-pipeline-registry-validation-suite"]
 	path = rk3ftv-pipeline-registry-validation-suite
 	url = https://github.com/eaglepointAiLabs/rk3ftv-pipeline-registry-validation-suite.git
+
+[submodule "hisd84-typed-data-ingestion-migration"]
+	path = hisd84-typed-data-ingestion-migration
+	url = https://github.com/eaglepointAiLabs/hisd84-typed-data-ingestion-migration.git
