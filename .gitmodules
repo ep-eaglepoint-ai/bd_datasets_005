@@ -2041,3 +2041,7 @@
 [submodule "yjcdnt-markdown-note-editor"]
 	path = yjcdnt-markdown-note-editor
 	url = https://github.com/eaglepointAiLabs/yjcdnt-markdown-note-editor.git
+
+[submodule "ky5qer-stack-based-transactional-key-value-engine"]
+	path = ky5qer-stack-based-transactional-key-value-engine
+	url = https://github.com/eaglepointAiLabs/ky5qer-stack-based-transactional-key-value-engine.git
