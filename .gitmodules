@@ -1853,3 +1853,7 @@
 [submodule "y1iilv-commit-streak-tracker"]
 	path = y1iilv-commit-streak-tracker
 	url = https://github.com/eaglepointAiLabs/y1iilv-commit-streak-tracker.git
+
+[submodule "ohiejp-multi-channel-template-rendering-engine"]
+	path = ohiejp-multi-channel-template-rendering-engine
+	url = https://github.com/eaglepointAiLabs/ohiejp-multi-channel-template-rendering-engine.git
