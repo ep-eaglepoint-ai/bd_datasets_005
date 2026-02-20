@@ -2077,3 +2077,7 @@
 [submodule "nyhho5-refactoring-a-wildlife-reserve-tracking-service"]
 	path = nyhho5-refactoring-a-wildlife-reserve-tracking-service
 	url = https://github.com/eaglepointAiLabs/nyhho5-refactoring-a-wildlife-reserve-tracking-service.git
+
+[submodule "p60nlw-lazy-ttl-memory-cache"]
+	path = p60nlw-lazy-ttl-memory-cache
+	url = https://github.com/eaglepointAiLabs/p60nlw-lazy-ttl-memory-cache.git
