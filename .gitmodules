@@ -2073,3 +2073,7 @@
 [submodule "ztr6ey-array-processing-utility"]
 	path = ztr6ey-array-processing-utility
 	url = https://github.com/eaglepointAiLabs/ztr6ey-array-processing-utility.git
+
+[submodule "nyhho5-refactoring-a-wildlife-reserve-tracking-service"]
+	path = nyhho5-refactoring-a-wildlife-reserve-tracking-service
+	url = https://github.com/eaglepointAiLabs/nyhho5-refactoring-a-wildlife-reserve-tracking-service.git
