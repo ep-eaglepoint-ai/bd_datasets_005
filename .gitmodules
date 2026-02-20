@@ -2033,3 +2033,7 @@
 [submodule "g6qcz0-atomic-and-invariant-safe-in-memory-ledger-refactoring"]
 	path = g6qcz0-atomic-and-invariant-safe-in-memory-ledger-refactoring
 	url = https://github.com/eaglepointAiLabs/g6qcz0-atomic-and-invariant-safe-in-memory-ledger-refactoring.git
+
+[submodule "bgnv3v-express-checkout-refactoring"]
+	path = bgnv3v-express-checkout-refactoring
+	url = https://github.com/eaglepointAiLabs/bgnv3v-express-checkout-refactoring.git
