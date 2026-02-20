@@ -1897,3 +1897,7 @@
 [submodule "sxpd1g-optimize-multi-day-pumping-simulation-code"]
 	path = sxpd1g-optimize-multi-day-pumping-simulation-code
 	url = https://github.com/eaglepointAiLabs/sxpd1g-optimize-multi-day-pumping-simulation-code.git
+
+[submodule "id44jt-optimized-crane-scheduling-simulation-for-shipping-port"]
+	path = id44jt-optimized-crane-scheduling-simulation-for-shipping-port
+	url = https://github.com/eaglepointAiLabs/id44jt-optimized-crane-scheduling-simulation-for-shipping-port.git
