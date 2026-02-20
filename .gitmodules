@@ -2105,3 +2105,7 @@
 [submodule "oje5tg-deterministic-task-distribution-jump-hash"]
 	path = oje5tg-deterministic-task-distribution-jump-hash
 	url = https://github.com/eaglepointAiLabs/oje5tg-deterministic-task-distribution-jump-hash.git
+
+[submodule "4ppamz-bit-sliced-multi-keyword-trie"]
+	path = 4ppamz-bit-sliced-multi-keyword-trie
+	url = https://github.com/eaglepointAiLabs/4ppamz-bit-sliced-multi-keyword-trie.git
