@@ -2133,3 +2133,7 @@
 [submodule "mnb6ct-fixed-precision-division-carry-reconciliation"]
 	path = mnb6ct-fixed-precision-division-carry-reconciliation
 	url = https://github.com/eaglepointAiLabs/mnb6ct-fixed-precision-division-carry-reconciliation.git
+
+[submodule "6lmboa-refactore-a-python-based-configuration-management-library"]
+	path = 6lmboa-refactore-a-python-based-configuration-management-library
+	url = https://github.com/eaglepointAiLabs/6lmboa-refactore-a-python-based-configuration-management-library.git
