@@ -2049,3 +2049,7 @@
 [submodule "oxzvaw-extend-a-document-versioning-service-for-a-digital-policy-management"]
 	path = oxzvaw-extend-a-document-versioning-service-for-a-digital-policy-management
 	url = https://github.com/eaglepointAiLabs/oxzvaw-extend-a-document-versioning-service-for-a-digital-policy-management.git
+
+[submodule "e7iznu-deterministic-mini-regex-engine-with-nfa-to-dfa-compilation"]
+	path = e7iznu-deterministic-mini-regex-engine-with-nfa-to-dfa-compilation
+	url = https://github.com/eaglepointAiLabs/e7iznu-deterministic-mini-regex-engine-with-nfa-to-dfa-compilation.git
