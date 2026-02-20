@@ -1889,3 +1889,7 @@
 [submodule "9pecpe-decentralized-udp-lock-manager"]
 	path = 9pecpe-decentralized-udp-lock-manager
 	url = https://github.com/eaglepointAiLabs/9pecpe-decentralized-udp-lock-manager.git
+
+[submodule "id39uj-multi-day-water-pumping-optimization-with-tank-management"]
+	path = id39uj-multi-day-water-pumping-optimization-with-tank-management
+	url = https://github.com/eaglepointAiLabs/id39uj-multi-day-water-pumping-optimization-with-tank-management.git
