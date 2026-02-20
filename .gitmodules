@@ -1985,3 +1985,7 @@
 [submodule "4yffji-prometheus-metrics-collector"]
 	path = 4yffji-prometheus-metrics-collector
 	url = https://github.com/eaglepointAiLabs/4yffji-prometheus-metrics-collector.git
+
+[submodule "og1ihp-optimized-top-k-frequency-extraction"]
+	path = og1ihp-optimized-top-k-frequency-extraction
+	url = https://github.com/eaglepointAiLabs/og1ihp-optimized-top-k-frequency-extraction.git
