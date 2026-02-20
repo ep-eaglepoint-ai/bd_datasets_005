@@ -1953,3 +1953,7 @@
 [submodule "vcw7n2-comprehensive-pytest-suite-for-email-validator"]
 	path = vcw7n2-comprehensive-pytest-suite-for-email-validator
 	url = https://github.com/eaglepointAiLabs/vcw7n2-comprehensive-pytest-suite-for-email-validator.git
+
+[submodule "ia5mmn-durablekvstore-verification-test-suite-implementation"]
+	path = ia5mmn-durablekvstore-verification-test-suite-implementation
+	url = https://github.com/eaglepointAiLabs/ia5mmn-durablekvstore-verification-test-suite-implementation.git
