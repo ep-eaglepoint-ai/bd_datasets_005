@@ -1957,3 +1957,7 @@
 [submodule "ia5mmn-durablekvstore-verification-test-suite-implementation"]
 	path = ia5mmn-durablekvstore-verification-test-suite-implementation
 	url = https://github.com/eaglepointAiLabs/ia5mmn-durablekvstore-verification-test-suite-implementation.git
+
+[submodule "cxux7n-refactor-sentimentprocessor-into-modular-configurable-pipeline"]
+	path = cxux7n-refactor-sentimentprocessor-into-modular-configurable-pipeline
+	url = https://github.com/eaglepointAiLabs/cxux7n-refactor-sentimentprocessor-into-modular-configurable-pipeline.git
