@@ -1989,3 +1989,7 @@
 [submodule "og1ihp-optimized-top-k-frequency-extraction"]
 	path = og1ihp-optimized-top-k-frequency-extraction
 	url = https://github.com/eaglepointAiLabs/og1ihp-optimized-top-k-frequency-extraction.git
+
+[submodule "u818db-toml-parser-with-schema-validation"]
+	path = u818db-toml-parser-with-schema-validation
+	url = https://github.com/eaglepointAiLabs/u818db-toml-parser-with-schema-validation.git
