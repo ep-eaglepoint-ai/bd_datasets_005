@@ -2101,3 +2101,7 @@
 [submodule "ud3i4a-context-sensitive-binary-delta"]
 	path = ud3i4a-context-sensitive-binary-delta
 	url = https://github.com/eaglepointAiLabs/ud3i4a-context-sensitive-binary-delta.git
+
+[submodule "oje5tg-deterministic-task-distribution-jump-hash"]
+	path = oje5tg-deterministic-task-distribution-jump-hash
+	url = https://github.com/eaglepointAiLabs/oje5tg-deterministic-task-distribution-jump-hash.git
