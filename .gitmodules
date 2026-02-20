@@ -1885,3 +1885,7 @@
 [submodule "j1xrzz-refactor-iot-event-stream-deduplication-with-strict-legacy-equality-preservation"]
 	path = j1xrzz-refactor-iot-event-stream-deduplication-with-strict-legacy-equality-preservation
 	url = https://github.com/eaglepointAiLabs/j1xrzz-refactor-iot-event-stream-deduplication-with-strict-legacy-equality-preservation.git
+
+[submodule "9pecpe-decentralized-udp-lock-manager"]
+	path = 9pecpe-decentralized-udp-lock-manager
+	url = https://github.com/eaglepointAiLabs/9pecpe-decentralized-udp-lock-manager.git
