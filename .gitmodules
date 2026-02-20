@@ -1965,3 +1965,7 @@
 [submodule "3wu5zk-refactor-plugin-system-into-safe-interface-enforced-registry"]
 	path = 3wu5zk-refactor-plugin-system-into-safe-interface-enforced-registry
 	url = https://github.com/eaglepointAiLabs/3wu5zk-refactor-plugin-system-into-safe-interface-enforced-registry.git
+
+[submodule "7o6684-implement-configurable-retry-decorator-for-resilient-function-calls"]
+	path = 7o6684-implement-configurable-retry-decorator-for-resilient-function-calls
+	url = https://github.com/eaglepointAiLabs/7o6684-implement-configurable-retry-decorator-for-resilient-function-calls.git
