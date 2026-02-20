@@ -2065,3 +2065,7 @@
 [submodule "m15fps-optimaize-an-in-memory-railway-route-lookup-service"]
 	path = m15fps-optimaize-an-in-memory-railway-route-lookup-service
 	url = https://github.com/eaglepointAiLabs/m15fps-optimaize-an-in-memory-railway-route-lookup-service.git
+
+[submodule "cb6vne-micro-grad-testing"]
+	path = cb6vne-micro-grad-testing
+	url = https://github.com/eaglepointAiLabs/cb6vne-micro-grad-testing.git
