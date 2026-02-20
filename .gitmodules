@@ -2017,3 +2017,7 @@
 [submodule "exynf5-parameterized-levenshtein-distance-testing"]
 	path = exynf5-parameterized-levenshtein-distance-testing
 	url = https://github.com/eaglepointAiLabs/exynf5-parameterized-levenshtein-distance-testing.git
+
+[submodule "l9zg9g-sharded-token-bucket-rate-limiter"]
+	path = l9zg9g-sharded-token-bucket-rate-limiter
+	url = https://github.com/eaglepointAiLabs/l9zg9g-sharded-token-bucket-rate-limiter.git
