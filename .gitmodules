@@ -2141,3 +2141,7 @@
 [submodule "tui80n-extend-a-digital-time-capsule-service-for-a-social-platform"]
 	path = tui80n-extend-a-digital-time-capsule-service-for-a-social-platform
 	url = https://github.com/eaglepointAiLabs/tui80n-extend-a-digital-time-capsule-service-for-a-social-platform.git
+
+[submodule "pn3uwv-streaming-firmware-verification-sha-256-ed25519"]
+	path = pn3uwv-streaming-firmware-verification-sha-256-ed25519
+	url = https://github.com/eaglepointAiLabs/pn3uwv-streaming-firmware-verification-sha-256-ed25519.git
