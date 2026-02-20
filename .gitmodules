@@ -2001,3 +2001,7 @@
 [submodule "t6hx0h-ledger-sort-behavioral-and-performance-verification-suite"]
 	path = t6hx0h-ledger-sort-behavioral-and-performance-verification-suite
 	url = https://github.com/eaglepointAiLabs/t6hx0h-ledger-sort-behavioral-and-performance-verification-suite.git
+
+[submodule "lt0qrz-aiohttp-websocket-broadcast-optimization"]
+	path = lt0qrz-aiohttp-websocket-broadcast-optimization
+	url = https://github.com/eaglepointAiLabs/lt0qrz-aiohttp-websocket-broadcast-optimization.git
