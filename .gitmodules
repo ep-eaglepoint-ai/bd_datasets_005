@@ -1845,3 +1845,7 @@
 [submodule "mehw7g-distributed-telemedicine-scheduler-with-leader-election"]
 	path = mehw7g-distributed-telemedicine-scheduler-with-leader-election
 	url = https://github.com/eaglepointAiLabs/mehw7g-distributed-telemedicine-scheduler-with-leader-election.git
+
+[submodule "skspwb-deterministic-tests-for-distributed-leader-election"]
+	path = skspwb-deterministic-tests-for-distributed-leader-election
+	url = https://github.com/eaglepointAiLabs/skspwb-deterministic-tests-for-distributed-leader-election.git
