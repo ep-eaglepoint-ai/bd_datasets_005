@@ -2149,3 +2149,7 @@
 [submodule "4htng8-heatmap-optimization-via-bounding-boxes-and-look-up-tables"]
 	path = 4htng8-heatmap-optimization-via-bounding-boxes-and-look-up-tables
 	url = https://github.com/eaglepointAiLabs/4htng8-heatmap-optimization-via-bounding-boxes-and-look-up-tables.git
+
+[submodule "h3k7js-aerodynamic-map-correlation-with-manual-bilinear-interpolation"]
+	path = h3k7js-aerodynamic-map-correlation-with-manual-bilinear-interpolation
+	url = https://github.com/eaglepointAiLabs/h3k7js-aerodynamic-map-correlation-with-manual-bilinear-interpolation.git
