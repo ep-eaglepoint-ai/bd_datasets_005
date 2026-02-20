@@ -2009,3 +2009,7 @@
 [submodule "6gu590-zero-touch-provisioning-with-proof-of-possession"]
 	path = 6gu590-zero-touch-provisioning-with-proof-of-possession
 	url = https://github.com/eaglepointAiLabs/6gu590-zero-touch-provisioning-with-proof-of-possession.git
+
+[submodule "j8uct9-hibernate-batch-insert-optimization"]
+	path = j8uct9-hibernate-batch-insert-optimization
+	url = https://github.com/eaglepointAiLabs/j8uct9-hibernate-batch-insert-optimization.git
