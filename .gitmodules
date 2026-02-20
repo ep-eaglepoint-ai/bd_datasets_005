@@ -2045,3 +2045,7 @@
 [submodule "ky5qer-stack-based-transactional-key-value-engine"]
 	path = ky5qer-stack-based-transactional-key-value-engine
 	url = https://github.com/eaglepointAiLabs/ky5qer-stack-based-transactional-key-value-engine.git
+
+[submodule "oxzvaw-extend-a-document-versioning-service-for-a-digital-policy-management"]
+	path = oxzvaw-extend-a-document-versioning-service-for-a-digital-policy-management
+	url = https://github.com/eaglepointAiLabs/oxzvaw-extend-a-document-versioning-service-for-a-digital-policy-management.git
