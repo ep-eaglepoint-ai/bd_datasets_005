@@ -1937,3 +1937,7 @@
 [submodule "zkh89q-http-payload-fingerprint-caching"]
 	path = zkh89q-http-payload-fingerprint-caching
 	url = https://github.com/eaglepointAiLabs/zkh89q-http-payload-fingerprint-caching.git
+
+[submodule "rk3ftv-pipeline-registry-validation-suite"]
+	path = rk3ftv-pipeline-registry-validation-suite
+	url = https://github.com/eaglepointAiLabs/rk3ftv-pipeline-registry-validation-suite.git
