@@ -1909,3 +1909,7 @@
 [submodule "tk9n5c-data-center-load-shifting-milp-optimization-python-implementation"]
 	path = tk9n5c-data-center-load-shifting-milp-optimization-python-implementation
 	url = https://github.com/eaglepointAiLabs/tk9n5c-data-center-load-shifting-milp-optimization-python-implementation.git
+
+[submodule "n0ynru-unit-testing-for-data-center-load-shifting-milp-model"]
+	path = n0ynru-unit-testing-for-data-center-load-shifting-milp-model
+	url = https://github.com/eaglepointAiLabs/n0ynru-unit-testing-for-data-center-load-shifting-milp-model.git
