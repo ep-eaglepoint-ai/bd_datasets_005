@@ -2061,3 +2061,7 @@
 [submodule "mb2u3p-longest-valid-parenthesis"]
 	path = mb2u3p-longest-valid-parenthesis
 	url = https://github.com/eaglepointAiLabs/mb2u3p-longest-valid-parenthesis.git
+
+[submodule "m15fps-optimaize-an-in-memory-railway-route-lookup-service"]
+	path = m15fps-optimaize-an-in-memory-railway-route-lookup-service
+	url = https://github.com/eaglepointAiLabs/m15fps-optimaize-an-in-memory-railway-route-lookup-service.git
