@@ -1973,3 +1973,7 @@
 [submodule "53c4ot-csv-to-json-schema-based-converter"]
 	path = 53c4ot-csv-to-json-schema-based-converter
 	url = https://github.com/eaglepointAiLabs/53c4ot-csv-to-json-schema-based-converter.git
+
+[submodule "j9s6vs-telemetry-aggregator-with-rolling-window-statistics"]
+	path = j9s6vs-telemetry-aggregator-with-rolling-window-statistics
+	url = https://github.com/eaglepointAiLabs/j9s6vs-telemetry-aggregator-with-rolling-window-statistics.git
