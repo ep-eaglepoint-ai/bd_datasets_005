@@ -1929,3 +1929,7 @@
 [submodule "jev54m-type-safe-kotlin-sql-dsl"]
 	path = jev54m-type-safe-kotlin-sql-dsl
 	url = https://github.com/eaglepointAiLabs/jev54m-type-safe-kotlin-sql-dsl.git
+
+[submodule "zwam7b-high-throughput-log-ingestion-aggregator"]
+	path = zwam7b-high-throughput-log-ingestion-aggregator
+	url = https://github.com/eaglepointAiLabs/zwam7b-high-throughput-log-ingestion-aggregator.git
