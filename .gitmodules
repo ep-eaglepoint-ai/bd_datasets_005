@@ -1997,3 +1997,7 @@
 [submodule "rwpf5l-linear-time-sync-reconciliation-via-hash-indexing"]
 	path = rwpf5l-linear-time-sync-reconciliation-via-hash-indexing
 	url = https://github.com/eaglepointAiLabs/rwpf5l-linear-time-sync-reconciliation-via-hash-indexing.git
+
+[submodule "t6hx0h-ledger-sort-behavioral-and-performance-verification-suite"]
+	path = t6hx0h-ledger-sort-behavioral-and-performance-verification-suite
+	url = https://github.com/eaglepointAiLabs/t6hx0h-ledger-sort-behavioral-and-performance-verification-suite.git
