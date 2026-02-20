@@ -1893,3 +1893,7 @@
 [submodule "id39uj-multi-day-water-pumping-optimization-with-tank-management"]
 	path = id39uj-multi-day-water-pumping-optimization-with-tank-management
 	url = https://github.com/eaglepointAiLabs/id39uj-multi-day-water-pumping-optimization-with-tank-management.git
+
+[submodule "sxpd1g-optimize-multi-day-pumping-simulation-code"]
+	path = sxpd1g-optimize-multi-day-pumping-simulation-code
+	url = https://github.com/eaglepointAiLabs/sxpd1g-optimize-multi-day-pumping-simulation-code.git
