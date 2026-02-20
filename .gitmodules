@@ -2037,3 +2037,7 @@
 [submodule "bgnv3v-express-checkout-refactoring"]
 	path = bgnv3v-express-checkout-refactoring
 	url = https://github.com/eaglepointAiLabs/bgnv3v-express-checkout-refactoring.git
+
+[submodule "yjcdnt-markdown-note-editor"]
+	path = yjcdnt-markdown-note-editor
+	url = https://github.com/eaglepointAiLabs/yjcdnt-markdown-note-editor.git
