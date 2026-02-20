@@ -2069,3 +2069,7 @@
 [submodule "cb6vne-micro-grad-testing"]
 	path = cb6vne-micro-grad-testing
 	url = https://github.com/eaglepointAiLabs/cb6vne-micro-grad-testing.git
+
+[submodule "ztr6ey-array-processing-utility"]
+	path = ztr6ey-array-processing-utility
+	url = https://github.com/eaglepointAiLabs/ztr6ey-array-processing-utility.git
