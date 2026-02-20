@@ -1857,3 +1857,7 @@
 [submodule "ohiejp-multi-channel-template-rendering-engine"]
 	path = ohiejp-multi-channel-template-rendering-engine
 	url = https://github.com/eaglepointAiLabs/ohiejp-multi-channel-template-rendering-engine.git
+
+[submodule "frn8rr-conflict-resolution-testing-for-promotion-application-engine"]
+	path = frn8rr-conflict-resolution-testing-for-promotion-application-engine
+	url = https://github.com/eaglepointAiLabs/frn8rr-conflict-resolution-testing-for-promotion-application-engine.git
