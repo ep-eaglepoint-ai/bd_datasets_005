@@ -1969,3 +1969,7 @@
 [submodule "7o6684-implement-configurable-retry-decorator-for-resilient-function-calls"]
 	path = 7o6684-implement-configurable-retry-decorator-for-resilient-function-calls
 	url = https://github.com/eaglepointAiLabs/7o6684-implement-configurable-retry-decorator-for-resilient-function-calls.git
+
+[submodule "53c4ot-csv-to-json-schema-based-converter"]
+	path = 53c4ot-csv-to-json-schema-based-converter
+	url = https://github.com/eaglepointAiLabs/53c4ot-csv-to-json-schema-based-converter.git
