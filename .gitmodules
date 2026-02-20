@@ -2153,3 +2153,7 @@
 [submodule "h3k7js-aerodynamic-map-correlation-with-manual-bilinear-interpolation"]
 	path = h3k7js-aerodynamic-map-correlation-with-manual-bilinear-interpolation
 	url = https://github.com/eaglepointAiLabs/h3k7js-aerodynamic-map-correlation-with-manual-bilinear-interpolation.git
+
+[submodule "ccckp4-telemetry-resampling-with-lerp-and-trapezoidal-integration"]
+	path = ccckp4-telemetry-resampling-with-lerp-and-trapezoidal-integration
+	url = https://github.com/eaglepointAiLabs/ccckp4-telemetry-resampling-with-lerp-and-trapezoidal-integration.git
