@@ -1881,3 +1881,7 @@
 [submodule "0e1hzr-optimizing-a-stochastic-energy-dispatch-and-unit-commitment-model-in-pyomo"]
 	path = 0e1hzr-optimizing-a-stochastic-energy-dispatch-and-unit-commitment-model-in-pyomo
 	url = https://github.com/eaglepointAiLabs/0e1hzr-optimizing-a-stochastic-energy-dispatch-and-unit-commitment-model-in-pyomo.git
+
+[submodule "j1xrzz-refactor-iot-event-stream-deduplication-with-strict-legacy-equality-preservation"]
+	path = j1xrzz-refactor-iot-event-stream-deduplication-with-strict-legacy-equality-preservation
+	url = https://github.com/eaglepointAiLabs/j1xrzz-refactor-iot-event-stream-deduplication-with-strict-legacy-equality-preservation.git
