@@ -2081,3 +2081,7 @@
 [submodule "p60nlw-lazy-ttl-memory-cache"]
 	path = p60nlw-lazy-ttl-memory-cache
 	url = https://github.com/eaglepointAiLabs/p60nlw-lazy-ttl-memory-cache.git
+
+[submodule "2kqe53-add-test-suit-for-the-community-garden-service"]
+	path = 2kqe53-add-test-suit-for-the-community-garden-service
+	url = https://github.com/eaglepointAiLabs/2kqe53-add-test-suit-for-the-community-garden-service.git
