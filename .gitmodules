@@ -2021,3 +2021,7 @@
 [submodule "l9zg9g-sharded-token-bucket-rate-limiter"]
 	path = l9zg9g-sharded-token-bucket-rate-limiter
 	url = https://github.com/eaglepointAiLabs/l9zg9g-sharded-token-bucket-rate-limiter.git
+
+[submodule "pxuwdv-asyncio-scheduler-test-suit"]
+	path = pxuwdv-asyncio-scheduler-test-suit
+	url = https://github.com/eaglepointAiLabs/pxuwdv-asyncio-scheduler-test-suit.git
