@@ -1861,3 +1861,7 @@
 [submodule "frn8rr-conflict-resolution-testing-for-promotion-application-engine"]
 	path = frn8rr-conflict-resolution-testing-for-promotion-application-engine
 	url = https://github.com/eaglepointAiLabs/frn8rr-conflict-resolution-testing-for-promotion-application-engine.git
+
+[submodule "7zoo0s-add-double-booking-prevention-and-reservation-availability-api"]
+	path = 7zoo0s-add-double-booking-prevention-and-reservation-availability-api
+	url = https://github.com/eaglepointAiLabs/7zoo0s-add-double-booking-prevention-and-reservation-availability-api.git
