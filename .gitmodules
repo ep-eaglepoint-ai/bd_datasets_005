@@ -1977,3 +1977,7 @@
 [submodule "j9s6vs-telemetry-aggregator-with-rolling-window-statistics"]
 	path = j9s6vs-telemetry-aggregator-with-rolling-window-statistics
 	url = https://github.com/eaglepointAiLabs/j9s6vs-telemetry-aggregator-with-rolling-window-statistics.git
+
+[submodule "p988ye-modularize-orderservice"]
+	path = p988ye-modularize-orderservice
+	url = https://github.com/eaglepointAiLabs/p988ye-modularize-orderservice.git
