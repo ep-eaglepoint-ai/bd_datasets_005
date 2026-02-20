@@ -2057,3 +2057,7 @@
 [submodule "pkkyq6-encryption-test"]
 	path = pkkyq6-encryption-test
 	url = https://github.com/eaglepointAiLabs/pkkyq6-encryption-test.git
+
+[submodule "mb2u3p-longest-valid-parenthesis"]
+	path = mb2u3p-longest-valid-parenthesis
+	url = https://github.com/eaglepointAiLabs/mb2u3p-longest-valid-parenthesis.git
