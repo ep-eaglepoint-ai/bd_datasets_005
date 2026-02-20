@@ -1869,3 +1869,7 @@
 [submodule "selryi-add-a-test-suit-for-a-scientific-computation-module"]
 	path = selryi-add-a-test-suit-for-a-scientific-computation-module
 	url = https://github.com/eaglepointAiLabs/selryi-add-a-test-suit-for-a-scientific-computation-module.git
+
+[submodule "rg1tyl-concurrent-url-fetcher"]
+	path = rg1tyl-concurrent-url-fetcher
+	url = https://github.com/eaglepointAiLabs/rg1tyl-concurrent-url-fetcher.git
