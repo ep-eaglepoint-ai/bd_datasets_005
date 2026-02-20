@@ -1877,3 +1877,7 @@
 [submodule "s84q3r-optimization-and-refactoring-of-cold-storage-energy-arbitrage-model"]
 	path = s84q3r-optimization-and-refactoring-of-cold-storage-energy-arbitrage-model
 	url = https://github.com/eaglepointAiLabs/s84q3r-optimization-and-refactoring-of-cold-storage-energy-arbitrage-model.git
+
+[submodule "0e1hzr-optimizing-a-stochastic-energy-dispatch-and-unit-commitment-model-in-pyomo"]
+	path = 0e1hzr-optimizing-a-stochastic-energy-dispatch-and-unit-commitment-model-in-pyomo
+	url = https://github.com/eaglepointAiLabs/0e1hzr-optimizing-a-stochastic-energy-dispatch-and-unit-commitment-model-in-pyomo.git
