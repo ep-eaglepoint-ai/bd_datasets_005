@@ -1945,3 +1945,7 @@
 [submodule "hisd84-typed-data-ingestion-migration"]
 	path = hisd84-typed-data-ingestion-migration
 	url = https://github.com/eaglepointAiLabs/hisd84-typed-data-ingestion-migration.git
+
+[submodule "kxfwzm-comprehensive-pytest-suite-for-simple-interest-calculator"]
+	path = kxfwzm-comprehensive-pytest-suite-for-simple-interest-calculator
+	url = https://github.com/eaglepointAiLabs/kxfwzm-comprehensive-pytest-suite-for-simple-interest-calculator.git
