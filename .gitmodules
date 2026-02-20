@@ -2025,3 +2025,7 @@
 [submodule "pxuwdv-asyncio-scheduler-test-suit"]
 	path = pxuwdv-asyncio-scheduler-test-suit
 	url = https://github.com/eaglepointAiLabs/pxuwdv-asyncio-scheduler-test-suit.git
+
+[submodule "84rpt7-jpa-repository-integration-tests"]
+	path = 84rpt7-jpa-repository-integration-tests
+	url = https://github.com/eaglepointAiLabs/84rpt7-jpa-repository-integration-tests.git
