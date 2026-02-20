@@ -2129,3 +2129,7 @@
 [submodule "zn9z4k-kanban-impl"]
 	path = zn9z4k-kanban-impl
 	url = https://github.com/eaglepointAiLabs/zn9z4k-kanban-impl.git
+
+[submodule "mnb6ct-fixed-precision-division-carry-reconciliation"]
+	path = mnb6ct-fixed-precision-division-carry-reconciliation
+	url = https://github.com/eaglepointAiLabs/mnb6ct-fixed-precision-division-carry-reconciliation.git
