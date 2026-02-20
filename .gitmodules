@@ -1873,3 +1873,7 @@
 [submodule "rg1tyl-concurrent-url-fetcher"]
 	path = rg1tyl-concurrent-url-fetcher
 	url = https://github.com/eaglepointAiLabs/rg1tyl-concurrent-url-fetcher.git
+
+[submodule "s84q3r-optimization-and-refactoring-of-cold-storage-energy-arbitrage-model"]
+	path = s84q3r-optimization-and-refactoring-of-cold-storage-energy-arbitrage-model
+	url = https://github.com/eaglepointAiLabs/s84q3r-optimization-and-refactoring-of-cold-storage-energy-arbitrage-model.git
