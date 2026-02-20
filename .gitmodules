@@ -2113,3 +2113,7 @@
 [submodule "8lurmm-url-shortner-impl"]
 	path = 8lurmm-url-shortner-impl
 	url = https://github.com/eaglepointAiLabs/8lurmm-url-shortner-impl.git
+
+[submodule "f3wovn-lite-hpack-binary-header-compression"]
+	path = f3wovn-lite-hpack-binary-header-compression
+	url = https://github.com/eaglepointAiLabs/f3wovn-lite-hpack-binary-header-compression.git
