@@ -2157,3 +2157,7 @@
 [submodule "ccckp4-telemetry-resampling-with-lerp-and-trapezoidal-integration"]
 	path = ccckp4-telemetry-resampling-with-lerp-and-trapezoidal-integration
 	url = https://github.com/eaglepointAiLabs/ccckp4-telemetry-resampling-with-lerp-and-trapezoidal-integration.git
+
+[submodule "0che0q-event-stream-optimization-hash-indexing-debouncing"]
+	path = 0che0q-event-stream-optimization-hash-indexing-debouncing
+	url = https://github.com/eaglepointAiLabs/0che0q-event-stream-optimization-hash-indexing-debouncing.git
