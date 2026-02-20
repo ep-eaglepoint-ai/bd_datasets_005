@@ -2145,3 +2145,7 @@
 [submodule "pn3uwv-streaming-firmware-verification-sha-256-ed25519"]
 	path = pn3uwv-streaming-firmware-verification-sha-256-ed25519
 	url = https://github.com/eaglepointAiLabs/pn3uwv-streaming-firmware-verification-sha-256-ed25519.git
+
+[submodule "4htng8-heatmap-optimization-via-bounding-boxes-and-look-up-tables"]
+	path = 4htng8-heatmap-optimization-via-bounding-boxes-and-look-up-tables
+	url = https://github.com/eaglepointAiLabs/4htng8-heatmap-optimization-via-bounding-boxes-and-look-up-tables.git
