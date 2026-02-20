@@ -1933,3 +1933,7 @@
 [submodule "zwam7b-high-throughput-log-ingestion-aggregator"]
 	path = zwam7b-high-throughput-log-ingestion-aggregator
 	url = https://github.com/eaglepointAiLabs/zwam7b-high-throughput-log-ingestion-aggregator.git
+
+[submodule "zkh89q-http-payload-fingerprint-caching"]
+	path = zkh89q-http-payload-fingerprint-caching
+	url = https://github.com/eaglepointAiLabs/zkh89q-http-payload-fingerprint-caching.git
