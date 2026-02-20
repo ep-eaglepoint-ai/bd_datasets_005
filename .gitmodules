@@ -2109,3 +2109,7 @@
 [submodule "4ppamz-bit-sliced-multi-keyword-trie"]
 	path = 4ppamz-bit-sliced-multi-keyword-trie
 	url = https://github.com/eaglepointAiLabs/4ppamz-bit-sliced-multi-keyword-trie.git
+
+[submodule "8lurmm-url-shortner-impl"]
+	path = 8lurmm-url-shortner-impl
+	url = https://github.com/eaglepointAiLabs/8lurmm-url-shortner-impl.git
