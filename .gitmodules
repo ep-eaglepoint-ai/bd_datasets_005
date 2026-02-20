@@ -1921,3 +1921,7 @@
 [submodule "pdefpn-ticketing-state-machine-testing"]
 	path = pdefpn-ticketing-state-machine-testing
 	url = https://github.com/eaglepointAiLabs/pdefpn-ticketing-state-machine-testing.git
+
+[submodule "n1ux8z-concurrent-g-counter-crdt-in-go"]
+	path = n1ux8z-concurrent-g-counter-crdt-in-go
+	url = https://github.com/eaglepointAiLabs/n1ux8z-concurrent-g-counter-crdt-in-go.git
