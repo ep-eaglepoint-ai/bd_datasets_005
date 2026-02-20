@@ -2029,3 +2029,7 @@
 [submodule "84rpt7-jpa-repository-integration-tests"]
 	path = 84rpt7-jpa-repository-integration-tests
 	url = https://github.com/eaglepointAiLabs/84rpt7-jpa-repository-integration-tests.git
+
+[submodule "g6qcz0-atomic-and-invariant-safe-in-memory-ledger-refactoring"]
+	path = g6qcz0-atomic-and-invariant-safe-in-memory-ledger-refactoring
+	url = https://github.com/eaglepointAiLabs/g6qcz0-atomic-and-invariant-safe-in-memory-ledger-refactoring.git
