@@ -1961,3 +1961,7 @@
 [submodule "cxux7n-refactor-sentimentprocessor-into-modular-configurable-pipeline"]
 	path = cxux7n-refactor-sentimentprocessor-into-modular-configurable-pipeline
 	url = https://github.com/eaglepointAiLabs/cxux7n-refactor-sentimentprocessor-into-modular-configurable-pipeline.git
+
+[submodule "3wu5zk-refactor-plugin-system-into-safe-interface-enforced-registry"]
+	path = 3wu5zk-refactor-plugin-system-into-safe-interface-enforced-registry
+	url = https://github.com/eaglepointAiLabs/3wu5zk-refactor-plugin-system-into-safe-interface-enforced-registry.git
