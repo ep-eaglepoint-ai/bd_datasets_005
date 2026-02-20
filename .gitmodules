@@ -1901,3 +1901,7 @@
 [submodule "id44jt-optimized-crane-scheduling-simulation-for-shipping-port"]
 	path = id44jt-optimized-crane-scheduling-simulation-for-shipping-port
 	url = https://github.com/eaglepointAiLabs/id44jt-optimized-crane-scheduling-simulation-for-shipping-port.git
+
+[submodule "i4irw2-optimize-port-crane-simulation-for-performance-and-maintainability"]
+	path = i4irw2-optimize-port-crane-simulation-for-performance-and-maintainability
+	url = https://github.com/eaglepointAiLabs/i4irw2-optimize-port-crane-simulation-for-performance-and-maintainability.git
