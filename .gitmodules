@@ -2125,3 +2125,7 @@
 [submodule "kq8t2t-countdown"]
 	path = kq8t2t-countdown
 	url = https://github.com/eaglepointAiLabs/kq8t2t-countdown.git
+
+[submodule "zn9z4k-kanban-impl"]
+	path = zn9z4k-kanban-impl
+	url = https://github.com/eaglepointAiLabs/zn9z4k-kanban-impl.git
