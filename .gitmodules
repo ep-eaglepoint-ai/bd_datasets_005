@@ -2013,3 +2013,7 @@
 [submodule "j8uct9-hibernate-batch-insert-optimization"]
 	path = j8uct9-hibernate-batch-insert-optimization
 	url = https://github.com/eaglepointAiLabs/j8uct9-hibernate-batch-insert-optimization.git
+
+[submodule "exynf5-parameterized-levenshtein-distance-testing"]
+	path = exynf5-parameterized-levenshtein-distance-testing
+	url = https://github.com/eaglepointAiLabs/exynf5-parameterized-levenshtein-distance-testing.git
