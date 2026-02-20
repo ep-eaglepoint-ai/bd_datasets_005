@@ -2053,3 +2053,7 @@
 [submodule "e7iznu-deterministic-mini-regex-engine-with-nfa-to-dfa-compilation"]
 	path = e7iznu-deterministic-mini-regex-engine-with-nfa-to-dfa-compilation
 	url = https://github.com/eaglepointAiLabs/e7iznu-deterministic-mini-regex-engine-with-nfa-to-dfa-compilation.git
+
+[submodule "pkkyq6-encryption-test"]
+	path = pkkyq6-encryption-test
+	url = https://github.com/eaglepointAiLabs/pkkyq6-encryption-test.git
