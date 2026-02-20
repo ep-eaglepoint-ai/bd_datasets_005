@@ -2089,3 +2089,7 @@
 [submodule "5safpa-wait-free-single-flight-orchestrator"]
 	path = 5safpa-wait-free-single-flight-orchestrator
 	url = https://github.com/eaglepointAiLabs/5safpa-wait-free-single-flight-orchestrator.git
+
+[submodule "spd6va-bit-shaped-frequency-monitor-cms"]
+	path = spd6va-bit-shaped-frequency-monitor-cms
+	url = https://github.com/eaglepointAiLabs/spd6va-bit-shaped-frequency-monitor-cms.git
