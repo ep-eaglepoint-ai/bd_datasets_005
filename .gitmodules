@@ -1905,3 +1905,7 @@
 [submodule "i4irw2-optimize-port-crane-simulation-for-performance-and-maintainability"]
 	path = i4irw2-optimize-port-crane-simulation-for-performance-and-maintainability
 	url = https://github.com/eaglepointAiLabs/i4irw2-optimize-port-crane-simulation-for-performance-and-maintainability.git
+
+[submodule "tk9n5c-data-center-load-shifting-milp-optimization-python-implementation"]
+	path = tk9n5c-data-center-load-shifting-milp-optimization-python-implementation
+	url = https://github.com/eaglepointAiLabs/tk9n5c-data-center-load-shifting-milp-optimization-python-implementation.git
