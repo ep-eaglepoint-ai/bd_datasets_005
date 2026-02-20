@@ -1949,3 +1949,7 @@
 [submodule "kxfwzm-comprehensive-pytest-suite-for-simple-interest-calculator"]
 	path = kxfwzm-comprehensive-pytest-suite-for-simple-interest-calculator
 	url = https://github.com/eaglepointAiLabs/kxfwzm-comprehensive-pytest-suite-for-simple-interest-calculator.git
+
+[submodule "vcw7n2-comprehensive-pytest-suite-for-email-validator"]
+	path = vcw7n2-comprehensive-pytest-suite-for-email-validator
+	url = https://github.com/eaglepointAiLabs/vcw7n2-comprehensive-pytest-suite-for-email-validator.git
