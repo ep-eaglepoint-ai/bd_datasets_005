@@ -2121,3 +2121,7 @@
 [submodule "fq51jy-csv-processing-pipeline"]
 	path = fq51jy-csv-processing-pipeline
 	url = https://github.com/eaglepointAiLabs/fq51jy-csv-processing-pipeline.git
+
+[submodule "kq8t2t-countdown"]
+	path = kq8t2t-countdown
+	url = https://github.com/eaglepointAiLabs/kq8t2t-countdown.git
