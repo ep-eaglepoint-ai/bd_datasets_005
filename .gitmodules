@@ -2117,3 +2117,7 @@
 [submodule "f3wovn-lite-hpack-binary-header-compression"]
 	path = f3wovn-lite-hpack-binary-header-compression
 	url = https://github.com/eaglepointAiLabs/f3wovn-lite-hpack-binary-header-compression.git
+
+[submodule "fq51jy-csv-processing-pipeline"]
+	path = fq51jy-csv-processing-pipeline
+	url = https://github.com/eaglepointAiLabs/fq51jy-csv-processing-pipeline.git
