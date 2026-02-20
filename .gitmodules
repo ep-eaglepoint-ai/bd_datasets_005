@@ -2137,3 +2137,7 @@
 [submodule "6lmboa-refactore-a-python-based-configuration-management-library"]
 	path = 6lmboa-refactore-a-python-based-configuration-management-library
 	url = https://github.com/eaglepointAiLabs/6lmboa-refactore-a-python-based-configuration-management-library.git
+
+[submodule "tui80n-extend-a-digital-time-capsule-service-for-a-social-platform"]
+	path = tui80n-extend-a-digital-time-capsule-service-for-a-social-platform
+	url = https://github.com/eaglepointAiLabs/tui80n-extend-a-digital-time-capsule-service-for-a-social-platform.git
