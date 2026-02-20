@@ -1917,3 +1917,7 @@
 [submodule "rd0wi6-reactive-transaction-manager-decoupling"]
 	path = rd0wi6-reactive-transaction-manager-decoupling
 	url = https://github.com/eaglepointAiLabs/rd0wi6-reactive-transaction-manager-decoupling.git
+
+[submodule "pdefpn-ticketing-state-machine-testing"]
+	path = pdefpn-ticketing-state-machine-testing
+	url = https://github.com/eaglepointAiLabs/pdefpn-ticketing-state-machine-testing.git
