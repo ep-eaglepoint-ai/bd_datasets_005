@@ -2093,3 +2093,7 @@
 [submodule "spd6va-bit-shaped-frequency-monitor-cms"]
 	path = spd6va-bit-shaped-frequency-monitor-cms
 	url = https://github.com/eaglepointAiLabs/spd6va-bit-shaped-frequency-monitor-cms.git
+
+[submodule "mbkp60-self-balancing-key-tree-arena"]
+	path = mbkp60-self-balancing-key-tree-arena
+	url = https://github.com/eaglepointAiLabs/mbkp60-self-balancing-key-tree-arena.git
