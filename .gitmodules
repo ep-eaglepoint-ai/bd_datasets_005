@@ -2269,3 +2269,7 @@
 [submodule "83dmmm-jsonpath-jit-compiler-robust-test-suite"]
 	path = 83dmmm-jsonpath-jit-compiler-robust-test-suite
 	url = https://github.com/eaglepointAiLabs/83dmmm-jsonpath-jit-compiler-robust-test-suite.git
+
+[submodule "m4f6qf-sts-prepaid-token-generator-with-idempotency-luhn-validation"]
+	path = m4f6qf-sts-prepaid-token-generator-with-idempotency-luhn-validation
+	url = https://github.com/eaglepointAiLabs/m4f6qf-sts-prepaid-token-generator-with-idempotency-luhn-validation.git
