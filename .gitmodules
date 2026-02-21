@@ -2217,3 +2217,7 @@
 [submodule "5qpqfr-add-a-test-suit-for-an-internal-rule-evaluation-engine"]
 	path = 5qpqfr-add-a-test-suit-for-an-internal-rule-evaluation-engine
 	url = https://github.com/eaglepointAiLabs/5qpqfr-add-a-test-suit-for-an-internal-rule-evaluation-engine.git
+
+[submodule "qhd3f4-extend-the-wallet-transaction-ledger-servic"]
+	path = qhd3f4-extend-the-wallet-transaction-ledger-servic
+	url = https://github.com/eaglepointAiLabs/qhd3f4-extend-the-wallet-transaction-ledger-servic.git
