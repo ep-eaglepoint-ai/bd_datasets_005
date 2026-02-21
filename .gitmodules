@@ -2265,3 +2265,7 @@
 [submodule "6pdx8k-shannon-entropy-monitor-tests"]
 	path = 6pdx8k-shannon-entropy-monitor-tests
 	url = https://github.com/eaglepointAiLabs/6pdx8k-shannon-entropy-monitor-tests.git
+
+[submodule "83dmmm-jsonpath-jit-compiler-robust-test-suite"]
+	path = 83dmmm-jsonpath-jit-compiler-robust-test-suite
+	url = https://github.com/eaglepointAiLabs/83dmmm-jsonpath-jit-compiler-robust-test-suite.git
