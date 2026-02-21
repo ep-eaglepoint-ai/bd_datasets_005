@@ -2245,3 +2245,7 @@
 [submodule "vdpzb9-token-bucket-rate-limit"]
 	path = vdpzb9-token-bucket-rate-limit
 	url = https://github.com/eaglepointAiLabs/vdpzb9-token-bucket-rate-limit.git
+
+[submodule "koijxi-shipping-boundary-analysis-testing"]
+	path = koijxi-shipping-boundary-analysis-testing
+	url = https://github.com/eaglepointAiLabs/koijxi-shipping-boundary-analysis-testing.git
