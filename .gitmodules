@@ -2201,3 +2201,7 @@
 [submodule "wewiq4-implement-source-code-todo-scanner-utility"]
 	path = wewiq4-implement-source-code-todo-scanner-utility
 	url = https://github.com/eaglepointAiLabs/wewiq4-implement-source-code-todo-scanner-utility.git
+
+[submodule "cywe64-implement-entropy-aware-secret-scanning-engine"]
+	path = cywe64-implement-entropy-aware-secret-scanning-engine
+	url = https://github.com/eaglepointAiLabs/cywe64-implement-entropy-aware-secret-scanning-engine.git
