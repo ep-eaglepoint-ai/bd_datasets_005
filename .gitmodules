@@ -2225,3 +2225,7 @@
 [submodule "d0ta5t-multi-key-sorting-utility-for-student-enrollment-records"]
 	path = d0ta5t-multi-key-sorting-utility-for-student-enrollment-records
 	url = https://github.com/eaglepointAiLabs/d0ta5t-multi-key-sorting-utility-for-student-enrollment-records.git
+
+[submodule "1h4jm9-express-user-controller-test-suite"]
+	path = 1h4jm9-express-user-controller-test-suite
+	url = https://github.com/eaglepointAiLabs/1h4jm9-express-user-controller-test-suite.git
