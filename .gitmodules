@@ -2173,3 +2173,7 @@
 [submodule "k6g3br-railway-simulation-code-optimization-task"]
 	path = k6g3br-railway-simulation-code-optimization-task
 	url = https://github.com/eaglepointAiLabs/k6g3br-railway-simulation-code-optimization-task.git
+
+[submodule "ky0qg9-railway-freight-profit-optimization-simulator"]
+	path = ky0qg9-railway-freight-profit-optimization-simulator
+	url = https://github.com/eaglepointAiLabs/ky0qg9-railway-freight-profit-optimization-simulator.git
