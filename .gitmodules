@@ -2185,3 +2185,7 @@
 [submodule "coljws-optimize-templaterenderer"]
 	path = coljws-optimize-templaterenderer
 	url = https://github.com/eaglepointAiLabs/coljws-optimize-templaterenderer.git
+
+[submodule "z6byxj-optimize-idvalidator-for-linear-time-duplicate-detection"]
+	path = z6byxj-optimize-idvalidator-for-linear-time-duplicate-detection
+	url = https://github.com/eaglepointAiLabs/z6byxj-optimize-idvalidator-for-linear-time-duplicate-detection.git
