@@ -2237,3 +2237,7 @@
 [submodule "4uf2gj-improve-the-performance-of-a-document-indexing-service"]
 	path = 4uf2gj-improve-the-performance-of-a-document-indexing-service
 	url = https://github.com/eaglepointAiLabs/4uf2gj-improve-the-performance-of-a-document-indexing-service.git
+
+[submodule "sx0qkj-refactore-a-policy-evaluation-engine"]
+	path = sx0qkj-refactore-a-policy-evaluation-engine
+	url = https://github.com/eaglepointAiLabs/sx0qkj-refactore-a-policy-evaluation-engine.git
