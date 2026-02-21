@@ -2193,3 +2193,7 @@
 [submodule "awjtq1-deterministic-test-suite-for-multi-step-car-rental-quote-engine"]
 	path = awjtq1-deterministic-test-suite-for-multi-step-car-rental-quote-engine
 	url = https://github.com/eaglepointAiLabs/awjtq1-deterministic-test-suite-for-multi-step-car-rental-quote-engine.git
+
+[submodule "oazbzk-go-priority-work-queue"]
+	path = oazbzk-go-priority-work-queue
+	url = https://github.com/eaglepointAiLabs/oazbzk-go-priority-work-queue.git
