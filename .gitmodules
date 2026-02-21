@@ -2213,3 +2213,7 @@
 [submodule "cwneff-safe-sql-like-filter-engine-refactor"]
 	path = cwneff-safe-sql-like-filter-engine-refactor
 	url = https://github.com/eaglepointAiLabs/cwneff-safe-sql-like-filter-engine-refactor.git
+
+[submodule "5qpqfr-add-a-test-suit-for-an-internal-rule-evaluation-engine"]
+	path = 5qpqfr-add-a-test-suit-for-an-internal-rule-evaluation-engine
+	url = https://github.com/eaglepointAiLabs/5qpqfr-add-a-test-suit-for-an-internal-rule-evaluation-engine.git
