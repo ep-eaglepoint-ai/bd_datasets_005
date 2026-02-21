@@ -2197,3 +2197,7 @@
 [submodule "oazbzk-go-priority-work-queue"]
 	path = oazbzk-go-priority-work-queue
 	url = https://github.com/eaglepointAiLabs/oazbzk-go-priority-work-queue.git
+
+[submodule "wewiq4-implement-source-code-todo-scanner-utility"]
+	path = wewiq4-implement-source-code-todo-scanner-utility
+	url = https://github.com/eaglepointAiLabs/wewiq4-implement-source-code-todo-scanner-utility.git
