@@ -2233,3 +2233,7 @@
 [submodule "xl6xp3-spring-cursor-pagination-refactoring"]
 	path = xl6xp3-spring-cursor-pagination-refactoring
 	url = https://github.com/eaglepointAiLabs/xl6xp3-spring-cursor-pagination-refactoring.git
+
+[submodule "4uf2gj-improve-the-performance-of-a-document-indexing-service"]
+	path = 4uf2gj-improve-the-performance-of-a-document-indexing-service
+	url = https://github.com/eaglepointAiLabs/4uf2gj-improve-the-performance-of-a-document-indexing-service.git
