@@ -2181,3 +2181,7 @@
 [submodule "bqknf6-warehouse-robotics-fulfillment-simulation-engine"]
 	path = bqknf6-warehouse-robotics-fulfillment-simulation-engine
 	url = https://github.com/eaglepointAiLabs/bqknf6-warehouse-robotics-fulfillment-simulation-engine.git
+
+[submodule "coljws-optimize-templaterenderer"]
+	path = coljws-optimize-templaterenderer
+	url = https://github.com/eaglepointAiLabs/coljws-optimize-templaterenderer.git
