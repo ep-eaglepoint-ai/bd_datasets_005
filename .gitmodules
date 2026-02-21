@@ -2205,3 +2205,7 @@
 [submodule "cywe64-implement-entropy-aware-secret-scanning-engine"]
 	path = cywe64-implement-entropy-aware-secret-scanning-engine
 	url = https://github.com/eaglepointAiLabs/cywe64-implement-entropy-aware-secret-scanning-engine.git
+
+[submodule "44ftsv-fastapi-cache-thundering-herd-fix"]
+	path = 44ftsv-fastapi-cache-thundering-herd-fix
+	url = https://github.com/eaglepointAiLabs/44ftsv-fastapi-cache-thundering-herd-fix.git
