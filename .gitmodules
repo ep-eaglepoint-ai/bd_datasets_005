@@ -2257,3 +2257,7 @@
 [submodule "t9eclr-cooperative-wait-ticket-limiter-tests"]
 	path = t9eclr-cooperative-wait-ticket-limiter-tests
 	url = https://github.com/eaglepointAiLabs/t9eclr-cooperative-wait-ticket-limiter-tests.git
+
+[submodule "9ga33h-absolute-order-event-reconciler-tests"]
+	path = 9ga33h-absolute-order-event-reconciler-tests
+	url = https://github.com/eaglepointAiLabs/9ga33h-absolute-order-event-reconciler-tests.git
