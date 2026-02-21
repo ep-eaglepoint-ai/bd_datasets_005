@@ -2221,3 +2221,7 @@
 [submodule "qhd3f4-extend-the-wallet-transaction-ledger-servic"]
 	path = qhd3f4-extend-the-wallet-transaction-ledger-servic
 	url = https://github.com/eaglepointAiLabs/qhd3f4-extend-the-wallet-transaction-ledger-servic.git
+
+[submodule "d0ta5t-multi-key-sorting-utility-for-student-enrollment-records"]
+	path = d0ta5t-multi-key-sorting-utility-for-student-enrollment-records
+	url = https://github.com/eaglepointAiLabs/d0ta5t-multi-key-sorting-utility-for-student-enrollment-records.git
