@@ -2253,3 +2253,7 @@
 [submodule "25etz4-null-safe-name-formatting"]
 	path = 25etz4-null-safe-name-formatting
 	url = https://github.com/eaglepointAiLabs/25etz4-null-safe-name-formatting.git
+
+[submodule "t9eclr-cooperative-wait-ticket-limiter-tests"]
+	path = t9eclr-cooperative-wait-ticket-limiter-tests
+	url = https://github.com/eaglepointAiLabs/t9eclr-cooperative-wait-ticket-limiter-tests.git
