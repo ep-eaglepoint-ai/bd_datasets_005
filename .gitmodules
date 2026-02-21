@@ -2249,3 +2249,7 @@
 [submodule "koijxi-shipping-boundary-analysis-testing"]
 	path = koijxi-shipping-boundary-analysis-testing
 	url = https://github.com/eaglepointAiLabs/koijxi-shipping-boundary-analysis-testing.git
+
+[submodule "25etz4-null-safe-name-formatting"]
+	path = 25etz4-null-safe-name-formatting
+	url = https://github.com/eaglepointAiLabs/25etz4-null-safe-name-formatting.git
