@@ -2209,3 +2209,7 @@
 [submodule "44ftsv-fastapi-cache-thundering-herd-fix"]
 	path = 44ftsv-fastapi-cache-thundering-herd-fix
 	url = https://github.com/eaglepointAiLabs/44ftsv-fastapi-cache-thundering-herd-fix.git
+
+[submodule "cwneff-safe-sql-like-filter-engine-refactor"]
+	path = cwneff-safe-sql-like-filter-engine-refactor
+	url = https://github.com/eaglepointAiLabs/cwneff-safe-sql-like-filter-engine-refactor.git
