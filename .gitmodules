@@ -2177,3 +2177,7 @@
 [submodule "ky0qg9-railway-freight-profit-optimization-simulator"]
 	path = ky0qg9-railway-freight-profit-optimization-simulator
 	url = https://github.com/eaglepointAiLabs/ky0qg9-railway-freight-profit-optimization-simulator.git
+
+[submodule "bqknf6-warehouse-robotics-fulfillment-simulation-engine"]
+	path = bqknf6-warehouse-robotics-fulfillment-simulation-engine
+	url = https://github.com/eaglepointAiLabs/bqknf6-warehouse-robotics-fulfillment-simulation-engine.git
