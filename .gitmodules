@@ -2165,3 +2165,7 @@
 [submodule "0ucbzp-traffic-signal-simulation-code-optimization-and-refactoring-task"]
 	path = 0ucbzp-traffic-signal-simulation-code-optimization-and-refactoring-task
 	url = https://github.com/eaglepointAiLabs/0ucbzp-traffic-signal-simulation-code-optimization-and-refactoring-task.git
+
+[submodule "ohb339-urban-traffic-signal-optimization-simulator-hourly-green-time-minimization"]
+	path = ohb339-urban-traffic-signal-optimization-simulator-hourly-green-time-minimization
+	url = https://github.com/eaglepointAiLabs/ohb339-urban-traffic-signal-optimization-simulator-hourly-green-time-minimization.git
