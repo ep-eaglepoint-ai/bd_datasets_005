@@ -2189,3 +2189,7 @@
 [submodule "z6byxj-optimize-idvalidator-for-linear-time-duplicate-detection"]
 	path = z6byxj-optimize-idvalidator-for-linear-time-duplicate-detection
 	url = https://github.com/eaglepointAiLabs/z6byxj-optimize-idvalidator-for-linear-time-duplicate-detection.git
+
+[submodule "awjtq1-deterministic-test-suite-for-multi-step-car-rental-quote-engine"]
+	path = awjtq1-deterministic-test-suite-for-multi-step-car-rental-quote-engine
+	url = https://github.com/eaglepointAiLabs/awjtq1-deterministic-test-suite-for-multi-step-car-rental-quote-engine.git
