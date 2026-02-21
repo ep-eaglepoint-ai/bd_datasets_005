@@ -2169,3 +2169,7 @@
 [submodule "ohb339-urban-traffic-signal-optimization-simulator-hourly-green-time-minimization"]
 	path = ohb339-urban-traffic-signal-optimization-simulator-hourly-green-time-minimization
 	url = https://github.com/eaglepointAiLabs/ohb339-urban-traffic-signal-optimization-simulator-hourly-green-time-minimization.git
+
+[submodule "k6g3br-railway-simulation-code-optimization-task"]
+	path = k6g3br-railway-simulation-code-optimization-task
+	url = https://github.com/eaglepointAiLabs/k6g3br-railway-simulation-code-optimization-task.git
