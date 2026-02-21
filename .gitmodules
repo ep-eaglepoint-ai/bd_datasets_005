@@ -2241,3 +2241,7 @@
 [submodule "sx0qkj-refactore-a-policy-evaluation-engine"]
 	path = sx0qkj-refactore-a-policy-evaluation-engine
 	url = https://github.com/eaglepointAiLabs/sx0qkj-refactore-a-policy-evaluation-engine.git
+
+[submodule "vdpzb9-token-bucket-rate-limit"]
+	path = vdpzb9-token-bucket-rate-limit
+	url = https://github.com/eaglepointAiLabs/vdpzb9-token-bucket-rate-limit.git
