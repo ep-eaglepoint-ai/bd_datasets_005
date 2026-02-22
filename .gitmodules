@@ -2313,3 +2313,7 @@
 [submodule "j7fih5-weighted-scoring-deterministic-ranking-validation-suite"]
 	path = j7fih5-weighted-scoring-deterministic-ranking-validation-suite
 	url = https://github.com/eaglepointAiLabs/j7fih5-weighted-scoring-deterministic-ranking-validation-suite.git
+
+[submodule "svxewh-nearby-almost-duplicate-finder"]
+	path = svxewh-nearby-almost-duplicate-finder
+	url = https://github.com/eaglepointAiLabs/svxewh-nearby-almost-duplicate-finder.git
