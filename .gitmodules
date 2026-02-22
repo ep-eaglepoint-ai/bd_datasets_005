@@ -2325,3 +2325,7 @@
 [submodule "yw43tn-task-manager"]
 	path = yw43tn-task-manager
 	url = https://github.com/eaglepointAiLabs/yw43tn-task-manager.git
+
+[submodule "jvqwm2-shipment-orchestration-concurrency-test-suite"]
+	path = jvqwm2-shipment-orchestration-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/jvqwm2-shipment-orchestration-concurrency-test-suite.git
