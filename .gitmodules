@@ -2341,3 +2341,7 @@
 [submodule "264v9h-html-sanitizer-security-assessment"]
 	path = 264v9h-html-sanitizer-security-assessment
 	url = https://github.com/eaglepointAiLabs/264v9h-html-sanitizer-security-assessment.git
+
+[submodule "az9x6l-unified-regional-string-validation"]
+	path = az9x6l-unified-regional-string-validation
+	url = https://github.com/eaglepointAiLabs/az9x6l-unified-regional-string-validation.git
