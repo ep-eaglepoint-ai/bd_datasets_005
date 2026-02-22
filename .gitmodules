@@ -2345,3 +2345,7 @@
 [submodule "az9x6l-unified-regional-string-validation"]
 	path = az9x6l-unified-regional-string-validation
 	url = https://github.com/eaglepointAiLabs/az9x6l-unified-regional-string-validation.git
+
+[submodule "4faphl-concurrent-order-processing-tests"]
+	path = 4faphl-concurrent-order-processing-tests
+	url = https://github.com/eaglepointAiLabs/4faphl-concurrent-order-processing-tests.git
