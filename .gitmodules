@@ -2369,3 +2369,7 @@
 [submodule "ibkkdm-flutter-search-input-debouncing"]
 	path = ibkkdm-flutter-search-input-debouncing
 	url = https://github.com/eaglepointAiLabs/ibkkdm-flutter-search-input-debouncing.git
+
+[submodule "ij7hul-deterministic-exactly-once-background-task-processor-tests"]
+	path = ij7hul-deterministic-exactly-once-background-task-processor-tests
+	url = https://github.com/eaglepointAiLabs/ij7hul-deterministic-exactly-once-background-task-processor-tests.git
