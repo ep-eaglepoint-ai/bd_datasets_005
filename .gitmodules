@@ -2397,3 +2397,7 @@
 [submodule "i6yrjb-fids-concurrency-bug-detection-test-suite"]
 	path = i6yrjb-fids-concurrency-bug-detection-test-suite
 	url = https://github.com/eaglepointAiLabs/i6yrjb-fids-concurrency-bug-detection-test-suite.git
+
+[submodule "6f663p-deterministic-test-suite-for-ticket-reservation-engine-concurrency-bugs"]
+	path = 6f663p-deterministic-test-suite-for-ticket-reservation-engine-concurrency-bugs
+	url = https://github.com/eaglepointAiLabs/6f663p-deterministic-test-suite-for-ticket-reservation-engine-concurrency-bugs.git
