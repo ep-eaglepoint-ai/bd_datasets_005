@@ -2305,3 +2305,7 @@
 [submodule "mmiw4l-ttl-cache"]
 	path = mmiw4l-ttl-cache
 	url = https://github.com/eaglepointAiLabs/mmiw4l-ttl-cache.git
+
+[submodule "pwpvcv-concatenated-words-substring-finder"]
+	path = pwpvcv-concatenated-words-substring-finder
+	url = https://github.com/eaglepointAiLabs/pwpvcv-concatenated-words-substring-finder.git
