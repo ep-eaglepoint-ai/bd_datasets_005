@@ -2337,3 +2337,7 @@
 [submodule "15uib3-consistent-hashing-with-virtual-nodes"]
 	path = 15uib3-consistent-hashing-with-virtual-nodes
 	url = https://github.com/eaglepointAiLabs/15uib3-consistent-hashing-with-virtual-nodes.git
+
+[submodule "264v9h-html-sanitizer-security-assessment"]
+	path = 264v9h-html-sanitizer-security-assessment
+	url = https://github.com/eaglepointAiLabs/264v9h-html-sanitizer-security-assessment.git
