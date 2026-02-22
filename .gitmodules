@@ -2329,3 +2329,7 @@
 [submodule "jvqwm2-shipment-orchestration-concurrency-test-suite"]
 	path = jvqwm2-shipment-orchestration-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/jvqwm2-shipment-orchestration-concurrency-test-suite.git
+
+[submodule "c7tbp6-high-throughput-iot-event-aggregation-with-state-hysteresis"]
+	path = c7tbp6-high-throughput-iot-event-aggregation-with-state-hysteresis
+	url = https://github.com/eaglepointAiLabs/c7tbp6-high-throughput-iot-event-aggregation-with-state-hysteresis.git
