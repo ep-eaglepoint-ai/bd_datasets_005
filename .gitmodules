@@ -2281,3 +2281,7 @@
 [submodule "inywvk-monolithic-notification-service"]
 	path = inywvk-monolithic-notification-service
 	url = https://github.com/eaglepointAiLabs/inywvk-monolithic-notification-service.git
+
+[submodule "u0x2ny-extensible-shipment-tracking-module"]
+	path = u0x2ny-extensible-shipment-tracking-module
+	url = https://github.com/eaglepointAiLabs/u0x2ny-extensible-shipment-tracking-module.git
