@@ -2293,3 +2293,7 @@
 [submodule "c159nv-python-html-parser"]
 	path = c159nv-python-html-parser
 	url = https://github.com/eaglepointAiLabs/c159nv-python-html-parser.git
+
+[submodule "j8cw32-shortest-valid-mutation-pathways-finder"]
+	path = j8cw32-shortest-valid-mutation-pathways-finder
+	url = https://github.com/eaglepointAiLabs/j8cw32-shortest-valid-mutation-pathways-finder.git
