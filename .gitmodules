@@ -2277,3 +2277,7 @@
 [submodule "2ccyr7-order-processing-refactor"]
 	path = 2ccyr7-order-processing-refactor
 	url = https://github.com/eaglepointAiLabs/2ccyr7-order-processing-refactor.git
+
+[submodule "inywvk-monolithic-notification-service"]
+	path = inywvk-monolithic-notification-service
+	url = https://github.com/eaglepointAiLabs/inywvk-monolithic-notification-service.git
