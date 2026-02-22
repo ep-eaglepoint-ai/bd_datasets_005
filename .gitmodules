@@ -2381,3 +2381,7 @@
 [submodule "o75613-deterministic-concurrent-task-runner-tests"]
 	path = o75613-deterministic-concurrent-task-runner-tests
 	url = https://github.com/eaglepointAiLabs/o75613-deterministic-concurrent-task-runner-tests.git
+
+[submodule "7nugqj-deterministic-test-suite-for-music-streaming-session-licensing-and-analytics"]
+	path = 7nugqj-deterministic-test-suite-for-music-streaming-session-licensing-and-analytics
+	url = https://github.com/eaglepointAiLabs/7nugqj-deterministic-test-suite-for-music-streaming-session-licensing-and-analytics.git
