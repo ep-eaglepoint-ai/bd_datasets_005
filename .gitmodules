@@ -2353,3 +2353,7 @@
 [submodule "3wl1tm-streaming-socket-file-upload"]
 	path = 3wl1tm-streaming-socket-file-upload
 	url = https://github.com/eaglepointAiLabs/3wl1tm-streaming-socket-file-upload.git
+
+[submodule "xoprms-coroutine-concurrent-profile-fetching"]
+	path = xoprms-coroutine-concurrent-profile-fetching
+	url = https://github.com/eaglepointAiLabs/xoprms-coroutine-concurrent-profile-fetching.git
