@@ -2321,3 +2321,7 @@
 [submodule "bvdm7u-high-performance-utility-billing"]
 	path = bvdm7u-high-performance-utility-billing
 	url = https://github.com/eaglepointAiLabs/bvdm7u-high-performance-utility-billing.git
+
+[submodule "yw43tn-task-manager"]
+	path = yw43tn-task-manager
+	url = https://github.com/eaglepointAiLabs/yw43tn-task-manager.git
