@@ -2373,3 +2373,7 @@
 [submodule "ij7hul-deterministic-exactly-once-background-task-processor-tests"]
 	path = ij7hul-deterministic-exactly-once-background-task-processor-tests
 	url = https://github.com/eaglepointAiLabs/ij7hul-deterministic-exactly-once-background-task-processor-tests.git
+
+[submodule "p2octd-deterministic-tests-for-concurrent-ride-matching-engine"]
+	path = p2octd-deterministic-tests-for-concurrent-ride-matching-engine
+	url = https://github.com/eaglepointAiLabs/p2octd-deterministic-tests-for-concurrent-ride-matching-engine.git
