@@ -2349,3 +2349,7 @@
 [submodule "4faphl-concurrent-order-processing-tests"]
 	path = 4faphl-concurrent-order-processing-tests
 	url = https://github.com/eaglepointAiLabs/4faphl-concurrent-order-processing-tests.git
+
+[submodule "3wl1tm-streaming-socket-file-upload"]
+	path = 3wl1tm-streaming-socket-file-upload
+	url = https://github.com/eaglepointAiLabs/3wl1tm-streaming-socket-file-upload.git
