@@ -2301,3 +2301,7 @@
 [submodule "oh9u6g-rate-limiting-utility"]
 	path = oh9u6g-rate-limiting-utility
 	url = https://github.com/eaglepointAiLabs/oh9u6g-rate-limiting-utility.git
+
+[submodule "mmiw4l-ttl-cache"]
+	path = mmiw4l-ttl-cache
+	url = https://github.com/eaglepointAiLabs/mmiw4l-ttl-cache.git
