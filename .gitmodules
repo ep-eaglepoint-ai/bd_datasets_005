@@ -2401,3 +2401,7 @@
 [submodule "6f663p-deterministic-test-suite-for-ticket-reservation-engine-concurrency-bugs"]
 	path = 6f663p-deterministic-test-suite-for-ticket-reservation-engine-concurrency-bugs
 	url = https://github.com/eaglepointAiLabs/6f663p-deterministic-test-suite-for-ticket-reservation-engine-concurrency-bugs.git
+
+[submodule "gfxa8o-deterministic-concurrency-test-suite-for-bank-queue-with-requeueing-and-shutdown"]
+	path = gfxa8o-deterministic-concurrency-test-suite-for-bank-queue-with-requeueing-and-shutdown
+	url = https://github.com/eaglepointAiLabs/gfxa8o-deterministic-concurrency-test-suite-for-bank-queue-with-requeueing-and-shutdown.git
