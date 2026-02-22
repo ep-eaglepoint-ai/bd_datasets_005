@@ -2377,3 +2377,7 @@
 [submodule "p2octd-deterministic-tests-for-concurrent-ride-matching-engine"]
 	path = p2octd-deterministic-tests-for-concurrent-ride-matching-engine
 	url = https://github.com/eaglepointAiLabs/p2octd-deterministic-tests-for-concurrent-ride-matching-engine.git
+
+[submodule "o75613-deterministic-concurrent-task-runner-tests"]
+	path = o75613-deterministic-concurrent-task-runner-tests
+	url = https://github.com/eaglepointAiLabs/o75613-deterministic-concurrent-task-runner-tests.git
