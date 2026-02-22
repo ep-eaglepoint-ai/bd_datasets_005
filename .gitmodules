@@ -2361,3 +2361,7 @@
 [submodule "y8cy8v-concurrent-atomicity-tests-for-video-engagement-sequencer"]
 	path = y8cy8v-concurrent-atomicity-tests-for-video-engagement-sequencer
 	url = https://github.com/eaglepointAiLabs/y8cy8v-concurrent-atomicity-tests-for-video-engagement-sequencer.git
+
+[submodule "i3oo7x-complexity-membership-filtering"]
+	path = i3oo7x-complexity-membership-filtering
+	url = https://github.com/eaglepointAiLabs/i3oo7x-complexity-membership-filtering.git
