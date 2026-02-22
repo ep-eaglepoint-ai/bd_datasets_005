@@ -2385,3 +2385,7 @@
 [submodule "7nugqj-deterministic-test-suite-for-music-streaming-session-licensing-and-analytics"]
 	path = 7nugqj-deterministic-test-suite-for-music-streaming-session-licensing-and-analytics
 	url = https://github.com/eaglepointAiLabs/7nugqj-deterministic-test-suite-for-music-streaming-session-licensing-and-analytics.git
+
+[submodule "bz5frw-lobbyjoincoordinator-for-real-time-betting-lobbies"]
+	path = bz5frw-lobbyjoincoordinator-for-real-time-betting-lobbies
+	url = https://github.com/eaglepointAiLabs/bz5frw-lobbyjoincoordinator-for-real-time-betting-lobbies.git
