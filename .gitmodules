@@ -2309,3 +2309,7 @@
 [submodule "pwpvcv-concatenated-words-substring-finder"]
 	path = pwpvcv-concatenated-words-substring-finder
 	url = https://github.com/eaglepointAiLabs/pwpvcv-concatenated-words-substring-finder.git
+
+[submodule "j7fih5-weighted-scoring-deterministic-ranking-validation-suite"]
+	path = j7fih5-weighted-scoring-deterministic-ranking-validation-suite
+	url = https://github.com/eaglepointAiLabs/j7fih5-weighted-scoring-deterministic-ranking-validation-suite.git
