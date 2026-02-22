@@ -2273,3 +2273,7 @@
 [submodule "m4f6qf-sts-prepaid-token-generator-with-idempotency-luhn-validation"]
 	path = m4f6qf-sts-prepaid-token-generator-with-idempotency-luhn-validation
 	url = https://github.com/eaglepointAiLabs/m4f6qf-sts-prepaid-token-generator-with-idempotency-luhn-validation.git
+
+[submodule "2ccyr7-order-processing-refactor"]
+	path = 2ccyr7-order-processing-refactor
+	url = https://github.com/eaglepointAiLabs/2ccyr7-order-processing-refactor.git
