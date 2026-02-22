@@ -2333,3 +2333,7 @@
 [submodule "c7tbp6-high-throughput-iot-event-aggregation-with-state-hysteresis"]
 	path = c7tbp6-high-throughput-iot-event-aggregation-with-state-hysteresis
 	url = https://github.com/eaglepointAiLabs/c7tbp6-high-throughput-iot-event-aggregation-with-state-hysteresis.git
+
+[submodule "15uib3-consistent-hashing-with-virtual-nodes"]
+	path = 15uib3-consistent-hashing-with-virtual-nodes
+	url = https://github.com/eaglepointAiLabs/15uib3-consistent-hashing-with-virtual-nodes.git
