@@ -2317,3 +2317,7 @@
 [submodule "svxewh-nearby-almost-duplicate-finder"]
 	path = svxewh-nearby-almost-duplicate-finder
 	url = https://github.com/eaglepointAiLabs/svxewh-nearby-almost-duplicate-finder.git
+
+[submodule "bvdm7u-high-performance-utility-billing"]
+	path = bvdm7u-high-performance-utility-billing
+	url = https://github.com/eaglepointAiLabs/bvdm7u-high-performance-utility-billing.git
