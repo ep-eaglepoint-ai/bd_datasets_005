@@ -2357,3 +2357,7 @@
 [submodule "xoprms-coroutine-concurrent-profile-fetching"]
 	path = xoprms-coroutine-concurrent-profile-fetching
 	url = https://github.com/eaglepointAiLabs/xoprms-coroutine-concurrent-profile-fetching.git
+
+[submodule "y8cy8v-concurrent-atomicity-tests-for-video-engagement-sequencer"]
+	path = y8cy8v-concurrent-atomicity-tests-for-video-engagement-sequencer
+	url = https://github.com/eaglepointAiLabs/y8cy8v-concurrent-atomicity-tests-for-video-engagement-sequencer.git
