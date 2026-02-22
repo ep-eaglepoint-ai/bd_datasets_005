@@ -2389,3 +2389,7 @@
 [submodule "bz5frw-lobbyjoincoordinator-for-real-time-betting-lobbies"]
 	path = bz5frw-lobbyjoincoordinator-for-real-time-betting-lobbies
 	url = https://github.com/eaglepointAiLabs/bz5frw-lobbyjoincoordinator-for-real-time-betting-lobbies.git
+
+[submodule "bzw2p4-optimize-betmatchingengine-for-high-concurrency-betting-platform"]
+	path = bzw2p4-optimize-betmatchingengine-for-high-concurrency-betting-platform
+	url = https://github.com/eaglepointAiLabs/bzw2p4-optimize-betmatchingengine-for-high-concurrency-betting-platform.git
