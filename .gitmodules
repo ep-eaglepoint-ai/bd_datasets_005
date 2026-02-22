@@ -2365,3 +2365,7 @@
 [submodule "i3oo7x-complexity-membership-filtering"]
 	path = i3oo7x-complexity-membership-filtering
 	url = https://github.com/eaglepointAiLabs/i3oo7x-complexity-membership-filtering.git
+
+[submodule "ibkkdm-flutter-search-input-debouncing"]
+	path = ibkkdm-flutter-search-input-debouncing
+	url = https://github.com/eaglepointAiLabs/ibkkdm-flutter-search-input-debouncing.git
