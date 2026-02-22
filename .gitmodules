@@ -2393,3 +2393,7 @@
 [submodule "bzw2p4-optimize-betmatchingengine-for-high-concurrency-betting-platform"]
 	path = bzw2p4-optimize-betmatchingengine-for-high-concurrency-betting-platform
 	url = https://github.com/eaglepointAiLabs/bzw2p4-optimize-betmatchingengine-for-high-concurrency-betting-platform.git
+
+[submodule "i6yrjb-fids-concurrency-bug-detection-test-suite"]
+	path = i6yrjb-fids-concurrency-bug-detection-test-suite
+	url = https://github.com/eaglepointAiLabs/i6yrjb-fids-concurrency-bug-detection-test-suite.git
