@@ -2537,3 +2537,7 @@
 [submodule "xefpw0-deterministic-library-hold-fulfillment-scheduler"]
 	path = xefpw0-deterministic-library-hold-fulfillment-scheduler
 	url = https://github.com/eaglepointAiLabs/xefpw0-deterministic-library-hold-fulfillment-scheduler.git
+
+[submodule "aus4y3-promise-chain-to-async-await-refactoring"]
+	path = aus4y3-promise-chain-to-async-await-refactoring
+	url = https://github.com/eaglepointAiLabs/aus4y3-promise-chain-to-async-await-refactoring.git
