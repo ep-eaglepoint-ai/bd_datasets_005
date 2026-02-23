@@ -2509,3 +2509,7 @@
 [submodule "n3urd1-industrial-boiler-fuel-switching-optimization-python-implementation"]
 	path = n3urd1-industrial-boiler-fuel-switching-optimization-python-implementation
 	url = https://github.com/eaglepointAiLabs/n3urd1-industrial-boiler-fuel-switching-optimization-python-implementation.git
+
+[submodule "pydniz-improve-the-performance-of-an-internal-log-analytics-service"]
+	path = pydniz-improve-the-performance-of-an-internal-log-analytics-service
+	url = https://github.com/eaglepointAiLabs/pydniz-improve-the-performance-of-an-internal-log-analytics-service.git
