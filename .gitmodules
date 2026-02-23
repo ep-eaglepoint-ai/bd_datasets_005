@@ -2489,3 +2489,7 @@
 [submodule "6z67vy-implement-async-wildcard-event-broker"]
 	path = 6z67vy-implement-async-wildcard-event-broker
 	url = https://github.com/eaglepointAiLabs/6z67vy-implement-async-wildcard-event-broker.git
+
+[submodule "uzgiqh-go-struct-validator-test-suite"]
+	path = uzgiqh-go-struct-validator-test-suite
+	url = https://github.com/eaglepointAiLabs/uzgiqh-go-struct-validator-test-suite.git
