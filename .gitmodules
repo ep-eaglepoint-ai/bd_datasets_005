@@ -2697,3 +2697,7 @@
 [submodule "3czo5z-type-safe-preference-wrapper"]
 	path = 3czo5z-type-safe-preference-wrapper
 	url = https://github.com/eaglepointAiLabs/3czo5z-type-safe-preference-wrapper.git
+
+[submodule "n6zbny-async-io-fencing-token-guard"]
+	path = n6zbny-async-io-fencing-token-guard
+	url = https://github.com/eaglepointAiLabs/n6zbny-async-io-fencing-token-guard.git
