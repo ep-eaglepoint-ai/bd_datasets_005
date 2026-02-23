@@ -2413,3 +2413,7 @@
 [submodule "oh7ux8-cli-argument-parser-with-subcommands"]
 	path = oh7ux8-cli-argument-parser-with-subcommands
 	url = https://github.com/eaglepointAiLabs/oh7ux8-cli-argument-parser-with-subcommands.git
+
+[submodule "aa6fnq-http-client-connection-pool-leak-fix"]
+	path = aa6fnq-http-client-connection-pool-leak-fix
+	url = https://github.com/eaglepointAiLabs/aa6fnq-http-client-connection-pool-leak-fix.git
