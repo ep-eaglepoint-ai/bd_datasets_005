@@ -2565,3 +2565,7 @@
 [submodule "hgokkk-refactor-legacy-config-parser-into-robust-configregistry"]
 	path = hgokkk-refactor-legacy-config-parser-into-robust-configregistry
 	url = https://github.com/eaglepointAiLabs/hgokkk-refactor-legacy-config-parser-into-robust-configregistry.git
+
+[submodule "m5hhvw-bulk-inventory-reconciliatiom"]
+	path = m5hhvw-bulk-inventory-reconciliatiom
+	url = https://github.com/eaglepointAiLabs/m5hhvw-bulk-inventory-reconciliatiom.git
