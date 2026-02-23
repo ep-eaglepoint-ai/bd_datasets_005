@@ -2601,3 +2601,7 @@
 [submodule "5kctoc-linear-regiression-implementation"]
 	path = 5kctoc-linear-regiression-implementation
 	url = https://github.com/eaglepointAiLabs/5kctoc-linear-regiression-implementation.git
+
+[submodule "zyuw0w-cursor-based-pagination-engine-for-legal-case-events"]
+	path = zyuw0w-cursor-based-pagination-engine-for-legal-case-events
+	url = https://github.com/eaglepointAiLabs/zyuw0w-cursor-based-pagination-engine-for-legal-case-events.git
