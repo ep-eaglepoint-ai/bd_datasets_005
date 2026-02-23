@@ -2605,3 +2605,7 @@
 [submodule "zyuw0w-cursor-based-pagination-engine-for-legal-case-events"]
 	path = zyuw0w-cursor-based-pagination-engine-for-legal-case-events
 	url = https://github.com/eaglepointAiLabs/zyuw0w-cursor-based-pagination-engine-for-legal-case-events.git
+
+[submodule "idlfx5-extend-a-community-time-capsule-messaging-service"]
+	path = idlfx5-extend-a-community-time-capsule-messaging-service
+	url = https://github.com/eaglepointAiLabs/idlfx5-extend-a-community-time-capsule-messaging-service.git
