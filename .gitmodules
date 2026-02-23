@@ -2513,3 +2513,7 @@
 [submodule "pydniz-improve-the-performance-of-an-internal-log-analytics-service"]
 	path = pydniz-improve-the-performance-of-an-internal-log-analytics-service
 	url = https://github.com/eaglepointAiLabs/pydniz-improve-the-performance-of-an-internal-log-analytics-service.git
+
+[submodule "m5lctz-airport-runway-scheduling-and-delay-management-system"]
+	path = m5lctz-airport-runway-scheduling-and-delay-management-system
+	url = https://github.com/eaglepointAiLabs/m5lctz-airport-runway-scheduling-and-delay-management-system.git
