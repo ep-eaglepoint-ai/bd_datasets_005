@@ -2665,3 +2665,7 @@
 [submodule "df5pi0-hierarchical-bit-vector-access-auditor-tests"]
 	path = df5pi0-hierarchical-bit-vector-access-auditor-tests
 	url = https://github.com/eaglepointAiLabs/df5pi0-hierarchical-bit-vector-access-auditor-tests.git
+
+[submodule "wuofdr-deterministic-sequence-clock-sync-hlc"]
+	path = wuofdr-deterministic-sequence-clock-sync-hlc
+	url = https://github.com/eaglepointAiLabs/wuofdr-deterministic-sequence-clock-sync-hlc.git
