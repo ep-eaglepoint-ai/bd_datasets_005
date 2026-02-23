@@ -2493,3 +2493,7 @@
 [submodule "uzgiqh-go-struct-validator-test-suite"]
 	path = uzgiqh-go-struct-validator-test-suite
 	url = https://github.com/eaglepointAiLabs/uzgiqh-go-struct-validator-test-suite.git
+
+[submodule "4952le-optimization-of-cement-plant-kiln-scheduling-and-cost-minimization-system-in-python"]
+	path = 4952le-optimization-of-cement-plant-kiln-scheduling-and-cost-minimization-system-in-python
+	url = https://github.com/eaglepointAiLabs/4952le-optimization-of-cement-plant-kiln-scheduling-and-cost-minimization-system-in-python.git
