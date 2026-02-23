@@ -2641,3 +2641,7 @@
 [submodule "wh15o0-cancellation-safe-telemedicine-prescription-pipeline-refactor"]
 	path = wh15o0-cancellation-safe-telemedicine-prescription-pipeline-refactor
 	url = https://github.com/eaglepointAiLabs/wh15o0-cancellation-safe-telemedicine-prescription-pipeline-refactor.git
+
+[submodule "e2xl2l-deterministic-test-suite-for-nft-marketplace-with-concurrent-fixed-price-sales"]
+	path = e2xl2l-deterministic-test-suite-for-nft-marketplace-with-concurrent-fixed-price-sales
+	url = https://github.com/eaglepointAiLabs/e2xl2l-deterministic-test-suite-for-nft-marketplace-with-concurrent-fixed-price-sales.git
