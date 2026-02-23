@@ -2545,3 +2545,7 @@
 [submodule "pbdl5z-sliding-window-rate-limiter-test-suite-with-time-mocking"]
 	path = pbdl5z-sliding-window-rate-limiter-test-suite-with-time-mocking
 	url = https://github.com/eaglepointAiLabs/pbdl5z-sliding-window-rate-limiter-test-suite-with-time-mocking.git
+
+[submodule "qgak41-reverse-linked-list-pc-offers"]
+	path = qgak41-reverse-linked-list-pc-offers
+	url = https://github.com/eaglepointAiLabs/qgak41-reverse-linked-list-pc-offers.git
