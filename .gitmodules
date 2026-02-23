@@ -2621,3 +2621,7 @@
 [submodule "3myjiw-optimizing-a-real-time-subtitle-synchronization-service"]
 	path = 3myjiw-optimizing-a-real-time-subtitle-synchronization-service
 	url = https://github.com/eaglepointAiLabs/3myjiw-optimizing-a-real-time-subtitle-synchronization-service.git
+
+[submodule "tly16y-production-grade-jest-test-suite-for-a-checkers-engine-with-mandatory-jumps-and-ai"]
+	path = tly16y-production-grade-jest-test-suite-for-a-checkers-engine-with-mandatory-jumps-and-ai
+	url = https://github.com/eaglepointAiLabs/tly16y-production-grade-jest-test-suite-for-a-checkers-engine-with-mandatory-jumps-and-ai.git
