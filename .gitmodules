@@ -2469,3 +2469,7 @@
 [submodule "qx8nad-refactore-a-digital-archival-system-for-a-historical-manuscript"]
 	path = qx8nad-refactore-a-digital-archival-system-for-a-historical-manuscript
 	url = https://github.com/eaglepointAiLabs/qx8nad-refactore-a-digital-archival-system-for-a-historical-manuscript.git
+
+[submodule "kqgqfd-implement-markdown-table-of-contents-generator"]
+	path = kqgqfd-implement-markdown-table-of-contents-generator
+	url = https://github.com/eaglepointAiLabs/kqgqfd-implement-markdown-table-of-contents-generator.git
