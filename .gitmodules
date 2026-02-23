@@ -2701,3 +2701,7 @@
 [submodule "n6zbny-async-io-fencing-token-guard"]
 	path = n6zbny-async-io-fencing-token-guard
 	url = https://github.com/eaglepointAiLabs/n6zbny-async-io-fencing-token-guard.git
+
+[submodule "dj7lmp-sub-sampling-metadata-rolling-window"]
+	path = dj7lmp-sub-sampling-metadata-rolling-window
+	url = https://github.com/eaglepointAiLabs/dj7lmp-sub-sampling-metadata-rolling-window.git
