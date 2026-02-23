@@ -2613,3 +2613,7 @@
 [submodule "9kfkup-two-phase-payment-logic-with-partial-release"]
 	path = 9kfkup-two-phase-payment-logic-with-partial-release
 	url = https://github.com/eaglepointAiLabs/9kfkup-two-phase-payment-logic-with-partial-release.git
+
+[submodule "i93b58-deterministic-test-suite-for-deadlock-and-thread-leak-in-a-data-dashboard-engine"]
+	path = i93b58-deterministic-test-suite-for-deadlock-and-thread-leak-in-a-data-dashboard-engine
+	url = https://github.com/eaglepointAiLabs/i93b58-deterministic-test-suite-for-deadlock-and-thread-leak-in-a-data-dashboard-engine.git
