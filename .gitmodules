@@ -2629,3 +2629,7 @@
 [submodule "jg801h-batch-reconciliation-engine-with-fee-logic"]
 	path = jg801h-batch-reconciliation-engine-with-fee-logic
 	url = https://github.com/eaglepointAiLabs/jg801h-batch-reconciliation-engine-with-fee-logic.git
+
+[submodule "9wq8an-split-transaction-loan-disbursement"]
+	path = 9wq8an-split-transaction-loan-disbursement
+	url = https://github.com/eaglepointAiLabs/9wq8an-split-transaction-loan-disbursement.git
