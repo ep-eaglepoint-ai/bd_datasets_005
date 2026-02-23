@@ -2637,3 +2637,7 @@
 [submodule "m5l9tq-extend-a-community-urban-gardening-coordination-platform"]
 	path = m5l9tq-extend-a-community-urban-gardening-coordination-platform
 	url = https://github.com/eaglepointAiLabs/m5l9tq-extend-a-community-urban-gardening-coordination-platform.git
+
+[submodule "wh15o0-cancellation-safe-telemedicine-prescription-pipeline-refactor"]
+	path = wh15o0-cancellation-safe-telemedicine-prescription-pipeline-refactor
+	url = https://github.com/eaglepointAiLabs/wh15o0-cancellation-safe-telemedicine-prescription-pipeline-refactor.git
