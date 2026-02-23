@@ -2525,3 +2525,7 @@
 [submodule "wchyhz-bidirectional-merchant-settlement-mapping-integrity-test-generation"]
 	path = wchyhz-bidirectional-merchant-settlement-mapping-integrity-test-generation
 	url = https://github.com/eaglepointAiLabs/wchyhz-bidirectional-merchant-settlement-mapping-integrity-test-generation.git
+
+[submodule "m5dsma-cement-kiln-scheduling-optimization-pyomo-milp-implementation"]
+	path = m5dsma-cement-kiln-scheduling-optimization-pyomo-milp-implementation
+	url = https://github.com/eaglepointAiLabs/m5dsma-cement-kiln-scheduling-optimization-pyomo-milp-implementation.git
