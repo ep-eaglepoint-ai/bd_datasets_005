@@ -2421,3 +2421,7 @@
 [submodule "s30yl2-sqlalchemy-bulk-upsert-race-condition-fix"]
 	path = s30yl2-sqlalchemy-bulk-upsert-race-condition-fix
 	url = https://github.com/eaglepointAiLabs/s30yl2-sqlalchemy-bulk-upsert-race-condition-fix.git
+
+[submodule "s7es5q-o-1-cancellation-priority-queue-refactor-for-driver-payout-system"]
+	path = s7es5q-o-1-cancellation-priority-queue-refactor-for-driver-payout-system
+	url = https://github.com/eaglepointAiLabs/s7es5q-o-1-cancellation-priority-queue-refactor-for-driver-payout-system.git
