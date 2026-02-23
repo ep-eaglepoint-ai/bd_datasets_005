@@ -2589,3 +2589,7 @@
 [submodule "pqt7lt-convo2d-implementation"]
 	path = pqt7lt-convo2d-implementation
 	url = https://github.com/eaglepointAiLabs/pqt7lt-convo2d-implementation.git
+
+[submodule "96b21f-activation-function-implementation"]
+	path = 96b21f-activation-function-implementation
+	url = https://github.com/eaglepointAiLabs/96b21f-activation-function-implementation.git
