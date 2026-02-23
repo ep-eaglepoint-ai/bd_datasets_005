@@ -2625,3 +2625,7 @@
 [submodule "tly16y-production-grade-jest-test-suite-for-a-checkers-engine-with-mandatory-jumps-and-ai"]
 	path = tly16y-production-grade-jest-test-suite-for-a-checkers-engine-with-mandatory-jumps-and-ai
 	url = https://github.com/eaglepointAiLabs/tly16y-production-grade-jest-test-suite-for-a-checkers-engine-with-mandatory-jumps-and-ai.git
+
+[submodule "jg801h-batch-reconciliation-engine-with-fee-logic"]
+	path = jg801h-batch-reconciliation-engine-with-fee-logic
+	url = https://github.com/eaglepointAiLabs/jg801h-batch-reconciliation-engine-with-fee-logic.git
