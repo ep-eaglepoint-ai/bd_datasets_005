@@ -2649,3 +2649,7 @@
 [submodule "25xaj0-cheque-lifecycle-management-with-dual-balance-ledger"]
 	path = 25xaj0-cheque-lifecycle-management-with-dual-balance-ledger
 	url = https://github.com/eaglepointAiLabs/25xaj0-cheque-lifecycle-management-with-dual-balance-ledger.git
+
+[submodule "sh1fci-vitest-test-suite-for-human-name-formatting-utility"]
+	path = sh1fci-vitest-test-suite-for-human-name-formatting-utility
+	url = https://github.com/eaglepointAiLabs/sh1fci-vitest-test-suite-for-human-name-formatting-utility.git
