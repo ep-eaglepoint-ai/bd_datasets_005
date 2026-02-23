@@ -2533,3 +2533,7 @@
 [submodule "zc6p5f-lng-storage-and-regasification-optimization-system"]
 	path = zc6p5f-lng-storage-and-regasification-optimization-system
 	url = https://github.com/eaglepointAiLabs/zc6p5f-lng-storage-and-regasification-optimization-system.git
+
+[submodule "xefpw0-deterministic-library-hold-fulfillment-scheduler"]
+	path = xefpw0-deterministic-library-hold-fulfillment-scheduler
+	url = https://github.com/eaglepointAiLabs/xefpw0-deterministic-library-hold-fulfillment-scheduler.git
