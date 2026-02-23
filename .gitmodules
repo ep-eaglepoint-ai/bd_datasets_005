@@ -2573,3 +2573,7 @@
 [submodule "bc2xqu-java-builder-pattern-extraction"]
 	path = bc2xqu-java-builder-pattern-extraction
 	url = https://github.com/eaglepointAiLabs/bc2xqu-java-builder-pattern-extraction.git
+
+[submodule "axtw3d-fraud-anomaly-detection-optimization"]
+	path = axtw3d-fraud-anomaly-detection-optimization
+	url = https://github.com/eaglepointAiLabs/axtw3d-fraud-anomaly-detection-optimization.git
