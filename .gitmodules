@@ -2609,3 +2609,7 @@
 [submodule "idlfx5-extend-a-community-time-capsule-messaging-service"]
 	path = idlfx5-extend-a-community-time-capsule-messaging-service
 	url = https://github.com/eaglepointAiLabs/idlfx5-extend-a-community-time-capsule-messaging-service.git
+
+[submodule "9kfkup-two-phase-payment-logic-with-partial-release"]
+	path = 9kfkup-two-phase-payment-logic-with-partial-release
+	url = https://github.com/eaglepointAiLabs/9kfkup-two-phase-payment-logic-with-partial-release.git
