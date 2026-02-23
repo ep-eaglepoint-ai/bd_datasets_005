@@ -2405,3 +2405,7 @@
 [submodule "gfxa8o-deterministic-concurrency-test-suite-for-bank-queue-with-requeueing-and-shutdown"]
 	path = gfxa8o-deterministic-concurrency-test-suite-for-bank-queue-with-requeueing-and-shutdown
 	url = https://github.com/eaglepointAiLabs/gfxa8o-deterministic-concurrency-test-suite-for-bank-queue-with-requeueing-and-shutdown.git
+
+[submodule "qcly1y-wildcard-event-emitter-implementation"]
+	path = qcly1y-wildcard-event-emitter-implementation
+	url = https://github.com/eaglepointAiLabs/qcly1y-wildcard-event-emitter-implementation.git
