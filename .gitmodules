@@ -2541,3 +2541,7 @@
 [submodule "aus4y3-promise-chain-to-async-await-refactoring"]
 	path = aus4y3-promise-chain-to-async-await-refactoring
 	url = https://github.com/eaglepointAiLabs/aus4y3-promise-chain-to-async-await-refactoring.git
+
+[submodule "pbdl5z-sliding-window-rate-limiter-test-suite-with-time-mocking"]
+	path = pbdl5z-sliding-window-rate-limiter-test-suite-with-time-mocking
+	url = https://github.com/eaglepointAiLabs/pbdl5z-sliding-window-rate-limiter-test-suite-with-time-mocking.git
