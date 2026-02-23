@@ -2553,3 +2553,7 @@
 [submodule "c7xzgq-password-policy-enforcer-comprehensive-test-suite"]
 	path = c7xzgq-password-policy-enforcer-comprehensive-test-suite
 	url = https://github.com/eaglepointAiLabs/c7xzgq-password-policy-enforcer-comprehensive-test-suite.git
+
+[submodule "sg5m4l-refactor-metadata-tag-extraction-to-robust-tagprocessor"]
+	path = sg5m4l-refactor-metadata-tag-extraction-to-robust-tagprocessor
+	url = https://github.com/eaglepointAiLabs/sg5m4l-refactor-metadata-tag-extraction-to-robust-tagprocessor.git
