@@ -2437,3 +2437,7 @@
 [submodule "usi4dk-fhdsdv-sdjf"]
 	path = usi4dk-fhdsdv-sdjf
 	url = https://github.com/eaglepointAiLabs/usi4dk-fhdsdv-sdjf.git
+
+[submodule "517k9r-concurrent-cache-deterministic-test-suite"]
+	path = 517k9r-concurrent-cache-deterministic-test-suite
+	url = https://github.com/eaglepointAiLabs/517k9r-concurrent-cache-deterministic-test-suite.git
