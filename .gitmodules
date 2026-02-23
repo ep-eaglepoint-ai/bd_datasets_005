@@ -2593,3 +2593,7 @@
 [submodule "96b21f-activation-function-implementation"]
 	path = 96b21f-activation-function-implementation
 	url = https://github.com/eaglepointAiLabs/96b21f-activation-function-implementation.git
+
+[submodule "kymbpr-maximum-profit-stock-implementation"]
+	path = kymbpr-maximum-profit-stock-implementation
+	url = https://github.com/eaglepointAiLabs/kymbpr-maximum-profit-stock-implementation.git
