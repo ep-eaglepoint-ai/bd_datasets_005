@@ -2505,3 +2505,7 @@
 [submodule "5hfi4v-optimizing-lng-storage-and-regasification-code-for-efficiency-and-readability"]
 	path = 5hfi4v-optimizing-lng-storage-and-regasification-code-for-efficiency-and-readability
 	url = https://github.com/eaglepointAiLabs/5hfi4v-optimizing-lng-storage-and-regasification-code-for-efficiency-and-readability.git
+
+[submodule "n3urd1-industrial-boiler-fuel-switching-optimization-python-implementation"]
+	path = n3urd1-industrial-boiler-fuel-switching-optimization-python-implementation
+	url = https://github.com/eaglepointAiLabs/n3urd1-industrial-boiler-fuel-switching-optimization-python-implementation.git
