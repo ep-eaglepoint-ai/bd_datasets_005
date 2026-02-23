@@ -2705,3 +2705,7 @@
 [submodule "dj7lmp-sub-sampling-metadata-rolling-window"]
 	path = dj7lmp-sub-sampling-metadata-rolling-window
 	url = https://github.com/eaglepointAiLabs/dj7lmp-sub-sampling-metadata-rolling-window.git
+
+[submodule "cnlcvp-streaming-header-sync-resynchronizer"]
+	path = cnlcvp-streaming-header-sync-resynchronizer
+	url = https://github.com/eaglepointAiLabs/cnlcvp-streaming-header-sync-resynchronizer.git
