@@ -2673,3 +2673,7 @@
 [submodule "ge3pcx-memory-page-aligned-slab-free-list"]
 	path = ge3pcx-memory-page-aligned-slab-free-list
 	url = https://github.com/eaglepointAiLabs/ge3pcx-memory-page-aligned-slab-free-list.git
+
+[submodule "d2goxv-frame-precise-shared-playback"]
+	path = d2goxv-frame-precise-shared-playback
+	url = https://github.com/eaglepointAiLabs/d2goxv-frame-precise-shared-playback.git
