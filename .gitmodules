@@ -2517,3 +2517,7 @@
 [submodule "m5lctz-airport-runway-scheduling-and-delay-management-system"]
 	path = m5lctz-airport-runway-scheduling-and-delay-management-system
 	url = https://github.com/eaglepointAiLabs/m5lctz-airport-runway-scheduling-and-delay-management-system.git
+
+[submodule "44gnh3-fastapi-dependency-injection-test-suite"]
+	path = 44gnh3-fastapi-dependency-injection-test-suite
+	url = https://github.com/eaglepointAiLabs/44gnh3-fastapi-dependency-injection-test-suite.git
