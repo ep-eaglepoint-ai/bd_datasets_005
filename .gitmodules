@@ -2485,3 +2485,7 @@
 [submodule "idbqqy-optimized-airport-runway-scheduler-efficiency-task"]
 	path = idbqqy-optimized-airport-runway-scheduler-efficiency-task
 	url = https://github.com/eaglepointAiLabs/idbqqy-optimized-airport-runway-scheduler-efficiency-task.git
+
+[submodule "6z67vy-implement-async-wildcard-event-broker"]
+	path = 6z67vy-implement-async-wildcard-event-broker
+	url = https://github.com/eaglepointAiLabs/6z67vy-implement-async-wildcard-event-broker.git
