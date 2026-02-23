@@ -2689,3 +2689,7 @@
 [submodule "hsb7jy-binary-differential-snapshot-auditor"]
 	path = hsb7jy-binary-differential-snapshot-auditor
 	url = https://github.com/eaglepointAiLabs/hsb7jy-binary-differential-snapshot-auditor.git
+
+[submodule "vouj3v-succinct-trie-encoded-id-searcher"]
+	path = vouj3v-succinct-trie-encoded-id-searcher
+	url = https://github.com/eaglepointAiLabs/vouj3v-succinct-trie-encoded-id-searcher.git
