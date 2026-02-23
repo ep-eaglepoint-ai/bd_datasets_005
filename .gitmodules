@@ -2477,3 +2477,7 @@
 [submodule "82fyx1-industrial-boiler-optimization-code-refactoring-and-performance-improvement"]
 	path = 82fyx1-industrial-boiler-optimization-code-refactoring-and-performance-improvement
 	url = https://github.com/eaglepointAiLabs/82fyx1-industrial-boiler-optimization-code-refactoring-and-performance-improvement.git
+
+[submodule "dty0oz-implement-conventional-commits-message-linter"]
+	path = dty0oz-implement-conventional-commits-message-linter
+	url = https://github.com/eaglepointAiLabs/dty0oz-implement-conventional-commits-message-linter.git
