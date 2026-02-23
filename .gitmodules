@@ -2677,3 +2677,7 @@
 [submodule "d2goxv-frame-precise-shared-playback"]
 	path = d2goxv-frame-precise-shared-playback
 	url = https://github.com/eaglepointAiLabs/d2goxv-frame-precise-shared-playback.git
+
+[submodule "bo5dgv-ratelimiter-concurrency-reliability-suite"]
+	path = bo5dgv-ratelimiter-concurrency-reliability-suite
+	url = https://github.com/eaglepointAiLabs/bo5dgv-ratelimiter-concurrency-reliability-suite.git
