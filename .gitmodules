@@ -2657,3 +2657,7 @@
 [submodule "okdks2-real-time-weather-aggregator-deterministic-concurrency-test-suite"]
 	path = okdks2-real-time-weather-aggregator-deterministic-concurrency-test-suite
 	url = https://github.com/eaglepointAiLabs/okdks2-real-time-weather-aggregator-deterministic-concurrency-test-suite.git
+
+[submodule "0nehsw-search-bottleneck-resolution"]
+	path = 0nehsw-search-bottleneck-resolution
+	url = https://github.com/eaglepointAiLabs/0nehsw-search-bottleneck-resolution.git
