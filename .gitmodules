@@ -2645,3 +2645,7 @@
 [submodule "e2xl2l-deterministic-test-suite-for-nft-marketplace-with-concurrent-fixed-price-sales"]
 	path = e2xl2l-deterministic-test-suite-for-nft-marketplace-with-concurrent-fixed-price-sales
 	url = https://github.com/eaglepointAiLabs/e2xl2l-deterministic-test-suite-for-nft-marketplace-with-concurrent-fixed-price-sales.git
+
+[submodule "25xaj0-cheque-lifecycle-management-with-dual-balance-ledger"]
+	path = 25xaj0-cheque-lifecycle-management-with-dual-balance-ledger
+	url = https://github.com/eaglepointAiLabs/25xaj0-cheque-lifecycle-management-with-dual-balance-ledger.git
