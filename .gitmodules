@@ -2453,3 +2453,7 @@
 [submodule "g3hj82-spatial-hashing-with-parallel-execution-for-volumetric-physics"]
 	path = g3hj82-spatial-hashing-with-parallel-execution-for-volumetric-physics
 	url = https://github.com/eaglepointAiLabs/g3hj82-spatial-hashing-with-parallel-execution-for-volumetric-physics.git
+
+[submodule "2o9nqc-refactoring-legacy-sentinel-based-error-handling-into-a-typed-error-strategy"]
+	path = 2o9nqc-refactoring-legacy-sentinel-based-error-handling-into-a-typed-error-strategy
+	url = https://github.com/eaglepointAiLabs/2o9nqc-refactoring-legacy-sentinel-based-error-handling-into-a-typed-error-strategy.git
