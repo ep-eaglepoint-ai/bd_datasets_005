@@ -2617,3 +2617,7 @@
 [submodule "i93b58-deterministic-test-suite-for-deadlock-and-thread-leak-in-a-data-dashboard-engine"]
 	path = i93b58-deterministic-test-suite-for-deadlock-and-thread-leak-in-a-data-dashboard-engine
 	url = https://github.com/eaglepointAiLabs/i93b58-deterministic-test-suite-for-deadlock-and-thread-leak-in-a-data-dashboard-engine.git
+
+[submodule "3myjiw-optimizing-a-real-time-subtitle-synchronization-service"]
+	path = 3myjiw-optimizing-a-real-time-subtitle-synchronization-service
+	url = https://github.com/eaglepointAiLabs/3myjiw-optimizing-a-real-time-subtitle-synchronization-service.git
