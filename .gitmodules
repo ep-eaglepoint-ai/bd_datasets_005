@@ -2669,3 +2669,7 @@
 [submodule "wuofdr-deterministic-sequence-clock-sync-hlc"]
 	path = wuofdr-deterministic-sequence-clock-sync-hlc
 	url = https://github.com/eaglepointAiLabs/wuofdr-deterministic-sequence-clock-sync-hlc.git
+
+[submodule "ge3pcx-memory-page-aligned-slab-free-list"]
+	path = ge3pcx-memory-page-aligned-slab-free-list
+	url = https://github.com/eaglepointAiLabs/ge3pcx-memory-page-aligned-slab-free-list.git
