@@ -2577,3 +2577,7 @@
 [submodule "axtw3d-fraud-anomaly-detection-optimization"]
 	path = axtw3d-fraud-anomaly-detection-optimization
 	url = https://github.com/eaglepointAiLabs/axtw3d-fraud-anomaly-detection-optimization.git
+
+[submodule "3dhaym-add-automated-test-suit-for-a-turn-based-strategy-game-engine"]
+	path = 3dhaym-add-automated-test-suit-for-a-turn-based-strategy-game-engine
+	url = https://github.com/eaglepointAiLabs/3dhaym-add-automated-test-suit-for-a-turn-based-strategy-game-engine.git
