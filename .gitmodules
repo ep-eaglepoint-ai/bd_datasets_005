@@ -2585,3 +2585,7 @@
 [submodule "0rkgs7-seq-analyzer-optimization"]
 	path = 0rkgs7-seq-analyzer-optimization
 	url = https://github.com/eaglepointAiLabs/0rkgs7-seq-analyzer-optimization.git
+
+[submodule "pqt7lt-convo2d-implementation"]
+	path = pqt7lt-convo2d-implementation
+	url = https://github.com/eaglepointAiLabs/pqt7lt-convo2d-implementation.git
