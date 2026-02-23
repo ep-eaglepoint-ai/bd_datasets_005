@@ -2685,3 +2685,7 @@
 [submodule "1h4lm5-user-profile-architecture-refactor"]
 	path = 1h4lm5-user-profile-architecture-refactor
 	url = https://github.com/eaglepointAiLabs/1h4lm5-user-profile-architecture-refactor.git
+
+[submodule "hsb7jy-binary-differential-snapshot-auditor"]
+	path = hsb7jy-binary-differential-snapshot-auditor
+	url = https://github.com/eaglepointAiLabs/hsb7jy-binary-differential-snapshot-auditor.git
