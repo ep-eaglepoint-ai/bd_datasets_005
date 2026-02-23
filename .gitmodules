@@ -2693,3 +2693,7 @@
 [submodule "vouj3v-succinct-trie-encoded-id-searcher"]
 	path = vouj3v-succinct-trie-encoded-id-searcher
 	url = https://github.com/eaglepointAiLabs/vouj3v-succinct-trie-encoded-id-searcher.git
+
+[submodule "3czo5z-type-safe-preference-wrapper"]
+	path = 3czo5z-type-safe-preference-wrapper
+	url = https://github.com/eaglepointAiLabs/3czo5z-type-safe-preference-wrapper.git
