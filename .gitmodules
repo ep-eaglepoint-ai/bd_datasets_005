@@ -2429,3 +2429,7 @@
 [submodule "y3rzhd-predictive-maintenance-with-thermal-aging-impedance-drift"]
 	path = y3rzhd-predictive-maintenance-with-thermal-aging-impedance-drift
 	url = https://github.com/eaglepointAiLabs/y3rzhd-predictive-maintenance-with-thermal-aging-impedance-drift.git
+
+[submodule "km8xen-add-a-test-suit-for-a-maritime-navigation-safety-platform"]
+	path = km8xen-add-a-test-suit-for-a-maritime-navigation-safety-platform
+	url = https://github.com/eaglepointAiLabs/km8xen-add-a-test-suit-for-a-maritime-navigation-safety-platform.git
