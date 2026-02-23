@@ -2449,3 +2449,7 @@
 [submodule "vi9jnx-extend-a-content-moderation-queue-service"]
 	path = vi9jnx-extend-a-content-moderation-queue-service
 	url = https://github.com/eaglepointAiLabs/vi9jnx-extend-a-content-moderation-queue-service.git
+
+[submodule "g3hj82-spatial-hashing-with-parallel-execution-for-volumetric-physics"]
+	path = g3hj82-spatial-hashing-with-parallel-execution-for-volumetric-physics
+	url = https://github.com/eaglepointAiLabs/g3hj82-spatial-hashing-with-parallel-execution-for-volumetric-physics.git
