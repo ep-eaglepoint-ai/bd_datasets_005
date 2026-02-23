@@ -2497,3 +2497,7 @@
 [submodule "4952le-optimization-of-cement-plant-kiln-scheduling-and-cost-minimization-system-in-python"]
 	path = 4952le-optimization-of-cement-plant-kiln-scheduling-and-cost-minimization-system-in-python
 	url = https://github.com/eaglepointAiLabs/4952le-optimization-of-cement-plant-kiln-scheduling-and-cost-minimization-system-in-python.git
+
+[submodule "02t57b-implement-pytest-suite-for-url-slug-generator"]
+	path = 02t57b-implement-pytest-suite-for-url-slug-generator
+	url = https://github.com/eaglepointAiLabs/02t57b-implement-pytest-suite-for-url-slug-generator.git
