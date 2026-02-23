@@ -2521,3 +2521,7 @@
 [submodule "44gnh3-fastapi-dependency-injection-test-suite"]
 	path = 44gnh3-fastapi-dependency-injection-test-suite
 	url = https://github.com/eaglepointAiLabs/44gnh3-fastapi-dependency-injection-test-suite.git
+
+[submodule "wchyhz-bidirectional-merchant-settlement-mapping-integrity-test-generation"]
+	path = wchyhz-bidirectional-merchant-settlement-mapping-integrity-test-generation
+	url = https://github.com/eaglepointAiLabs/wchyhz-bidirectional-merchant-settlement-mapping-integrity-test-generation.git
