@@ -2581,3 +2581,7 @@
 [submodule "3dhaym-add-automated-test-suit-for-a-turn-based-strategy-game-engine"]
 	path = 3dhaym-add-automated-test-suit-for-a-turn-based-strategy-game-engine
 	url = https://github.com/eaglepointAiLabs/3dhaym-add-automated-test-suit-for-a-turn-based-strategy-game-engine.git
+
+[submodule "0rkgs7-seq-analyzer-optimization"]
+	path = 0rkgs7-seq-analyzer-optimization
+	url = https://github.com/eaglepointAiLabs/0rkgs7-seq-analyzer-optimization.git
