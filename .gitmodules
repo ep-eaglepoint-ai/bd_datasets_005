@@ -2557,3 +2557,7 @@
 [submodule "sg5m4l-refactor-metadata-tag-extraction-to-robust-tagprocessor"]
 	path = sg5m4l-refactor-metadata-tag-extraction-to-robust-tagprocessor
 	url = https://github.com/eaglepointAiLabs/sg5m4l-refactor-metadata-tag-extraction-to-robust-tagprocessor.git
+
+[submodule "cl6p31-internal-backend-service-optimzation"]
+	path = cl6p31-internal-backend-service-optimzation
+	url = https://github.com/eaglepointAiLabs/cl6p31-internal-backend-service-optimzation.git
