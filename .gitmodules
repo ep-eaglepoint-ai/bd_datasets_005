@@ -2597,3 +2597,7 @@
 [submodule "kymbpr-maximum-profit-stock-implementation"]
 	path = kymbpr-maximum-profit-stock-implementation
 	url = https://github.com/eaglepointAiLabs/kymbpr-maximum-profit-stock-implementation.git
+
+[submodule "5kctoc-linear-regiression-implementation"]
+	path = 5kctoc-linear-regiression-implementation
+	url = https://github.com/eaglepointAiLabs/5kctoc-linear-regiression-implementation.git
