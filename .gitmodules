@@ -2569,3 +2569,7 @@
 [submodule "m5hhvw-bulk-inventory-reconciliatiom"]
 	path = m5hhvw-bulk-inventory-reconciliatiom
 	url = https://github.com/eaglepointAiLabs/m5hhvw-bulk-inventory-reconciliatiom.git
+
+[submodule "bc2xqu-java-builder-pattern-extraction"]
+	path = bc2xqu-java-builder-pattern-extraction
+	url = https://github.com/eaglepointAiLabs/bc2xqu-java-builder-pattern-extraction.git
