@@ -2653,3 +2653,7 @@
 [submodule "sh1fci-vitest-test-suite-for-human-name-formatting-utility"]
 	path = sh1fci-vitest-test-suite-for-human-name-formatting-utility
 	url = https://github.com/eaglepointAiLabs/sh1fci-vitest-test-suite-for-human-name-formatting-utility.git
+
+[submodule "okdks2-real-time-weather-aggregator-deterministic-concurrency-test-suite"]
+	path = okdks2-real-time-weather-aggregator-deterministic-concurrency-test-suite
+	url = https://github.com/eaglepointAiLabs/okdks2-real-time-weather-aggregator-deterministic-concurrency-test-suite.git
