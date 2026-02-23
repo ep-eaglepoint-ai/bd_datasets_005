@@ -2461,3 +2461,7 @@
 [submodule "825c3k-deterministic-tests-for-a-concurrent-cached-aggregator"]
 	path = 825c3k-deterministic-tests-for-a-concurrent-cached-aggregator
 	url = https://github.com/eaglepointAiLabs/825c3k-deterministic-tests-for-a-concurrent-cached-aggregator.git
+
+[submodule "g0lvyq-atomic-wallet-transfer-with-deterministic-row-locking"]
+	path = g0lvyq-atomic-wallet-transfer-with-deterministic-row-locking
+	url = https://github.com/eaglepointAiLabs/g0lvyq-atomic-wallet-transfer-with-deterministic-row-locking.git
