@@ -2445,3 +2445,7 @@
 [submodule "sjx1xb-coordinated-threat-detection-via-connected-components"]
 	path = sjx1xb-coordinated-threat-detection-via-connected-components
 	url = https://github.com/eaglepointAiLabs/sjx1xb-coordinated-threat-detection-via-connected-components.git
+
+[submodule "vi9jnx-extend-a-content-moderation-queue-service"]
+	path = vi9jnx-extend-a-content-moderation-queue-service
+	url = https://github.com/eaglepointAiLabs/vi9jnx-extend-a-content-moderation-queue-service.git
