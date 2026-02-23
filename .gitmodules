@@ -2433,3 +2433,7 @@
 [submodule "km8xen-add-a-test-suit-for-a-maritime-navigation-safety-platform"]
 	path = km8xen-add-a-test-suit-for-a-maritime-navigation-safety-platform
 	url = https://github.com/eaglepointAiLabs/km8xen-add-a-test-suit-for-a-maritime-navigation-safety-platform.git
+
+[submodule "usi4dk-fhdsdv-sdjf"]
+	path = usi4dk-fhdsdv-sdjf
+	url = https://github.com/eaglepointAiLabs/usi4dk-fhdsdv-sdjf.git
