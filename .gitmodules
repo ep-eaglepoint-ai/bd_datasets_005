@@ -2661,3 +2661,7 @@
 [submodule "0nehsw-search-bottleneck-resolution"]
 	path = 0nehsw-search-bottleneck-resolution
 	url = https://github.com/eaglepointAiLabs/0nehsw-search-bottleneck-resolution.git
+
+[submodule "df5pi0-hierarchical-bit-vector-access-auditor-tests"]
+	path = df5pi0-hierarchical-bit-vector-access-auditor-tests
+	url = https://github.com/eaglepointAiLabs/df5pi0-hierarchical-bit-vector-access-auditor-tests.git
