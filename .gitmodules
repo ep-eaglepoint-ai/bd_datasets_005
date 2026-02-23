@@ -2501,3 +2501,7 @@
 [submodule "02t57b-implement-pytest-suite-for-url-slug-generator"]
 	path = 02t57b-implement-pytest-suite-for-url-slug-generator
 	url = https://github.com/eaglepointAiLabs/02t57b-implement-pytest-suite-for-url-slug-generator.git
+
+[submodule "5hfi4v-optimizing-lng-storage-and-regasification-code-for-efficiency-and-readability"]
+	path = 5hfi4v-optimizing-lng-storage-and-regasification-code-for-efficiency-and-readability
+	url = https://github.com/eaglepointAiLabs/5hfi4v-optimizing-lng-storage-and-regasification-code-for-efficiency-and-readability.git
