@@ -2561,3 +2561,7 @@
 [submodule "cl6p31-internal-backend-service-optimzation"]
 	path = cl6p31-internal-backend-service-optimzation
 	url = https://github.com/eaglepointAiLabs/cl6p31-internal-backend-service-optimzation.git
+
+[submodule "hgokkk-refactor-legacy-config-parser-into-robust-configregistry"]
+	path = hgokkk-refactor-legacy-config-parser-into-robust-configregistry
+	url = https://github.com/eaglepointAiLabs/hgokkk-refactor-legacy-config-parser-into-robust-configregistry.git
