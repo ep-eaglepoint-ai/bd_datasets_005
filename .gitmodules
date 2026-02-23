@@ -2529,3 +2529,7 @@
 [submodule "m5dsma-cement-kiln-scheduling-optimization-pyomo-milp-implementation"]
 	path = m5dsma-cement-kiln-scheduling-optimization-pyomo-milp-implementation
 	url = https://github.com/eaglepointAiLabs/m5dsma-cement-kiln-scheduling-optimization-pyomo-milp-implementation.git
+
+[submodule "zc6p5f-lng-storage-and-regasification-optimization-system"]
+	path = zc6p5f-lng-storage-and-regasification-optimization-system
+	url = https://github.com/eaglepointAiLabs/zc6p5f-lng-storage-and-regasification-optimization-system.git
