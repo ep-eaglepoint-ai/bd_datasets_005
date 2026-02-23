@@ -2417,3 +2417,7 @@
 [submodule "aa6fnq-http-client-connection-pool-leak-fix"]
 	path = aa6fnq-http-client-connection-pool-leak-fix
 	url = https://github.com/eaglepointAiLabs/aa6fnq-http-client-connection-pool-leak-fix.git
+
+[submodule "s30yl2-sqlalchemy-bulk-upsert-race-condition-fix"]
+	path = s30yl2-sqlalchemy-bulk-upsert-race-condition-fix
+	url = https://github.com/eaglepointAiLabs/s30yl2-sqlalchemy-bulk-upsert-race-condition-fix.git
