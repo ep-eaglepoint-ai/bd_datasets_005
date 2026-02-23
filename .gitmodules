@@ -2549,3 +2549,7 @@
 [submodule "qgak41-reverse-linked-list-pc-offers"]
 	path = qgak41-reverse-linked-list-pc-offers
 	url = https://github.com/eaglepointAiLabs/qgak41-reverse-linked-list-pc-offers.git
+
+[submodule "c7xzgq-password-policy-enforcer-comprehensive-test-suite"]
+	path = c7xzgq-password-policy-enforcer-comprehensive-test-suite
+	url = https://github.com/eaglepointAiLabs/c7xzgq-password-policy-enforcer-comprehensive-test-suite.git
