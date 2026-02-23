@@ -2441,3 +2441,7 @@
 [submodule "517k9r-concurrent-cache-deterministic-test-suite"]
 	path = 517k9r-concurrent-cache-deterministic-test-suite
 	url = https://github.com/eaglepointAiLabs/517k9r-concurrent-cache-deterministic-test-suite.git
+
+[submodule "sjx1xb-coordinated-threat-detection-via-connected-components"]
+	path = sjx1xb-coordinated-threat-detection-via-connected-components
+	url = https://github.com/eaglepointAiLabs/sjx1xb-coordinated-threat-detection-via-connected-components.git
