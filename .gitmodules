@@ -2713,3 +2713,7 @@
 [submodule "kozutq-extensible-and-testable-sensor-processor"]
 	path = kozutq-extensible-and-testable-sensor-processor
 	url = https://github.com/eaglepointAiLabs/kozutq-extensible-and-testable-sensor-processor.git
+
+[submodule "yleqna-extensible-and-testable-document-classifier"]
+	path = yleqna-extensible-and-testable-document-classifier
+	url = https://github.com/eaglepointAiLabs/yleqna-extensible-and-testable-document-classifier.git
