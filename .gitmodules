@@ -2725,3 +2725,7 @@
 [submodule "z6jlo7-modular-api-gateway-router"]
 	path = z6jlo7-modular-api-gateway-router
 	url = https://github.com/eaglepointAiLabs/z6jlo7-modular-api-gateway-router.git
+
+[submodule "dn4opm-privacy-first-media-picker"]
+	path = dn4opm-privacy-first-media-picker
+	url = https://github.com/eaglepointAiLabs/dn4opm-privacy-first-media-picker.git
