@@ -2709,3 +2709,7 @@
 [submodule "cnlcvp-streaming-header-sync-resynchronizer"]
 	path = cnlcvp-streaming-header-sync-resynchronizer
 	url = https://github.com/eaglepointAiLabs/cnlcvp-streaming-header-sync-resynchronizer.git
+
+[submodule "kozutq-extensible-and-testable-sensor-processor"]
+	path = kozutq-extensible-and-testable-sensor-processor
+	url = https://github.com/eaglepointAiLabs/kozutq-extensible-and-testable-sensor-processor.git
