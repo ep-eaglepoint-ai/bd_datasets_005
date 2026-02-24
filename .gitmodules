@@ -2721,3 +2721,7 @@
 [submodule "3jvcbd-modular-authentication-processor"]
 	path = 3jvcbd-modular-authentication-processor
 	url = https://github.com/eaglepointAiLabs/3jvcbd-modular-authentication-processor.git
+
+[submodule "z6jlo7-modular-api-gateway-router"]
+	path = z6jlo7-modular-api-gateway-router
+	url = https://github.com/eaglepointAiLabs/z6jlo7-modular-api-gateway-router.git
