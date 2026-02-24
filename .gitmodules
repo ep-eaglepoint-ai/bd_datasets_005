@@ -2717,3 +2717,7 @@
 [submodule "yleqna-extensible-and-testable-document-classifier"]
 	path = yleqna-extensible-and-testable-document-classifier
 	url = https://github.com/eaglepointAiLabs/yleqna-extensible-and-testable-document-classifier.git
+
+[submodule "3jvcbd-modular-authentication-processor"]
+	path = 3jvcbd-modular-authentication-processor
+	url = https://github.com/eaglepointAiLabs/3jvcbd-modular-authentication-processor.git
